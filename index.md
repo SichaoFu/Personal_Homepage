@@ -37,4 +37,5 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 * 全国大学生“互联网+”创新大赛华东赛区二等奖, 2017
 * 第十五届研究生“博萃节”科技学术活动优秀组织者, 2017
 * 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
+* Qualification of Computer and Software Professional, 2018
 
