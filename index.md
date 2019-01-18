@@ -23,4 +23,4 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 * The Comparison of Different Graph Convolutional Neural Networks for Image Recognition
      * Sichao Fu, Xinghao Yang and Weifeng Liu, Senior Member, IEEE
      * International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)
-* ![baidu](http://www.baidu.com/img/bdlogo.gif)  
+* ![The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](http://www.baidu.com/img/bdlogo.gif)  
