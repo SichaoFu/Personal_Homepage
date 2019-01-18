@@ -3,8 +3,10 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 * Email: fusichao_upc@163.com 
 
 ## Research interests
-* Machine Learning, Manifold Learning and Deep Learning
-     * graph convolution neworks (GCN)
+* Machine Learning
+* Manifold Learning
+* Deep Learning
+* Graph convolution neworks (GCN)
     
 ## Education
 * 2013.09-2017.06, College Of Information Science and Engineering, Linyi University, B.S. degree in communication engineering;
