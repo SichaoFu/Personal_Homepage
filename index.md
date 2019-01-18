@@ -1,3 +1,1 @@
-Welcome to Sichao Fu's Pages
-===========================
----------------------------
+# Welcome to Sichao Fu's Pages
