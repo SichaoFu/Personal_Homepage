@@ -1,17 +1,17 @@
 # Welcome to Sichao Fu's Pages
 Sichao Fu is currently a graduate student with the College of Information and Control Engineering, China University of Petroleum (East China), China. He received the B.S. degree in communication engineering from the Linyi University, Linyi, China, in 2017. I've served as a reviewer for "Neural Processing Letters".
 
-### Research interests
+## Research interests
 * Machine Learning
 * Manifold Learning
 * Deep Learning
     * graph convolution neworks(GCN)
     
-### Education
+## Education
 * 2013.09-2017.06, Linyi University, College Of Information Science and Engineering, B.S. degree in communication engineering;
 * 2017.09-       , China University of Petroleum (East China),College of Information and Control Engineering, graduate student in electronics and communication engineering.
 
-### Projects
+## Projects
 * Image annotation based on multiview depth sparse coding and Manifold Regularization
    * Project Member
    * Funded by: National Natural Science Foundation of China (2017.01-2020.12）
