@@ -9,8 +9,8 @@ Sichao Fu is currently a graduate student with the College of Information and Co
      * graph convolution neworks (GCN)
     
 ## Education
-* 2013.09-2017.06, Linyi University, College Of Information Science and Engineering, B.S. degree in communication engineering;
-* 2017.09-       , China University of Petroleum (East China),College of Information and Control Engineering, graduate student in electronics and communication engineering.
+* 2013.09-2017.06, College Of Information Science and Engineering, Linyi University, B.S. degree in communication engineering;
+* 2017.09-       , College of Information and Control Engineering, China University of Petroleum (East China), graduate student in electronics and communication engineering.
 
 ## Projects
 * Image annotation based on multiview depth sparse coding and Manifold Regularization
