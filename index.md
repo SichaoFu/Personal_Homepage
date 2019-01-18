@@ -16,6 +16,7 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 * 研究骨干培训班, 2017 
 
 
+
 ## Projects
 * Image annotation based on multiview depth sparse coding and Manifold Regularization (2017.01-2020.12）
      * Project Member
@@ -32,3 +33,6 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 ## Honors and awards
 * Third prize of Academic Scholarship, 2017
 * First prize of Graduate Electronic Design Competition in Qingdao, 2017
+* “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
+* 第十五届研究生“博萃节”科技学术活动优秀组织者, 2017
+
