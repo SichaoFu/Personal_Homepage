@@ -13,6 +13,7 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 * 2017.09-       , College of Information and Control Engineering, China University of Petroleum (East China), graduate student in electronics and communication engineering.
 
 ## Experiences
+* 研究骨干培训班, 2017 
 
 
 ## Projects
