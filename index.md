@@ -5,7 +5,7 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 * Machine Learning
 * Manifold Learning
 * Deep Learning
-    * graph convolution neworks (GCN)
+      * graph convolution neworks (GCN)
     
 ## Education
 * 2013.09-2017.06, Linyi University, College Of Information Science and Engineering, B.S. degree in communication engineering;
@@ -13,13 +13,13 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 
 ## Projects
 * Image annotation based on multiview depth sparse coding and Manifold Regularization
-   * Project Member
-   * Funded by: National Natural Science Foundation of China (2017.01-2020.12）
+      * Project Member
+      * Funded by: National Natural Science Foundation of China (2017.01-2020.12）
 * Research of the person re-identification algorithms based on Metric learning
-   * Project Member
-   * Funded by: Graduate Student Innovation Project Funding of China University of Petroleum (2018.06-2019.06)
+      * Project Member
+      * Funded by: Graduate Student Innovation Project Funding of China University of Petroleum (2018.06-2019.06)
 
 ## Publications
 * The Comparison of Different Graph Convolutional Neural Networks for Image Recognition
-   * Sichao Fu，Xinghao Yang and Weifeng Liu，Senior Member，IEEE
-   * International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)
+      * Sichao Fu，Xinghao Yang and Weifeng Liu，Senior Member，IEEE
+      * International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)
