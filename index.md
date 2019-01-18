@@ -5,7 +5,7 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 * Machine Learning
 * Manifold Learning
 * Deep Learning
-    * graph convolution neworks(GCN)
+    * graph convolution neworks (GCN)
     
 ## Education
 * 2013.09-2017.06, Linyi University, College Of Information Science and Engineering, B.S. degree in communication engineering;
