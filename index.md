@@ -18,3 +18,6 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 * Research of the person re-identification algorithms based on Metric learning
    * Project Member
    * Funded by: Graduate Student Innovation Project Funding of China University of Petroleum (2018.06-2019.06)
+
+## Publications
+* 
