@@ -3,3 +3,7 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 * Email: fusichao_upc@163.com
 * 2013.09-2017.06, Linyi University, College Of Information Science and Engineering, B.S. degree in communication engineering;
 * 2017.09-       , China University of Petroleum (East China),College of Information and Control Engineering, graduate student in electronics and communication engineering;
+# Projects
+* Image annotation based on multiview depth sparse coding and Manifold Regularization <bar>
+  Project Member <bar>
+  Funded by: National Natural Science Foundation of China
