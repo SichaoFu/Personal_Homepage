@@ -27,3 +27,4 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 
 ## Honors and awards
 * Third prize of Academic Scholarship, 2017
+* First prize of Graduate Electronic Design Competition in Qingdao, 2017
