@@ -7,5 +7,5 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 
 ### Projects
 * Image annotation based on multiview depth sparse coding and Manifold Regularization<bar>
-  * Project Member
-  * Funded by: National Natural Science Foundation of China
+   * Project Member
+   * Funded by: National Natural Science Foundation of China
