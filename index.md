@@ -13,12 +13,12 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 * 2017.09-       , College of Information and Control Engineering, China University of Petroleum (East China), graduate student in electronics and communication engineering.
 
 ## Projects
-* Image annotation based on multiview depth sparse coding and Manifold Regularization
+* Image annotation based on multiview depth sparse coding and Manifold Regularization (2017.01-2020.12）
      * Project Member
-     * Funded by: National Natural Science Foundation of China (2017.01-2020.12）
-* Research of the person re-identification algorithms based on Metric learning
+     * Funded by: National Natural Science Foundation of China 
+* Research of the person re-identification algorithms based on Metric learning (2018.06-2019.06)
      * Project Member
-     * Funded by: Graduate Student Innovation Project Funding of China University of Petroleum (2018.06-2019.06)
+     * Funded by: Graduate Student Innovation Project Funding of China University of Petroleum 
 
 ## Publications
 * [The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](https://dl.acm.org/citation.cfm?id=3240915)
