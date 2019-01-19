@@ -1,7 +1,7 @@
 # Welcome to Sichao Fu's Pages
 
-###### [Research interests]()|[Education]()         |[Projects]()
-###### [Publications]()      |[Honors and awards]()|[Experiences]()
+###### [Research interests]()|[Education]()|[Projects]()
+###### [Publications]()|[Honors and awards]()|[Experiences]()
 
 Sichao Fu is currently a graduate student with the College of Information and Control Engineering, China University of Petroleum (East China), Qingdao, China. He received the B.S. degree in communication engineering from the Linyi University, Linyi, China, in 2017. He has served as a reviewer for "Neural Processing Letters".  
 * Email: fusichao_upc@163.com 
