@@ -43,5 +43,5 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 * 研究骨干培训班, 2017 
 * 山东省研究生暑假学校--“机器人与智能控制技术”, 2018
 
-[top](#readme)
+[Top](#readme)
 
