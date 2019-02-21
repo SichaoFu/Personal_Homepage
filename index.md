@@ -1,3 +1,4 @@
+---
 # Welcome to Sichao Fu's Pages
 
 |[Research interests](#research-interests)|[Education](#education)|[Projects](#projects)|
