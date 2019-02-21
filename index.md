@@ -11,6 +11,7 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 * Address: Room E1310, Engineering Building E, No.66 Changjiang West Road, Huangdao District, Qingdao 266580,China
 * Email: fusichao_upc@163.com 
 
+---
 ## Research interests
 * Machine Learning
 * Manifold Learning
