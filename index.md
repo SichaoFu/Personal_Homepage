@@ -42,10 +42,10 @@ Sichao Fu is currently a graduate student with the College of Information and Co
      * International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)
      
 ##### Journals
-*
+* []()
 
 ##### China patent
-*
+* []()
 
 ---
 
