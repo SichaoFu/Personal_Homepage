@@ -43,7 +43,7 @@ Sichao Fu is currently a graduate student with the College of Information and Co
      
 ### Journals
 
-### China patent
+### China patents
 
 ---
 
