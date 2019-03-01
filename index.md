@@ -42,7 +42,6 @@ Sichao Fu is currently a graduate student with the College of Information and Co
      * International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)
      
 ### Journals
-* [The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](https://dl.acm.org/citation.cfm?id=3240915)
 
 ### China patent
 
