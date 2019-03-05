@@ -4,7 +4,7 @@
 |[Publications](#publications)|[Honors and awards](#honors-and-awards)|[Experiences](#experiences)|
 
 ---
-Sichao Fu is currently a postgraduate student in electronics and communication engineering from the College of Information and Control Engineering, China University of Petroleum (East China), Qingdao, China. He received the B.Eng. degree in communication engineering from the Linyi University, Linyi, China, in 2017. He has served as a reviewer for "Neural Processing Letters" and "IEEE Transactions on Circuits and Systems for Video Technology".  
+Sichao Fu is currently a postgraduate student in electronics and communication engineering from the College of Information and Control Engineering, China University of Petroleum (East China), Qingdao, China. He received the B.Eng. degree in communication engineering from the School of Information Science and Engineering, Linyi University, Linyi, China, in 2017. He has served as a reviewer for "Neural Processing Letters" and "IEEE Transactions on Circuits and Systems for Video Technology".  
 * Address: No.66 Changjiang West Road, Huangdao District, Qingdao 266580,China
 * Email: fusichao_upc@163.com 
 
@@ -19,8 +19,8 @@ Sichao Fu is currently a postgraduate student in electronics and communication e
 ---
 
 ## Education
-* 2013.09-2017.06, College Of Information Science and Engineering, [Linyi University](https://baike.baidu.com/item/%E4%B8%B4%E6%B2%82%E5%A4%A7%E5%AD%A6/297891?fr=aladdin), B.S. degree in communication engineering;
-* 2017.09-       , College of Information and Control Engineering, [China University of Petroleum (East China)](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%EF%BC%88%E5%8D%8E%E4%B8%9C%EF%BC%89/4322667?fromtitle=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%28%E5%8D%8E%E4%B8%9C%29&fromid=6869367&fr=aladdin), graduate student in electronics and communication engineering.
+* 2013.09-2017.06, B.Eng. degree in communication engineeringCollege, Information Science and Engineering, [Linyi University](https://baike.baidu.com/item/%E4%B8%B4%E6%B2%82%E5%A4%A7%E5%AD%A6/297891?fr=aladdin);
+* 2017.09-       , a postgraduate student in electronics and communication engineering, College of Information and Control Engineering, [China University of Petroleum (East China)](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%EF%BC%88%E5%8D%8E%E4%B8%9C%EF%BC%89/4322667?fromtitle=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%28%E5%8D%8E%E4%B8%9C%29&fromid=6869367&fr=aladdin).
 
 ---
 
