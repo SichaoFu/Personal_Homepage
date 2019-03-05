@@ -1,7 +1,7 @@
 # Welcome to Sichao Fu's Pages
 
-|[Research interests](#research-interests)|[Education](#education)|[Publications](#publications)|
-|[Patents](#patents)|[Projects](#projects)|[Honors and Awards](#honors-and-awards)|
+|[Research interests](#research-interests)|[Education](#education)|[Publications](#publications)
+|[Patents](#patents)|[Projects](#projects)|[Honors and Awards](#honors-and-awards)
 |[Experiences](#experiences)|
 
 ---
