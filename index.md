@@ -1,7 +1,8 @@
 # Welcome to Sichao Fu's Pages
 
-|[Research interests](#research-interests)|[Education](#education)|[Projects](#projects)|
-|[Publications](#publications)|[Honors and Awards](#honors-and-awards)|[Experiences](#experiences)|
+|[Research interests](#research-interests)|[Education](#education)|[Publications](#publications)|
+|[Patents](#patents)|[Projects](#projects)|[Honors and Awards](#honors-and-awards)|
+|[Experiences](#experiences)|
 
 ---
 Sichao Fu is currently a postgraduate student in electronics and communication engineering from the College of Information and Control Engineering, China University of Petroleum (East China), Qingdao, China. He received the B.Eng. degree in communication engineering from the College of Information Science and Engineering, Linyi University, Linyi, China, in 2017. He has served as a reviewer for "Neural Processing Letters" and "IEEE Transactions on Circuits and Systems for Video Technology".  
@@ -24,6 +25,26 @@ Sichao Fu is currently a postgraduate student in electronics and communication e
 
 ---
 
+## Publications
+### Journal papers
+* Sichao Fu, Weifeng Liu, Dapeng Tao, Yicong Zhou. $p$ - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Neural Networks and Learning Systems. Impact factor: 7.982, Under Review.
+* Sichao Fu, Weifeng Liu, Dapeng Tao, Yicong Zhou. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Circuits and Systems for Video Technology. Impact factor: 3.558, Under Review.
+* Sichao Fu, Weifeng Liu, Yicong Zhou, Liqiang Nie. HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks. Neurocomputing. Impact factor: 3.241, Under Review.
+* Sichao Fu, Weifeng Liu, Li Shuying, Yicong Zhou. A Two-Order Graph Convolutional Networks for Semi-Supervised Classification. IET Image Processing. Impact factor: 1.401, Under Review.
+
+### Conference papers
+* Sichao Fu, Xinghao Yang, Weifeng Liu. “[The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](https://doi.org/10.1145/3240876.3240915)”. The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018).  
+
+---
+
+## Patents
+* Semi-supervised classification method based on $p$-Laplacian graph convolutional neural networks
+  * Second Applicant
+* Semi-supervised classification method based on hypergraph $p$-Laplacian graph convolutional neural networks
+  Second Applicant*
+
+---
+
 ## Projects
 * Image annotation based on multiview depth sparse coding and Manifold Regularization (2017.01-2020.12）
      * Project Member
@@ -33,18 +54,7 @@ Sichao Fu is currently a postgraduate student in electronics and communication e
      * Project Member
      * Funded by: Graduate Student Innovation Project Funding of China University of Petroleum  
      * Grant Number: YCX2018064
-
----
-
-## Publications
-### Journal papers
-* Sichao Fu, Weifeng Liu, Dapeng Tao, Yicong Zhou. $p$ - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Neural Networks and Learning Systems. Impact factor: 7.982, Under Review.
-* Sichao Fu, Weifeng Liu, Dapeng Tao, Yicong Zhou. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Circuits and Systems for Video Technology. Impact factor: 3.558, Under Review.
-* Sichao Fu, Weifeng Liu, Yicong Zhou, Liqiang Nie. HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks. Neurocomputing. Impact factor: 3.241, Under Review.
-* Sichao Fu, Weifeng Liu, Li Shuying, Yicong Zhou. A Two-Order Graph Convolutional Networks for Semi-Supervised Classification. IET Image Processing. Impact factor: 1.401, Under Review.
-
-### Conference papers
-* Sichao Fu, Xinghao Yang, Weifeng Liu. “[The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](https://doi.org/10.1145/3240876.3240915)”. The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018).   
+     
 ---
 
 ## Honors and Awards
