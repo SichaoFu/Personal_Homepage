@@ -44,13 +44,13 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 
 ## Honors and awards
 * Third prize of Academic Scholarship, 2017
-* First prize of Graduate Electronic Design Competition in Qingdao, 2017
 * “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
 * 全国大学生“互联网+”创新大赛华东赛区二等奖, 2017
+* First prize of Graduate Electronic Design Competition in Qingdao, 2017
 * 第十五届研究生“博萃节”科技学术活动优秀组织者, 2017
 * 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
-* Qualification of Computer and Software Professional, 2018
 * 中国石油大学(华东)共青团“一起答”纪念改革开放40周年知识竞赛一等奖, 2018
+* Qualification of Computer and Software Professional, 2018
 
 ---
 
