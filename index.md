@@ -15,7 +15,7 @@ Sichao Fu is currently a graduate student with the College of Information and Co
 * Machine Learning
 * Manifold Learning
 * Deep Learning
-* [Graph Convolution Neworks (GCN)](https://arxiv.org/pdf/1609.02907.pdf) 
+* [Graph Convolution Neworks (GCN)] 
 
 ---
 
