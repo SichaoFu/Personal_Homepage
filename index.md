@@ -12,7 +12,7 @@ Sichao Fu is currently a postgraduate student in electronics and communication e
 
 ## Research Interests
 * Machine Learning
-* Manifold Learning
+* Pattern recognition
 * Deep Learning
 * Graph Convolution Neworks (GCN)
 
