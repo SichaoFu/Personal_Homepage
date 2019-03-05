@@ -41,7 +41,7 @@ Sichao Fu is currently a postgraduate student in electronics and communication e
 * Semi-supervised classification method based on $p$-Laplacian graph convolutional neural networks
   * Second Applicant
 * Semi-supervised classification method based on hypergraph $p$-Laplacian graph convolutional neural networks
-  Second Applicant
+  * Second Applicant
 
 ---
 
