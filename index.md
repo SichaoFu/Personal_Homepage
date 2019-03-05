@@ -10,7 +10,7 @@ Sichao Fu is currently a postgraduate student in electronics and communication e
 
 ---
 
-## Research interests
+## Research Interests
 * Machine Learning
 * Manifold Learning
 * Deep Learning
@@ -41,7 +41,7 @@ Sichao Fu is currently a postgraduate student in electronics and communication e
      
 ---
 
-## Honors and awards
+## Honors and Awards
 * Third prize of Academic Scholarship, 2017
 * “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
 * 全国大学生“互联网+”创新大赛华东赛区二等奖, 2017
