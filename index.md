@@ -1,7 +1,7 @@
 # Welcome to Sichao Fu's Pages
 
 |[Research interests](#research-interests)|[Education](#education)|[Publications](#publications)
-|[Patents](#patents)|[Projects](#projects)|[Honors and Awards](#honors-and-awards)
+|[Chinese Patents](#chinese-patents)|[Projects](#projects)|[Honors and Awards](#honors-and-awards)
 |[Experiences](#experiences)|[Journal Reviewer](#journal-reviewer)|
 
 ---
@@ -37,7 +37,7 @@ Sichao Fu is currently a postgraduate student in electronics and communication e
 
 ---
 
-## Patents
+## Chinese Patents
 * Weifeng Liu, Sichao Fu. "Semi-supervised classification method based on $p$-Laplacian graph convolutional neural networks".
 * Weifeng Liu, Sichao Fu. "Semi-supervised classification method based on hypergraph $p$-Laplacian graph convolutional neural networks".
 
