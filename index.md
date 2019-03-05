@@ -1,7 +1,7 @@
 # Welcome to Sichao Fu's Pages
 
 |[Research interests](#research-interests)|[Education](#education)|[Projects](#projects)|
-|[Publications](#publications)|[Honors and awards](#honors-and-awards)|[Experiences](#experiences)|
+|[Publications](#publications)|[Honors and Awards](#honors-and-awards)|[Experiences](#experiences)|
 
 ---
 Sichao Fu is currently a postgraduate student in electronics and communication engineering from the College of Information and Control Engineering, China University of Petroleum (East China), Qingdao, China. He received the B.Eng. degree in communication engineering from the College of Information Science and Engineering, Linyi University, Linyi, China, in 2017. He has served as a reviewer for "Neural Processing Letters" and "IEEE Transactions on Circuits and Systems for Video Technology".  
