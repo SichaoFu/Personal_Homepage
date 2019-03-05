@@ -1,6 +1,6 @@
 # Welcome to Sichao Fu's Pages
 
-|[Research interests](#research-interests)|[Education](#education)|[Publications](#publications)
+|[Research Interests](#research-interests)|[Education](#education)|[Publications](#publications)
 |[Chinese Patents](#chinese-patents)|[Projects](#projects)|[Honors and Awards](#honors-and-awards)
 |[Experiences](#experiences)|[Journal Reviewer](#journal-reviewer)|
 
