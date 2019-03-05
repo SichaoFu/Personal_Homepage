@@ -28,9 +28,11 @@ Sichao Fu is currently a postgraduate student in electronics and communication e
 * Image annotation based on multiview depth sparse coding and Manifold Regularization (2017.01-2020.12）
      * Project Member
      * Funded by: National Natural Science Foundation of China 
+     * Grant Number: 61671480
 * Research of the person re-identification algorithms based on Metric Learning (2018.06-2019.06)
      * Project Member
      * Funded by: Graduate Student Innovation Project Funding of China University of Petroleum  
+     * Grant Number: YCX2018064
 
 ---
 
