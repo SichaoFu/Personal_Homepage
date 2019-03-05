@@ -26,13 +26,13 @@ Sichao Fu is currently a postgraduate student in electronics and communication e
 ---
 
 ## Publications
-### Journal papers
+#### Journal papers
 * Sichao Fu, Weifeng Liu, Dapeng Tao, Yicong Zhou. $p$ - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Neural Networks and Learning Systems. Impact factor: 7.982, Under Review.
 * Sichao Fu, Weifeng Liu, Dapeng Tao, Yicong Zhou. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Circuits and Systems for Video Technology. Impact factor: 3.558, Under Review.
 * Sichao Fu, Weifeng Liu, Yicong Zhou, Liqiang Nie. HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks. Neurocomputing. Impact factor: 3.241, Under Review.
 * Sichao Fu, Weifeng Liu, Li Shuying, Yicong Zhou. A Two-Order Graph Convolutional Networks for Semi-Supervised Classification. IET Image Processing. Impact factor: 1.401, Under Review.
 
-### Conference papers
+#### Conference papers
 * Sichao Fu, Xinghao Yang, Weifeng Liu. “[The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](https://doi.org/10.1145/3240876.3240915)”. The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018).  
 
 ---
@@ -56,7 +56,7 @@ Sichao Fu is currently a postgraduate student in electronics and communication e
 ---
 
 ## Honors and Awards
-### Postgraduate
+#### Postgraduate
 * Third prize of Academic Scholarship, 2017
 * “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
 * 全国大学生“互联网+”创新大赛华东赛区二等奖, 2017
@@ -66,7 +66,7 @@ Sichao Fu is currently a postgraduate student in electronics and communication e
 * Certificate of Computer and Software Professional Qualification, 2018
 * 中国石油大学(华东)共青团“一起答”纪念改革开放40周年知识竞赛一等奖, 2018
 
-### Undergraduate
+#### Undergraduate
 * 奖学金18项（学业奖学金4项，学科竞赛奖学金14项）
 * 学科竞赛获奖11项 （国家级5项，省级9项）
 * 发表3篇一作普刊论文
