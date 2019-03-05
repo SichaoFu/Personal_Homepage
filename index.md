@@ -41,10 +41,6 @@ Sichao Fu is currently a graduate student with the College of Information and Co
      * Sichao Fu, Xinghao Yang and Weifeng Liu, Senior Member, IEEE
      * International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)
      
-### Journals
-
-### China patents
-
 ---
 
 ## Honors and awards
