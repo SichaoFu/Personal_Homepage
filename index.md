@@ -33,7 +33,7 @@
 * **Sichao Fu**, Weifeng Liu, Li Shuying, Yicong Zhou. A Two-Order Graph Convolutional Networks for Semi-Supervised Classification. IET Image Processing. Impact factor: 1.401, Under Review.
 
 #### Conference papers
-* **Sichao Fu**, Xinghao Yang, Weifeng Liu. “[The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](https://doi.org/10.1145/3240876.3240915)”. The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018).  
+* **Sichao Fu**, Xinghao Yang, Weifeng Liu. [The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](https://doi.org/10.1145/3240876.3240915). The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018).  
 
 ---
 
