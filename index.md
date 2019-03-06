@@ -27,13 +27,13 @@
 
 ## Publications
 #### Journal papers
-* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. $p$ - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. **IEEE Transactions on Neural Networks and Learning Systems**. Impact factor: 7.982, Under Review.
-* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. **IEEE Transactions on Circuits and Systems for Video Technology**. Impact factor: 3.558, Under Review.
-* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks. **Neurocomputing**. Impact factor: 3.241, Under Review.
-* **Sichao Fu**, Weifeng Liu, Li Shuying, Yicong Zhou. A Two-Order Graph Convolutional Networks for Semi-Supervised Classification. **IET Image Processing**. Impact factor: 1.401, Under Review.
+* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. $p$ - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Neural Networks and Learning Systems. Impact factor: 7.982, Under Review.
+* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Circuits and Systems for Video Technology. Impact factor: 3.558, Under Review.
+* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks. Neurocomputing. Impact factor: 3.241, Under Review.
+* **Sichao Fu**, Weifeng Liu, Li Shuying, Yicong Zhou. A Two-Order Graph Convolutional Networks for Semi-Supervised Classification. IET Image Processing. Impact factor: 1.401, Under Review.
 
 #### Conference papers
-* **Sichao Fu**, Xinghao Yang, Weifeng Liu. “[The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](https://doi.org/10.1145/3240876.3240915)”. **The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**.  
+* **Sichao Fu**, Xinghao Yang, Weifeng Liu. “[The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](https://doi.org/10.1145/3240876.3240915)”. The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018).  
 
 ---
 
