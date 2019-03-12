@@ -39,7 +39,7 @@
 
 ## China Patents
 * **Sichao Fu**, Zehong Ji, Weifeng Liu, Liqiang Nie. Semi-supervised classification method based on $p$-Laplacian graph convolutional neural networks.
-* **Sichao Fu**, Zhao Kewen, Weifeng Liu, Liqiang Nie. Semi-supervised classification method based on hypergraph $p$-Laplacian graph convolutional neural networks.
+* **Sichao Fu**, Kewen Zhao, Weifeng Liu, Liqiang Nie. Semi-supervised classification method based on hypergraph $p$-Laplacian graph convolutional neural networks.
 
 ---
 
