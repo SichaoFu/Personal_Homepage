@@ -30,7 +30,7 @@
 * **Sichao Fu**, Weifeng Liu, Li Shuying, Yicong Zhou. A Two-Order Graph Convolutional Networks for Semi-Supervised Classification. IET Image Processing. Impact factor: 1.401, Accepted.
 * **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. $p$ - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Neural Networks and Learning Systems. Impact factor: 7.982, Under Review.
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. HpLapGCN: Hypergraph $p$-Laplacian Graph Convolutional Networks. Neurocomputing. Impact factor: 3.241, Under Review.
-* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Circuits and Systems for Video Technology. Impact factor: 3.558, Under Review.
+* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Cybernetics. Impact factor: 8.803, Under Review.
 
 
 #### Conference papers
