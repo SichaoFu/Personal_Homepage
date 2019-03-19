@@ -43,7 +43,7 @@
   * Patent for invention
 * **Sichao Fu**, Kewen Zhao, Weifeng Liu, Liqiang Nie. Semi-supervised classification method based on hypergraph $p$-Laplacian graph convolutional neural networks.
   * Patent for invention
-* Lei Zhang, Wei Tian, **Sichao Fu**. Electric vehicle wireless charging coil  based on orthogonal structure.
+* Lei Zhang, Wei Tian, **Sichao Fu**. Wireless charging coil based on orthogonal structure for electric vehicle.
   * Patent for utility model
 
 ---
