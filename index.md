@@ -34,7 +34,7 @@
 
 #### Conference papers
 * **Sichao Fu**, Xinghao Yang, Weifeng Liu. The Comparison of Different Graph Convolutional Neural Networks for Image Recognition. The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018), Accepted. [PDF](https://doi.org/10.1145/3240876.3240915)
-* **Sichao Fu**, Weifeng Liu, ZhengJun Zha. DyGCN: Dynamic Graph Convolutional Networks. 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC), Under Review.
+* **Sichao Fu**, Weifeng Liu, ZhengJun Zha. DyGCN: Dynamic Graph Convolutional Networks. 2019 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Under Review.
 
 ---
 
