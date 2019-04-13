@@ -72,7 +72,7 @@
 * 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
 * Certificate of Computer and Software Professional Qualification, 2018
 * 中国石油大学(华东)共青团“一起答”纪念改革开放40周年知识竞赛一等奖, 2018
-* First prize of Academic Scholarship, 2017
+* First prize of Academic Scholarship, 2019
 
 #### Undergraduate
 * 各类奖学金18项（学业奖学金4项，学科竞赛奖学金11项，科研学术奖学金3项）
