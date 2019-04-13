@@ -94,6 +94,7 @@
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Access
 * Neural Processing Letters
+* International Joint Conference on Artificial Intelligence
 
 ---
 [Top](#welcome-to-sichao-fus-pages)
