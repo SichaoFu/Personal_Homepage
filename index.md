@@ -55,6 +55,9 @@
      * Project Member
      * Funded by: National Natural Science Foundation of China 
      * Grant Number: 61671480
+* Theory and method with large-scale data deep structure learning
+    * Project Member
+    * Funded by: Independent innovation research project of China University of Petroleum  
 * Person re-identification algorithms based on Metric Learning (2018.06-2019.06)
      * Project Member
      * Funded by: Graduate Student Innovation Project Funding of China University of Petroleum  
