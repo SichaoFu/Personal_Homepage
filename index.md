@@ -70,7 +70,7 @@
 
 ## Honors and Awards
 #### Postgraduate
-* Third prize of Academic Scholarship, 2017
+* Third Prize of Academic Scholarship, 2017
 * “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
 * 全国大学生“互联网+”创新大赛华东赛区二等奖, 2017
 * First prize in Qingdao Graduate Student Electronic Design Competition, 2017
@@ -78,7 +78,7 @@
 * 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
 * Certificate of Computer and Software Professional Qualification, 2018
 * 中国石油大学(华东)共青团“一起答”纪念改革开放40周年知识竞赛一等奖, 2018
-* First prize of Academic Scholarship, 2019
+* First Prize of Academic Scholarship, 2019
 
 #### Undergraduate
 * 各类奖学金18项（学业奖学金4项，学科竞赛奖学金11项，科研学术奖学金3项）
