@@ -60,7 +60,7 @@
     * Funded by: Independent Innovation Research Project, China University of Petroleum (East China)  
 * Person re-identification algorithms based on Metric Learning (2018.06-2019.06)
      * Project Member
-     * Funded by: Graduate Student Innovation Project Funding, China University of Petroleum (East China)  
+     * Funded by: Graduate Student Innovation Project, China University of Petroleum (East China)  
      * Grant Number: YCX2018064
 * Data representation learning theory and method based on graph neural networks (2019.01-2020.12）
     * Project Member
