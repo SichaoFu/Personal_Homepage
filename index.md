@@ -57,11 +57,14 @@
      * Grant Number: 61671480
 * Theory and method with large-scale data deep structure learning (2018.01-2020.12）
     * Project Member
-    * Funded by: Independent innovation research project of China University of Petroleum  
+    * Funded by: Independent Innovation Research Project, China University of Petroleum  
 * Person re-identification algorithms based on Metric Learning (2018.06-2019.06)
      * Project Member
      * Funded by: Graduate Student Innovation Project Funding of China University of Petroleum  
      * Grant Number: YCX2018064
+* Data representation learning theory and method based on graph neural networks (2019.01-2020.12）
+    * Project Member
+    * Funded by: Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education 
      
 ---
 
