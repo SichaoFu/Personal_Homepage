@@ -40,13 +40,13 @@
 
 ## China Patents
 * **Sichao Fu**, Zehong Ji, Weifeng Liu, Liqiang Nie. Semi-supervised classification method based on $p$-Laplacian graph convolutional neural networks.
-  * Patent for invention
+  * Patent for Invention
   * Open Number: CN109583519A
   * Open Date: 5 April, 2019
 * **Sichao Fu**, Kewen Zhao, Weifeng Liu, Liqiang Nie. Semi-supervised classification method based on hypergraph $p$-Laplacian graph convolutional neural networks.
-  * Patent for invention
+  * Patent for Invention
 * Lei Zhang, Wei Tian, **Sichao Fu**. Wireless charging coil based on orthogonal structure for electric vehicle.
-  * Patent for utility model
+  * Patent for Utility Model
 
 ---
 
