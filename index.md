@@ -73,7 +73,7 @@
 * Third Prize of Academic Scholarship, 2017
 * “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
 * 全国大学生“互联网+”创新大赛华东赛区二等奖, 2017
-* First prize in Qingdao Graduate Student Electronic Design Competition, 2017
+* First Prize in Qingdao Graduate Student Electronic Design Competition, 2017
 * 第十五届研究生“博萃节”科技学术活动优秀组织者, 2017
 * 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
 * Certificate of Computer and Software Professional Qualification, 2018
