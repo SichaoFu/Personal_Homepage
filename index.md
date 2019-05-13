@@ -100,11 +100,13 @@
 ## Journal Reviewer
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Access
+* Pattern Recognition
 * Neural Processing Letters
 * Multimedia Tools and Applications
 * International Joint Conference on Artificial Intelligence (IJCAI)
 * International Conference on Multimedia and Expo (ICME)
 * Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+* International Conference on Machine Learning, Optimization, and Data Science (LOD)
 
 
 ---
