@@ -105,8 +105,8 @@
 * Multimedia Tools and Applications
 * International Joint Conference on Artificial Intelligence (IJCAI 2019)
 * International Conference on Multimedia and Expo (ICME 2019)
-* Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2019)
 * International Conference on Machine Learning, Optimization, and Data Science (LOD 2019)
+* Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2019)
 
 
 ---
