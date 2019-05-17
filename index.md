@@ -46,6 +46,8 @@
   * Open Date: 5 April, 2019
 * **Sichao Fu**, Kewen Zhao, Weifeng Liu, Liqiang Nie. Semi-supervised classification method based on hypergraph $p$-Laplacian graph convolutional neural networks.
   * Patent for Invention
+  * Open Number: CN109766935A
+  * Open Date: 17 May, 2019
 * Lei Zhang, Wei Tian, **Sichao Fu**. Wireless charging coil based on orthogonal structure for electric vehicle.
   * Patent for Utility Model
 
