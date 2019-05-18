@@ -116,6 +116,5 @@
 * International Conference on Systems, Man, and Cybernetics (SMC 2019) 
 * Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2019)
 
-
 ---
 [Top](#welcome-to-sichao-fus-pages)
