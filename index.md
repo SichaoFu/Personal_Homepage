@@ -2,7 +2,7 @@
 
 |[Research Interests](#research-interests)|[Education](#education)|[Publications](#publications)
 |[China Patents](#china-patents)|[Projects](#projects)|[Honors and Awards](#honors-and-awards)
-|[Experiences](#experiences)|[Journal and Conference Reviewer](#journal-and-conference-reviewer)|
+|[Experiences](#experiences)|[Reviewer](#reviewer)|
 
 ---
 **Sichao Fu** is currently a postgraduate student in electronics and communication engineering from the College of Information and Control Engineering, China University of Petroleum (East China), Qingdao, China. He received the B.Eng. degree in communication engineering from the College of Information Science and Engineering, Linyi University, Linyi, China, in 2017. He has served as a reviewer for "Neural Processing Letters" and "IEEE Transactions on Circuits and Systems for Video Technology". Here's my [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-Sichao%20Fu.pdf).
@@ -104,7 +104,7 @@
 
 ---
 
-## Journal and Conference Reviewer
+## Reviewer
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Access
 * Pattern Recognition
