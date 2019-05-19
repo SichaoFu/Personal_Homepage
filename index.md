@@ -108,8 +108,10 @@
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Access
 * Pattern Recognition
+* Artificial Intelligence in Medicine
 * Neural Processing Letters
 * Multimedia Tools and Applications
+* Pattern Analysis and Applications
 * International Joint Conference on Artificial Intelligence (IJCAI 2019)
 * International Conference on Multimedia and Expo (ICME 2019)
 * International Conference on Machine Learning, Optimization, and Data Science (LOD 2019)
