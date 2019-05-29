@@ -107,6 +107,7 @@
 ## Reviewer
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Access
+* Information Sciences
 * Neurocomputing
 * Pattern Recognition
 * Artificial Intelligence in Medicine
