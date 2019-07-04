@@ -27,11 +27,11 @@
 
 ## Publications
 #### Journal papers
-* **Sichao Fu**, Weifeng Liu, Li Shuying, Yicong Zhou. A Two-Order Graph Convolutional Networks for Semi-Supervised Classification. IET Image Processing. Impact factor: 1.401, Accepted. [PDF](https://doi.org/10.1049/iet-ipr.2018.6224)
-* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. HpLapGCN: Hypergraph $p$-Laplacian Graph Convolutional Networks. Neurocomputing. Impact factor: 3.241, Under Review.
-* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Cybernetics. Impact factor: 8.803, Under Review.
+* **Sichao Fu**, Weifeng Liu, Li Shuying, Yicong Zhou. A Two-Order Graph Convolutional Networks for Semi-Supervised Classification. IET Image Processing. Impact factor: 2.004, Accepted. [PDF](https://doi.org/10.1049/iet-ipr.2018.6224)
+* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. HpLapGCN: Hypergraph $p$-Laplacian Graph Convolutional Networks. Neurocomputing. Impact factor: 4.072, Under Review.
+* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Cybernetics. Impact factor: 10.387, Under Review.
 * **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. $p$ - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Knowledge and Data Engineering. Impact factor: 2.775, Under Review.
-* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks. Neurocomputing. Impact factor: 3.241, Under Review.
+* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks. Neurocomputing. Impact factor: 4.072, Under Review.
 
 #### Conference papers
 * **Sichao Fu**, Xinghao Yang, Weifeng Liu. The Comparison of Different Graph Convolutional Neural Networks for Image Recognition. The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018), Accepted. [PDF](https://doi.org/10.1145/3240876.3240915)
