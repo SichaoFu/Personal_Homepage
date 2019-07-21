@@ -34,7 +34,7 @@
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks. Neurocomputing. Impact factor: 4.072, Under Review.
 
 #### Conference papers
-* **Sichao Fu**, Xinghao Yang, Weifeng Liu. The Comparison of Different Graph Convolutional Neural Networks for Image Recognition. The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018), Accepted. [PDF](https://doi.org/10.1145/3240876.3240915)
+* **Sichao Fu**, Xinghao Yang, Weifeng Liu. The Comparison of Different Graph Convolutional Neural Networks for Image Recognition. The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018). [PDF](https://doi.org/10.1145/3240876.3240915)
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, ZhengJun Zha, Liqiang Nie. Dynamic Graph Convolutional Networks by Manifold Regularization. IJCAI 2019 workshop on Deep Learning for Human Activity Recognition, Accepted.
 * **Sichao Fu**, Weifeng Liu, ZhengJun Zha. DyGCN: Dynamic Graph Convolutional Networks. ACM International Conference on Multimedia in Asia (ACM Multimedia Asia 2019), Under Review.
 
@@ -88,6 +88,7 @@
 * Certificate of Computer and Software Professional Qualification, 2018
 * 中国石油大学(华东)共青团“一起答”纪念改革开放40周年知识竞赛一等奖, 2018
 * First Prize of Academic Scholarship, 2019
+* 第十三届“西门子杯”中国智能制造挑战赛华北二赛区二等奖, 2019
 
 #### Undergraduate
 * 各类奖学金18项（学业奖学金4项，学科竞赛奖学金11项，科研学术奖学金3项）
