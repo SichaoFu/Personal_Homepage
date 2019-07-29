@@ -39,7 +39,7 @@
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, ZhengJun Zha, Liqiang Nie. Dynamic Graph Convolutional Networks by Manifold Regularization. IJCAI 2019 workshop on Deep Learning for Human Activity Recognition, Accepted.
 * **Sichao Fu**, Weifeng Liu, ZhengJun Zha. DyGCN: Dynamic Graph Convolutional Networks. ACM International Conference on Multimedia in Asia (ACM Multimedia Asia 2019), Under Review.
 
-#### Book Chapter
+#### Book Chapters
 * **Sichao Fu**, Weifeng Liu.
 
 ---
