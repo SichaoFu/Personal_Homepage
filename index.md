@@ -31,7 +31,7 @@
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. HpLapGCN: Hypergraph $p$-Laplacian Graph Convolutional Networks. Neurocomputing. Impact factor: 4.072, Accepted. [PDF](https://doi.org/10.1016/j.neucom.2019.06.068)
 * **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. $p$ - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Knowledge and Data Engineering. Impact factor: 3.857, Under Review.
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks. Neurocomputing. Impact factor: 4.072, Under Review.
-* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. Dual Graph Convolutional Networks by Considering Example Graph and Feature Graph.
+* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. Dual Graph Convolutional Networks by Considering Example Graph and Feature Graph. IEEE Transactions on Geoscience and Remote Sensing. Impact factor: 5.63,
 * **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. 
 
 #### Conference papers
