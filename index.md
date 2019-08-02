@@ -40,7 +40,7 @@
 * **Sichao Fu**, Weifeng Liu, ZhengJun Zha. DyGCN: Dynamic Graph Convolutional Networks. ACM International Conference on Multimedia in Asia (ACM Multimedia Asia 2019), Under Review.
 
 #### Book Chapters
-* **Sichao Fu**, Weifeng Liu. Generalization with Deep Learning: For Improvement on Sensing Capability. World Scientific,
+* **Sichao Fu**, Weifeng Liu. Generalization with Deep Learning: For Improvement on Sensing Capability, World Scientific.
 
 ---
 
