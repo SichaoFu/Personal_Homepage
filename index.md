@@ -113,6 +113,7 @@
 ## Reviewer
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Access
+* Neural Networks
 * Information Sciences
 * Neurocomputing
 * Pattern Recognition
