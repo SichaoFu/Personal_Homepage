@@ -31,8 +31,8 @@
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. HpLapGCN: Hypergraph $p$-Laplacian Graph Convolutional Networks. Neurocomputing. Impact factor: 4.072, Accepted. [PDF](https://doi.org/10.1016/j.neucom.2019.06.068)
 * **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. $p$ - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Knowledge and Data Engineering. Impact factor: 3.857, Under Review.
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks. Neurocomputing. Impact factor: 4.072, Under Review.
-* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou, Liqiang Nie. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. Information Sciences, Impact factor: 5.524,
-* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. Dual Graph Convolutional Networks by Considering Example Graph and Feature Graph. IEEE Transactions on Geoscience and Remote Sensing. Impact factor: 5.63,
+* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou, Liqiang Nie. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. Information Sciences, Impact factor: 5.524, Under Review.
+* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. Dual Graph Convolutional Networks by Considering Example Graph and Feature Graph. IEEE Transactions on Geoscience and Remote Sensing. Impact factor: 5.63, Under Proofreading.
 
 #### Conference papers
 * **Sichao Fu**, Xinghao Yang, Weifeng Liu. The Comparison of Different Graph Convolutional Neural Networks for Image Recognition. The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018). [PDF](https://doi.org/10.1145/3240876.3240915)
@@ -40,7 +40,8 @@
 * **Sichao Fu**, Weifeng Liu, ZhengJun Zha. DyGCN: Dynamic Graph Convolutional Networks. ACM International Conference on Multimedia in Asia (ACM Multimedia Asia 2019), Under Review.
 
 #### Book Chapters
-* **Sichao Fu**, Weifeng Liu. Generalization with Deep Learning: For Improvement on Sensing Capability, World Scientific.
+* **Sichao Fu**, Weifeng Liu. How to Better Preserve the Locality and Similarity Relationships between Remote Sensing Images for Graph
+Convolutional Networks? Generalization with Deep Learning: For Improvement on Sensing Capability, World Scientific. Under Proofreading.
 
 ---
 
