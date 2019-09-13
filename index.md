@@ -35,7 +35,7 @@
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. Dual Graph Convolutional Networks by Considering Example Graph and Feature Graph. **IEEE Transactions on Geoscience and Remote Sensing**, Impact factor: 5.63, Under Review.
 
 #### Conference papers
-* **Sichao Fu**, Xinghao Yang, Weifeng Liu. The Comparison of Different Graph Convolutional Neural Networks for Image Recognition. The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018). [Webpage](https://doi.org/10.1145/3240876.3240915)
+* **Sichao Fu**, Xinghao Yang, Weifeng Liu. [The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](https://doi.org/10.1145/3240876.3240915). The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018). 
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, ZhengJun Zha, Liqiang Nie. Dynamic Graph Convolutional Networks by Manifold Regularization. IJCAI 2019 workshop on Deep Learning for Human Activity Recognition, Accepted.
 * **Sichao Fu**, Weifeng Liu, ZhengJun Zha. DyGCN: Dynamic Graph Convolutional Networks. ACM International Conference on Multimedia in Asia (ACM Multimedia Asia 2019), Under Review.
 
@@ -107,7 +107,7 @@ Convolutional Networks? Generalization with Deep Learning: For Improvement on Se
 
 ## Experiences
 * 中国石油大学(华东)研究生骨干培训班, 2017 
-* 山东省研究生暑假学校--“机器人与智能控制技术”, 2018
+* 山东省研究生暑假学校---“机器人与智能控制技术”, 2018
 
 ---
 
