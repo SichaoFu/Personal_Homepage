@@ -54,8 +54,6 @@ Convolutional Networks? Generalization with Deep Learning: For Improvement on Se
   * Patent for Invention
   * Open Number: CN109766935A
   * Open Date: 17 May, 2019
-* Lei Zhang, Wei Tian, **Sichao Fu**. Wireless charging coil based on orthogonal structure for electric vehicle.
-  * Patent for Utility Model
 
 ---
 
