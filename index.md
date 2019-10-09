@@ -30,7 +30,7 @@
 * **Sichao Fu**, Weifeng Liu, Li Shuying, Yicong Zhou. [Two-Order Graph Convolutional Networks for Semi-Supervised Classification](https://doi.org/10.1049/iet-ipr.2018.6224). IET Image Processing. Impact factor: 2.004. 
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. [HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks](https://doi.org/10.1016/j.neucom.2019.06.068). Neurocomputing. Impact factor: 4.072.
 * **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. p - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Knowledge and Data Engineering. Impact factor: 3.857, Under Second Review.
-* Weifeng Liu, **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks. Neurocomputing. Impact factor: 4.072, Under Second Review.
+* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks. Neurocomputing. Impact factor: 4.072, Under Second Review.
 * **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou, Liqiang Nie. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. Information Sciences, Impact factor: 5.524, Under Second Review.
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. Dual Graph Convolutional Networks by Considering Example Graph and Feature Graph. IEEE Transactions on Geoscience and Remote Sensing, Impact factor: 5.63, Under Review.
 
