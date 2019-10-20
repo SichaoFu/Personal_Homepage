@@ -82,25 +82,25 @@ Convolutional Networks? Generalization with Deep Learning: For Improvement on Se
 
 ## Honors and Awards
 #### Postgraduate
-* Third Prize of Academic Scholarship, 2017
+* Third Prize of Academic Scholarship（三等学业奖学金）, 2017
 * “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
 * 全国大学生“互联网+”创新大赛华东赛区二等奖, 2017
-* First Prize in Qingdao Graduate Student Electronic Design Competition, 2017
+* First Prize in Qingdao Graduate Student Electronic Design Competition（青岛第八届研究生电子设计竞赛一等奖）, 2017
 * 第十五届研究生“博萃节”科技学术活动优秀组织者, 2017
 * 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
-* Certificate of Computer and Software Professional Qualification, 2018
+* Certificate of Computer and Software Professional Qualification（软考网络工程师）, 2018
 * 中国石油大学(华东)共青团“一起答”纪念改革开放40周年知识竞赛一等奖, 2018
-* First Prize of Academic Scholarship, 2019
+* First Prize of Academic Scholarship（一等学业奖学金）, 2019
 * 第十三届“西门子杯”中国智能制造挑战赛华北二赛区二等奖, 2019
-* National Graduate Fellowship, 2019
+* National Graduate Fellowship（硕士研究生国家奖学金）, 2019
 
 #### Undergraduate
 * 各类奖学金18项（学业奖学金4项，学科竞赛奖学金11项，科研学术奖学金3项）
-* 各类学科竞赛获奖11项 （国家级5项，省级6项）
+* 各类学科竞赛获奖11项 （国家级5项，省部级6项）
 * 发表3篇一作国家级普刊论文
-* 优秀毕业生、优秀团员、优秀志愿者等称号
+* 优秀毕业生、优秀团员、优秀志愿者等荣誉称号
 * 申请并参与两项大学生创新创业项目
-* 计算机二级、三级、四级证书，会计从业资格证等证书
+* 计算机二级、三级、四级，会计从业资格证等证书
 
 ---
 
@@ -122,6 +122,7 @@ Convolutional Networks? Generalization with Deep Learning: For Improvement on Se
 * Neural Processing Letters
 * Multimedia Tools and Applications
 * Pattern Analysis and Applications
+* Journal of Applied Remote Sensing
 * International Joint Conference on Artificial Intelligence (IJCAI 2019)
 * International Conference on Information and Knowledge Management (CIKM 2019)
 * International Conference on Multimedia and Expo (ICME 2019)
