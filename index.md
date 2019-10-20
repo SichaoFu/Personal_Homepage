@@ -72,7 +72,7 @@ Convolutional Networks? Generalization with Deep Learning: For Improvement on Se
      * Funded by: Graduate Student Innovation Project, China University of Petroleum (East China)  
      * Grant Number: YCX2018064
 * Data representation learning theory and method based on graph neural networks (2019.01-2020.12）
-    * Main Project Member
+    * First Student Project Leader
     * Funded by: Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education 
 * Semi-supervised classification method based on graph neural networks （2019.05-2020.05）
     * Project Leader
