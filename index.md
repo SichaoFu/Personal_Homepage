@@ -89,7 +89,7 @@ Convolutional Networks? Generalization with Deep Learning: For Improvement on Se
 * First Prize in Qingdao Graduate Student Electronic Design Competition（青岛第八届研究生电子设计竞赛一等奖）, 2017
 * 第十五届研究生“博萃节”科技学术活动优秀组织者, 2017
 * 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
-* Certificate of Computer and Software Professional Qualification（软考网络工程师）, 2018
+* Certificate of Computer and Software Professional Qualification（软考中级网络工程师）, 2018
 * 中国石油大学(华东)共青团“一起答”纪念改革开放40周年知识竞赛一等奖, 2018
 * First Prize of Academic Scholarship（一等学业奖学金）, 2019
 * 第十三届“西门子杯”中国智能制造挑战赛华北二赛区二等奖, 2019
