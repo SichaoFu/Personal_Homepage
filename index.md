@@ -86,7 +86,7 @@ Convolutional Networks? Generalization with Deep Learning: For Improvement on Se
 * Third Prize of Academic Scholarship（三等学业奖学金）, 2017
 * “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
 * 全国大学生“互联网+”创新大赛华东赛区二等奖, 2017
-* First Prize in Qingdao Graduate Student Electronic Design Competition（青岛第八届研究生电子设计竞赛一等奖）, 2017
+* First Prize in Qingdao Graduate Student Electronic Design Competition（青岛市第八届研究生电子设计竞赛一等奖）, 2017
 * 第十五届研究生“博萃节”科技学术活动优秀组织者, 2017
 * 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
 * Certificate of Computer and Software Professional Qualification（软考中级网络工程师）, 2018
@@ -101,7 +101,7 @@ Convolutional Networks? Generalization with Deep Learning: For Improvement on Se
 * 发表3篇一作国家级普刊论文
 * 优秀毕业生、优秀团员、优秀志愿者等荣誉称号
 * 申请并参与两项大学生创新创业项目
-* 计算机二级、三级、四级，会计从业资格证等证书
+* 计算机二级、三级、四级，会计从业资格证等职业资格证书
 
 ---
 
