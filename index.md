@@ -42,7 +42,7 @@
 
 #### Book Chapters
 * **Sichao Fu**, Weifeng Liu. How to Better Preserve the Locality and Similarity Relationships between Remote Sensing Images for Graph
-Convolutional Networks? Generalization with Deep Learning: For Improvement on Sensing Capability, World Scientific. Accepted.
+Convolutional Networks? Generalization with Deep Learning: For Improvement on Sensing Capability, World Scientific, Accepted.
 
 ---
 
