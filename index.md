@@ -16,7 +16,7 @@
 * Pattern recognition
 * Deep learning
 * Graph Representation Learning
-* Graph convolution neworks (GCN)
+* Graph convolution neworks
 
 ---
 
