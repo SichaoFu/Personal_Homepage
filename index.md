@@ -37,7 +37,7 @@
 
 #### Conference papers
 * **Sichao Fu**, Xinghao Yang, Weifeng Liu. [The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](https://doi.org/10.1145/3240876.3240915). The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018), ACM, 2018, 12. 
-* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Dynamic Graph Convolutional Networks by Manifold Regularization. IJCAI 2019 Workshop on Deep Learning for Human Activity Recognition, Accepted.
+* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Dynamic Graph Convolutional Networks by Manifold Regularization. IJCAI 2019 Workshop on Deep Learning for Human Activity Recognition, 2019, Accepted.
 * **Sichao Fu**, Weifeng Liu, Zheng-Jun Zha. DyGCN: Dynamic Graph Convolutional Networks. 1st ACM International Conference on Multimedia in Asia, Under Review.
 
 #### Book Chapters
