@@ -129,8 +129,8 @@ Convolutional Networks? Generalization with Deep Learning: For Improvement on Se
 * International Conference on Multimedia and Expo (ICME 2019)
 * International Conference on Systems, Man, and Cybernetics (SMC 2019) 
 * International Conference on Machine Learning, Optimization, and Data Science (LOD 2019)
-* Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2019)
 * Asian Conference on Pattern Recognition (ACPR 2019)
+* Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2019)
 
 ---
 [Top](#welcome-to-sichao-fus-pages)
