@@ -28,11 +28,11 @@
 
 ## Publications
 #### Journal papers
-* **Sichao Fu**, Weifeng Liu, Li Shuying, Yicong Zhou. [Two-Order Graph Convolutional Networks for Semi-Supervised Classification](https://doi.org/10.1049/iet-ipr.2018.6224). IET Image Processing, IET, 2019, in press.
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. [HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks](https://doi.org/10.1016/j.neucom.2019.06.068). Neurocomputing, Elsevier, 2019, 362: 166-174.
-* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. p - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Knowledge and Data Engineering, IEEE, Under Second Review.
+* **Sichao Fu**, Weifeng Liu, Li Shuying, Yicong Zhou. [Two-Order Graph Convolutional Networks for Semi-Supervised Classification](https://doi.org/10.1049/iet-ipr.2018.6224). IET Image Processing, IET, 2019, in press.
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks. Neurocomputing, Elsevier, Under Second Review.
 * **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou, Liqiang Nie. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. Information Sciences, Elsevier, Under Second Review.
+* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. p - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Knowledge and Data Engineering, IEEE, Under Second Review.
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. Dual Graph Convolutional Networks by Considering Example Graph and Feature Graph. IEEE Transactions on Geoscience and Remote Sensing, IEEE, Under Review.
 
 #### Conference papers
@@ -41,8 +41,7 @@
 * **Sichao Fu**, Weifeng Liu, Zheng-Jun Zha. DyGCN: Dynamic Graph Convolutional Networks. The 1st ACM International Conference on Multimedia in Asia, Under Review.
 
 #### Book Chapters
-* **Sichao Fu**, Weifeng Liu. How to Better Preserve the Locality and Similarity Relationships between Remote Sensing Images for Graph
-Convolutional Networks? Generalization with Deep Learning: For Improvement on Sensing Capability, World Scientific, Accepted.
+* **Sichao Fu**, Weifeng Liu. Research on Graph Convolutional Networks for Remote Sensing Images Recognition. Generalization with Deep Learning: For Improvement on Sensing Capability, World Scientific, Accepted.
 
 ---
 
