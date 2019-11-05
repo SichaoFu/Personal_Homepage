@@ -28,16 +28,16 @@
 
 ## Publications
 #### Journal papers
-* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. [HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks](https://doi.org/10.1016/j.neucom.2019.06.068). Neurocomputing, Elsevier, 2019, 362: 166-174.
-* **Sichao Fu**, Weifeng Liu, Li Shuying, Yicong Zhou. [Two-Order Graph Convolutional Networks for Semi-Supervised Classification](https://doi.org/10.1049/iet-ipr.2018.6224). IET Image Processing, IET, 2019, in press.
-* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks. Neurocomputing, Elsevier, Under Second Review.
-* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou, Liqiang Nie. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. Information Sciences, Elsevier, Under Second Review.
-* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. p - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Knowledge and Data Engineering, IEEE, Under Second Review.
-* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. Dual Graph Convolutional Networks by Considering Example Graph and Feature Graph. IEEE Transactions on Geoscience and Remote Sensing, IEEE, Under Review.
+* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. [HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks](https://doi.org/10.1016/j.neucom.2019.06.068). Neurocomputing, 2019, 362: 166-174.
+* **Sichao Fu**, Weifeng Liu, Li Shuying, Yicong Zhou. [Two-Order Graph Convolutional Networks for Semi-Supervised Classification](https://doi.org/10.1049/iet-ipr.2018.6224). IET Image Processing, 2019, in press.
+* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks. Neurocomputing, Under Second Review.
+* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou, Liqiang Nie. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. Information Sciences, Under Second Review.
+* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou. p - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. IEEE Transactions on Knowledge and Data Engineering, Under Second Review.
+* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. Dual Graph Convolutional Networks by Considering Example Graph and Feature Graph. IEEE Transactions on Geoscience and Remote Sensing, Under Review.
 
 #### Conference papers
-* **Sichao Fu**, Xinghao Yang, Weifeng Liu. [The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](https://doi.org/10.1145/3240876.3240915). The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018), ACM, 2018, 12. 
-* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Dynamic Graph Convolutional Networks by Manifold Regularization. IJCAI 2019 Workshop on Deep Learning for Human Activity Recognition, 2019, Accepted.
+* **Sichao Fu**, Xinghao Yang, Weifeng Liu. [The Comparison of Different Graph Convolutional Neural Networks for Image Recognition](https://doi.org/10.1145/3240876.3240915). The 10th International Conference on Internet Multimedia Computing and Service (ICIMCS 2018), 2018, 12. 
+* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Dynamic Graph Convolutional Networks by Manifold Regularization. The 28th International Joint Conference on Artificial Intelligence Workshops, 2019, Accepted.
 * **Sichao Fu**, Weifeng Liu, Zheng-Jun Zha. DyGCN: Dynamic Graph Convolutional Networks. The 1st ACM International Conference on Multimedia in Asia, Under Review.
 
 #### Book Chapters
