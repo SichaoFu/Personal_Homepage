@@ -32,7 +32,7 @@
 * **Sichao Fu**, Weifeng Liu, Li Shuying, Yicong Zhou. [Two-Order Graph Convolutional Networks for Semi-Supervised Classification](https://doi.org/10.1049/iet-ipr.2018.6224). IET Image Processing, 2019, in press.
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha, Liqiang Nie. Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks. Neurocomputing, Under Second Review.
 * **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou, Liqiang Nie. HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification. Information Sciences, Under Second Review.
-* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou, Liqiang Nie. p - Laplacian Graph Convolutional Networks for Semi-Supervised Classification. Knowledge-Based Systems, Under Review.
+* **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou, Liqiang Nie. Semi-supervised Learning Using Graph p-Laplacian Convolutional Networks. Knowledge-Based Systems, Under Review.
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou, Liqiang Nie. Jointly Learning Example and Feature Graph Representations using Graph Convolutional Networks for Semi-supervised Classification. IEEE Transactions on Neural Networks and Learning Systems, Under Review.
 
 #### Conference papers
