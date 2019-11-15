@@ -93,6 +93,7 @@
 * First Prize of Academic Scholarship（一等学业奖学金）, 2019
 * 第十三届“西门子杯”中国智能制造挑战赛华北二赛区二等奖, 2019
 * National Graduate Fellowship（硕士研究生国家奖学金）, 2019
+* 山东省研究生优秀成果奖校内推荐资格，2019
 
 #### Undergraduate
 * 各类奖学金18项（学业奖学金4项，学科竞赛奖学金11项，科研学术奖学金3项）
