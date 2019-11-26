@@ -82,9 +82,9 @@
 
 ## Honors and Awards
 #### Postgraduate
-* 中国石油大学（华东）优秀研究生
+* Outstanding Students of China University of Petroleum （East China）（中国石油大学（华东）优秀研究生）
 * Top Ten Outstanding Postgraduate（Award Nomination） of China University of Petroleum （East China） （中国石油大学（华东）研究生学术十杰提名奖）, 2019
-* Professional Degree Famous Achievement Award of China University of Petroleum  （中国石油大学（华东）专业学位研究生优秀成果奖（推荐省评））, 2019
+* Professional Degree Famous Achievement Award of China University of Petroleum （East China）  （中国石油大学（华东）专业学位研究生优秀成果奖（推荐省评））, 2019
 * National Graduate Fellowship（硕士研究生国家奖学金）, 2019
 * 第十三届“西门子杯”中国智能制造挑战赛华北二赛区二等奖, 2019
 * First Prize of Academic Scholarship（一等学业奖学金）, 2019
