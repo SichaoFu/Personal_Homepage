@@ -36,9 +36,9 @@
 * **Sichao Fu**, Weifeng Liu, Yicong Zhou and Liqiang Nie, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", IEEE Transactions on Neural Networks and Learning Systems, Under Review.
 
 #### Conference papers
-* **Sichao Fu**, Xinghao Yang and Weifeng Liu, ["The Comparison of Different Graph Convolutional Neural Networks for Image Recognition"](https://doi.org/10.1145/3240876.3240915). The 10th International Conference on Internet Multimedia Computing and Service, pp. 12, 2019. 
-* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization", IJCAI 2019 Workshop on Deep Learning for Human Activity Recognition, Accepted, 2019.
-* **Sichao Fu**, Weifeng Liu and Zheng-Jun Zha, "DyGCN: Dynamic Graph Convolutional Networks", The 1st ACM International Conference on Multimedia in Asia, Under Review.
+* **Sichao Fu**, Xinghao Yang and Weifeng Liu, ["The Comparison of Different Graph Convolutional Neural Networks for Image Recognition"](https://doi.org/10.1145/3240876.3240915). 2018 International Conference on Internet Multimedia Computing and Service, pp. 12, 2019. 
+* **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization", 2019 IJCAI Workshop on Deep Learning for Human Activity Recognition, Accepted, 2019.
+* **Sichao Fu**, Weifeng Liu and Zheng-Jun Zha, "DyGCN: Dynamic Graph Convolutional Networks", 2019 International Conference on Multimedia in Asia, Under Review.
 
 #### Book Chapters
 * **Sichao Fu** and Weifeng Liu, "Research on Graph Convolutional Networks for Remote Sensing Images Recognition", Generalization with Deep Learning: For Improvement on Sensing Capability, World Scientific, Accepted, 2019.
