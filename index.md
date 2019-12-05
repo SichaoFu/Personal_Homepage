@@ -84,9 +84,9 @@
 #### Postgraduate
 * First Prize of Professional Degree Famous Achievement Award of Shandong Province（山东省专业学位研究生优秀成果奖省级一等奖），2019
 * Outstanding Students of China University of Petroleum （East China）（中国石油大学（华东）优秀研究生）
-* Top Ten Outstanding Postgraduate（Award Nomination） of China University of Petroleum （East China） （中国石油大学（华东）研究生学术十杰提名奖）, 2019
-* Professional Degree Famous Achievement Award of China University of Petroleum （East China）  （中国石油大学（华东）专业学位研究生优秀成果奖）, 2019
-* National Graduate Fellowship（硕士研究生国家奖学金）, 2019
+* Top Ten Outstanding Postgraduate（Award Nomination） of China University of Petroleum （East China） （[中国石油大学（华东）研究生学术十杰提名奖](http://gs.upc.edu.cn/2019/1119/c14691a226328/page.htm)）, 2019
+* Professional Degree Famous Achievement Award of China University of Petroleum （East China）  （[中国石油大学（华东）专业学位研究生优秀成果奖](http://gs.upc.edu.cn/2019/1114/c14691a225689/page.htm)）, 2019
+* National Graduate Fellowship（[硕士研究生国家奖学金](http://ygb.upc.edu.cn/2019/1023/c13638a222255/page.htm)）, 2019
 * 第十三届“西门子杯”中国智能制造挑战赛华北二赛区二等奖, 2019
 * First Prize of Academic Scholarship（一等学业奖学金）, 2019
 * 中国石油大学（华东）共青团“一起答”纪念改革开放40周年知识竞赛一等奖, 2018
