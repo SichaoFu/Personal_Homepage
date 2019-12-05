@@ -58,14 +58,14 @@
 ---
 
 ## Projects
-* Semi-supervised classification method based on graph neural networks （2019.05-2020.05）
+* [Semi-supervised classification method based on graph neural networks](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp) （2019.05-2020.05）
     * Project Leader
     * Funded by: Graduate Student Innovation Project, China University of Petroleum (East China)
     * Grant Number: YCX2019080
 * Data representation learning theory and method based on graph neural networks (2019.01-2020.12）
     * Student First Project Leader
     * Funded by: Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education
-* Person re-identification algorithms based on Metric Learning (2018.06-2019.06)
+* [Person re-identification algorithms based on Metric Learning](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp) (2018.06-2019.06)
      * Project Member
      * Funded by: Graduate Student Innovation Project, China University of Petroleum (East China)  
      * Grant Number: YCX2018064
