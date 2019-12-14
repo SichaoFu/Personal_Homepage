@@ -15,7 +15,7 @@
 * Machine learning
 * Pattern recognition
 * Deep learning
-* Graph Representation Learning
+* Graph representation learning
 * Graph convolution neworks
 
 ---
