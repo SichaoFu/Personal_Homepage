@@ -115,6 +115,7 @@
 ---
 
 ## Reviewer
+* IEEE Transactions on Cybernetics
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Transactions on Geoscience and Remote Sensing
 * IEEE Access
