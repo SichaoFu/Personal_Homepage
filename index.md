@@ -82,7 +82,7 @@
 
 ## Honors and Awards
 #### Postgraduate
-* First Prize of Professional Degree Famous Achievement Award of Shandong Province（[山东省专业学位研究生优秀成果奖省级一等奖](http://edu.shandong.gov.cn/art/2019/12/4/art_11982_7924861.html)），2019
+* First Prize of Professional Degree Famous Achievement Award of Shandong Province（山东省专业学位研究生优秀成果奖省级一等奖），2019
 * Outstanding Students of China University of Petroleum （East China）（中国石油大学（华东）优秀研究生）
 * Top Ten Outstanding Postgraduate（Award Nomination） of China University of Petroleum （East China） （[中国石油大学（华东）研究生学术十杰提名奖](http://gs.upc.edu.cn/2019/1119/c14691a226328/page.htm)）, 2019
 * Professional Degree Famous Achievement Award of China University of Petroleum （East China）  （[中国石油大学（华东）专业学位研究生优秀成果奖](http://gs.upc.edu.cn/2019/1114/c14691a225689/page.htm)）, 2019
