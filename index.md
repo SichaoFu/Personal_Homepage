@@ -58,22 +58,22 @@
 ---
 
 ## Projects
-* [Semi-supervised classification method based on graph neural networks](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp) （2019.05-2020.05）
+1. [Research on semi-supervised classification method based on graph neural networks (基于图神经网络的半监督分类算法研究)](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp) （2019.05-2020.05）
     * Project Leader
     * Funded by: Graduate Student Innovation Project, China University of Petroleum (East China)
     * Grant Number: YCX2019080
-* Data representation learning theory and method based on graph neural networks (2019.01-2020.12）
+1. Research on data representation learning theory and method based on graph neural networks (基于图神经网络的数据表示学习理论与方法研究)(2019.01-2020.12）
     * Student First Project Leader
     * Funded by: Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education
-* [Person re-identification algorithms based on Metric Learning](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp) (2018.06-2019.06)
+1. [Research on person re-identification algorithms based on Metric Learning (基于Metric Learning的行人再识别算法研究)](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp) (2018.06-2019.06)
      * Project Member
      * Funded by: Graduate Student Innovation Project, China University of Petroleum (East China)  
      * Grant Number: YCX2018064
-* Theory and method with large-scale data deep structure learning (2018.01-2020.12）
+1. Research on theory and method of large-scale data deep structure learning (大规模数据深度结构学习理论及方法研究) (2018.01-2020.12）
     * Project Member
     * Funded by: Independent Innovation Research Project, China University of Petroleum (East China)  
     * Grant Number: 18CX07011A
-* Image annotation based on multiview depth sparse coding and Manifold Regularization (2017.01-2020.12）
+1. Image annotation based on multiview depth sparse coding and Manifold Regularization (基于多视角深度稀疏编码及流形正则化的图像标注研究) (2017.01-2020.12）
      * Project Member
      * Funded by: National Natural Science Foundation of China 
      * Grant Number: 61671480
