@@ -41,7 +41,7 @@
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, ["The Comparison of Different Graph Convolutional Neural Networks for Image Recognition"](https://doi.org/10.1145/3240876.3240915). **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, Article number: 3240915, 2019.
 
 #### Book Chapters
-1. **Sichao Fu** and Weifeng Liu, "Research on Graph Convolutional Networks for Remote Sensing Images Recognition" in Generalization with Deep Learning: For Improvement on Sensing Capability, World Scientific, in press, 2019.
+1. **Sichao Fu** and Weifeng Liu, "Research on Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**, World Scientific, in press, 2019.
 
 ---
 
