@@ -82,7 +82,7 @@
 
 ## Honors and Awards
 #### Postgraduate
-1. First Prize of Professional Degree Postgraduate Famous Achievement Award of Shandong Province（[山东省专业学位研究生优秀成果奖省级一等奖](https://github.com/SichaoFu/MyWebpages/blob/master/Files/%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%832019%E5%B9%B4%E4%BC%98%E7%A7%80%E5%8D%9A%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E3%80%81%E4%BC%98%E7%A7%80%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%E3%80%81%E7%A0%94%E7%A9%B6%E7%94%9F%E4%BC%98%E7%A7%80%E6%88%90%E6%9E%9C%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%95%99%E7%A0%94%E5%87%BD%E3%80%902019%E3%80%912%E5%8F%B7%EF%BC%89.pdf)），2019
+1. First Prize of Professional Degree Postgraduate Famous Achievement Award of Shandong Province（[山东省专业学位研究生优秀成果奖省级一等奖](http://news.upc.edu.cn/info/1432/96016.htm)），2019
 1. Outstanding Students of China University of Petroleum （East China）（中国石油大学（华东）优秀研究生）
 1. Ten Academic Elites（Award Nomination） of China University of Petroleum （East China） （[中国石油大学（华东）研究生学术十杰提名奖](http://gs.upc.edu.cn/2019/1119/c14691a226328/page.htm)）, 2019
 1. Professional Degree Postgraduate Famous Achievement Award of China University of Petroleum （East China）  （[中国石油大学（华东）专业学位研究生优秀成果奖](http://gs.upc.edu.cn/2019/1114/c14691a225689/page.htm)）, 2019
