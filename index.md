@@ -58,7 +58,7 @@
 ---
 
 ## Projects
-1. [Research on semi-supervised classification method based on graph neural networks (探究图表示学习中有效保持样本分布局部结构方法及建模分析)](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp) （2020.01-2021.12）
+1. Research on the efficient local geometry preserving methods of graph representation learning and its modeling analysis (探究图表示学习中有效保持样本分布局部结构方法及建模分析) （2020.01-2021.12）
     * Project Leader
     * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR)
     * Grant Number: 202000009
