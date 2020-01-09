@@ -11,6 +11,8 @@
 
 ---
 
+![Sichao Fu](https://github.com/SichaoFu/MyWebpages/blob/master/Files/xjpic.jpg)
+
 ## Research Interests
 * Machine learning
 * Pattern recognition
