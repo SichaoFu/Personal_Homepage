@@ -46,11 +46,11 @@
 ---
 
 ## China Patents
-1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "[Semi-supervised classification method based on hypergraph p-Laplacian graph convolutional neural networks](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A)", (一种基于超图p-Laplacian图卷积神经网络的半监督分类方法).
+1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "[Semi-supervised classification method based on hypergraph p-Laplacian graph convolutional neural networks (一种基于超图p-Laplacian图卷积神经网络的半监督分类方法).](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A)".
    * Patent for Invention
    * Open Number: CN109766935A
    * Open Date: 17 May, 2019
-1. **Sichao Fu**, Zehong Ji, Weifeng Liu and Liqiang Nie, "[Semi-supervised classification method based on p-Laplacian graph convolutional neural networks](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109583519A)", (一种基于p-Laplacian图卷积神经网络的半监督分类方法).
+1. **Sichao Fu**, Zehong Ji, Weifeng Liu and Liqiang Nie, "[Semi-supervised classification method based on p-Laplacian graph convolutional neural networks (一种基于p-Laplacian图卷积神经网络的半监督分类方法)](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109583519A)".
    * Patent for Invention
    * Open Number: CN109583519A
    * Open Date: 5 April, 2019
