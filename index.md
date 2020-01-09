@@ -5,7 +5,6 @@
 |[Experiences](#experiences)|[Reviewer](#reviewer)|
 
 ---
-<div align=left><img width="150" height="200" src="https://github.com/SichaoFu/MyWebpages/blob/master/Files/xjpic.jpg"/></div>
 
 **Sichao Fu** is currently a final year graduate student with the College of Control Science and Engineering, China University of Petroleum (East China), Qingdao, China. He received the B.Eng. degree in communication engineering from Linyi University, Linyi, China, in 2017. He serves dozens of journals and conferences. Here's my [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-SichaoFu.pdf).
 * Address: No.66 Changjiang West Road, Huangdao District, Qingdao 266580,China
