@@ -12,6 +12,7 @@
 ---
 
 ![Sichao Fu](https://github.com/SichaoFu/MyWebpages/blob/master/Files/xjpic.jpg)
+<div align=center><img width="150" height="150" src="https://github.com/SichaoFu/MyWebpages/blob/master/Files/xjpic.jpg"/></div>
 
 ## Research Interests
 * Machine learning
