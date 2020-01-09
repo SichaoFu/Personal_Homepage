@@ -11,7 +11,7 @@
 
 ---
 
-<div align=left><img width="300" height="400" src="https://github.com/SichaoFu/MyWebpages/blob/master/Files/xjpic.jpg"/></div>
+<div align=left><img width="150" height="200" src="https://github.com/SichaoFu/MyWebpages/blob/master/Files/xjpic.jpg"/></div>
 
 ## Research Interests
 * Machine learning
