@@ -69,7 +69,7 @@
 1. Research on data representation learning theory and method based on graph neural networks (基于图神经网络的数据表示学习理论与方法研究)(2019.01-2020.12）
     * Student First Project Leader
     * Funded by: Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education
-1. [Research on person re-identification algorithms based on Metric Learning (基于Metric Learning的行人再识别算法研究)](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp) (2018.06-2019.06)
+1. [Research on person re-identification algorithms based on Metric Learning (基于Metric Learning的行人再识别算法研究)](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp)  (2018.06-2019.06)
      * Project Member
      * Funded by: Graduate Student Innovation Project, China University of Petroleum (East China)  
      * Grant Number: YCX2018064
