@@ -29,7 +29,7 @@
 
 ## Publications
 #### Journal papers
-1. **Sichao Fu** and Weifeng Liu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **Information Processing and Management**, Under Review.
+1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications, and Applications**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Liqiang Nie, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou and Liqiang Nie, "Semi-supervised Learning Using Graph p-Laplacian Convolutional Networks", **Knowledge-Based Systems**, Under Review.
 1. Weifeng Liu (supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, in press, 2019.
