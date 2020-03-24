@@ -87,7 +87,7 @@
 
 ## Honors and Awards
 #### Postgraduate
-1. Outstanding Graduates of Shandong Province（[山东省优秀毕业生](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)），2020
+1. Outstanding Graduates of Shandong Province（[山东省优秀毕业生](http://gs.upc.edu.cn/2020/0324/c14671a295731/page.htm)），2020
 1. First Prize of Professional Degree Postgraduate Famous Achievement Award of Shandong Province（[山东省专业学位研究生优秀成果奖省级一等奖](http://news.upc.edu.cn/info/1432/96016.htm)），2019
 1. Outstanding Students of China University of Petroleum （East China）（中国石油大学（华东）优秀研究生），2019
 1. Ten Academic Elites（Award Nomination） of China University of Petroleum （East China） （[中国石油大学（华东）研究生学术十杰提名奖](http://gs.upc.edu.cn/2019/1119/c14691a226328/page.htm)）, 2019
