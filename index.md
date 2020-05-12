@@ -121,14 +121,15 @@ Sichao Fu is currently a final year graduate student with the College of Control
 ---
 
 ## Reviewer
+* IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Transactions on Geoscience and Remote Sensing
-* IEEE Access
+* Pattern Recognition
 * Neural Networks
 * Information Sciences
 * Neurocomputing
-* Pattern Recognition
+* IEEE Access
 * Artificial Intelligence in Medicine
 * Neural Processing Letters
 * Multimedia Tools and Applications
@@ -142,6 +143,7 @@ Sichao Fu is currently a final year graduate student with the College of Control
 * Asian Conference on Pattern Recognition (ACPR 2019)
 * Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2019)
 * International Conference on Multimedia and Expo (ICME 2020)
+* International Conference on Machine Learning, Optimization, and Data Science (LOD 2020)
 
 ---
 [Top](#welcome-to-sichao-fus-pages)
