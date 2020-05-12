@@ -135,6 +135,7 @@ Sichao Fu is currently a final year graduate student with the College of Control
 * Multimedia Tools and Applications
 * Pattern Analysis and Applications
 * Journal of Applied Remote Sensing
+* IET Computer Vision
 * International Joint Conference on Artificial Intelligence (IJCAI 2019)
 * International Conference on Information and Knowledge Management (CIKM 2019)
 * International Conference on Multimedia and Expo (ICME 2019)
