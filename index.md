@@ -17,7 +17,7 @@ Sichao Fu is currently a final year graduate student with the College of Control
 * Pattern recognition
 * Deep learning
 * Graph representation learning
-* Graph convolution neworks
+* Graph convolutional neworks
 
 ---
 
