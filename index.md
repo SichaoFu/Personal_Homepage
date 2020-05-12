@@ -22,7 +22,7 @@
 ---
 
 ## Education
-* 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Control Science and Engineering, China University of Petroleum (East China).
+* 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Control Science and Engineering, China University of Petroleum (East China), led by professor [Weifeng Liu](https://frostliu.github.io/). 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University;
 
 ---
