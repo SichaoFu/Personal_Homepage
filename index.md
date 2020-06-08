@@ -39,11 +39,11 @@
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Liqiang Nie, ["HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks"](https://doi.org/10.1016/j.neucom.2019.06.068), **Neurocomputing**, vol. 362, pp. 166-174, 2019.
 
 #### Conference papers
-1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization", **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, accepted, 2019.
+1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization", **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, in pres, 2019.
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, ["The Comparison of Different Graph Convolutional Neural Networks for Image Recognition"](https://doi.org/10.1145/3240876.3240915). **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018.
 
 #### Book Chapters
-1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**, World Scientific, accepted, 2020.
+1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**, World Scientific, Book edited by: Dr. Li Xiaoli, Dr. Chen Zhenghua and Dr. Wu Min, in press, 2020.
 
 ---
 
