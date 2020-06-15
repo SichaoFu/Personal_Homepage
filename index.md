@@ -6,7 +6,7 @@
 
 ---
 
-**Sichao Fu** is currently a final year graduate student with the College of Control Science and Engineering, China University of Petroleum (East China), Qingdao, China. He received the B.Eng. degree in communication engineering from Linyi University, Linyi, China, in 2017. His current research interests include pattern recognition and machine learning. He serves dozens of journals and conferences. Here's my [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-SichaoFu.pdf).
+**Sichao Fu** is currently a final year graduate student with the College of Control Science and Engineering, China University of Petroleum (East China), Qingdao, China. He received the B.Eng. degree in communication engineering from Linyi University, Linyi, China, in 2017, the M.E. degree in electronics and communication engineering from the China University of Petroleum (East China), Qingdao, China, in 2020. His current research interests include pattern recognition and machine learning. He serves dozens of journals and conferences. Here's my [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-SichaoFu.pdf).
 
 * Address: No.66 Changjiang West Road, Huangdao District, Qingdao 266580,China
 * Email: fusichao_upc@163.com 
@@ -23,6 +23,7 @@
 ---
 
 ## Education
+* 2020.09-Now,
 * 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Control Science and Engineering, China University of Petroleum (East China), Led by professor [**Weifeng Liu**](https://frostliu.github.io/). 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University;
 
@@ -111,7 +112,7 @@
 1. 各类奖学金18项（学业奖学金4项，学科竞赛奖学金11项，科研学术奖学金3项）
 1. 各类学科竞赛获奖11项 （国家级5项，省部级6项）
 1. 发表3篇一作国家级普刊论文 （[[1]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201608016&v=MjkzNzkxRnJDVVJMT2VaZVpvRnkzaFZiektMeWZBWkxHNEg5Zk1wNDlFWW9SOGVYMUx1eFlTN0RoMVQzcVRyV00=) [[2]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201603015&v=MTQ2NjR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVpvRnkzaFZidkpMeWZBWkxHNEg5Zk1ySTlFWVlSOGVYMUw=) [[3]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=DNBC201601022&v=MTgyMjZPZVplWm9GeTNoV3I3TklTUEpiYkc0SDlmTXJvOUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkw=)）
-1. 优秀毕业生、优秀团员、优秀志愿者等荣誉称号
+1. 校级优秀毕业生、优秀团员、优秀志愿者等荣誉称号
 1. 申请并参与两项大学生创新创业项目
 1. 计算机二级、三级、四级，会计从业资格证等职业资格证书
 
