@@ -32,7 +32,8 @@
 ---
 
 ## Publications
-#### Master Postgraduate's Journal papers
+### Master Postgraduate
+#### Journal papers
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications, and Applications**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Learning Using Graph p-Laplacian Convolutional Networks", **Information Sciences**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Dapeng Tao, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
@@ -41,16 +42,16 @@
 1. **Sichao Fu**, Weifeng Liu, Shuying Li and Yicong Zhou, ["Two-Order Graph Convolutional Networks for Semi-Supervised Classification"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8946955). **IET Image Processing**, vol. 13, no. 14, pp. 2763–2771, 2019.
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Liqiang Nie, ["HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks"](https://doi.org/10.1016/j.neucom.2019.06.068), **Neurocomputing**, vol. 362, pp. 166-174, 2019.
 
-#### Master Postgraduate's Conference papers
+#### Conference papers
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization", **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, in press, 2019.
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, ["The Comparison of Different Graph Convolutional Neural Networks for Image Recognition"](https://doi.org/10.1145/3240876.3240915). **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018.
 
-#### Master Postgraduate's Book Chapters
+#### Book Chapters
 1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**, World Scientific, Book edited by: Dr. Li Xiaoli, Dr. Chen Zhenghua and Dr. Wu Min, in press, 2020.
 
 ---
-
-## Master Postgraduate's China Patents
+## China Patents
+### Master Postgraduate
 1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "[Semi-supervised classification method based on hypergraph p-Laplacian graph convolutional neural networks (一种基于超图p-Laplacian图卷积神经网络的半监督分类方法)](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A)".
    * Patent for Invention
    * Open Number: CN109766935A
@@ -62,7 +63,8 @@
 
 ---
 
-## Master Postgraduate Projects
+## Projects
+### Master Postgraduate
 1. [Research on the efficient local geometry preserving methods of graph representation learning and its modeling analysis (探究图表示学习中有效保持样本分布局部结构方法及建模分析)](http://www.nlpr.ia.ac.cn/cn/news/1565.html) （2020.01-2021.12）
     * Student First Project Leader
     * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR)
