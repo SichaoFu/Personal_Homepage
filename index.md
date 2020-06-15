@@ -32,7 +32,7 @@
 ---
 
 ## Publications
-### Master Postgraduate
+#### Master Postgraduate
 #### Journal papers
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications, and Applications**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Learning Using Graph p-Laplacian Convolutional Networks", **Information Sciences**, Under Review.
@@ -51,7 +51,7 @@
 
 ---
 ## China Patents
-### Master Postgraduate
+#### Master Postgraduate
 1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "[Semi-supervised classification method based on hypergraph p-Laplacian graph convolutional neural networks (一种基于超图p-Laplacian图卷积神经网络的半监督分类方法)](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A)".
    * Patent for Invention
    * Open Number: CN109766935A
@@ -64,7 +64,7 @@
 ---
 
 ## Projects
-### Master Postgraduate
+#### Master Postgraduate
 1. [Research on the efficient local geometry preserving methods of graph representation learning and its modeling analysis (探究图表示学习中有效保持样本分布局部结构方法及建模分析)](http://www.nlpr.ia.ac.cn/cn/news/1565.html) （2020.01-2021.12）
     * Student First Project Leader
     * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR)
