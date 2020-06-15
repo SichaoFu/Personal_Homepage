@@ -6,7 +6,7 @@
 
 ---
 
-**Sichao Fu** is currently a final year graduate student with the College of Control Science and Engineering, China University of Petroleum (East China), Qingdao, China. He received the B.Eng. degree in communication engineering from Linyi University, Linyi, China, in 2017; the M.E. degree in electronics and communication engineering from the China University of Petroleum (East China), Qingdao, China, in 2020. His current research interests include pattern recognition and machine learning. He serves dozens of journals and conferences. Here's my [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-SichaoFu.pdf).
+**Sichao Fu** is currently a final year graduate student with the College of Oceangraphy and Space Informatics, China University of Petroleum (East China), Qingdao, China. He received the B.Eng. degree in communication engineering from Linyi University, Linyi, China, in 2017; the M.E. degree in electronics and communication engineering from the China University of Petroleum (East China), Qingdao, China, in 2020. His current research interests include pattern recognition and machine learning. He serves dozens of journals and conferences. Here's my [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-SichaoFu.pdf).
 
 * Address: No.66 Changjiang West Road, Huangdao District, Qingdao 266580,China
 * Email: fusichao_upc@163.com 
@@ -26,7 +26,7 @@
 
 ## Education
 * 2020.09-Now,
-* 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Control Science and Engineering, China University of Petroleum (East China), Led by professor [**Weifeng Liu**](https://frostliu.github.io/). 
+* 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceangraphy and Space Informatics, China University of Petroleum (East China), Led by professor [**Weifeng Liu**](https://frostliu.github.io/). 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University;
 
 ---
