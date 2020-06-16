@@ -90,7 +90,7 @@
 ---
 
 ## Honors and Awards
-1. Academic Star of College of Oceangraphy and Space Informatics of China University of Petroleum （East China)（中国石油大学（华东）海洋与空间信息学院学术之星），2020
+1. The First Academic Star of College of Oceangraphy and Space Informatics of China University of Petroleum （East China)（中国石油大学（华东）首届海洋与空间信息学院学术之星），2020
 1. International Exchange Scholarship of China University of Petroleum （East China) （[中国石油大学（华东）国际交流奖学金](http://ocean.upc.edu.cn/2020/0615/c15079a302770/page.htm)），2020
 1. Outstanding Master's Thesis of China University of Petroleum （East China) （中国石油大学（华东）优秀硕士学位论文推荐资格），2020
 1. Outstanding Graduates of Shandong Province（[山东省优秀毕业生](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)），2020
