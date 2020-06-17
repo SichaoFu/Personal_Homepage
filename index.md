@@ -155,6 +155,7 @@
 * Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2019)
 * International Conference on Multimedia and Expo (ICME 2020)
 * International Conference on Machine Learning, Optimization, and Data Science (LOD 2020)
+* ACM International Conference on Multimedia (MM 2020)
 
 ---
 [Top](#welcome-to-sichao-fus-pages)
