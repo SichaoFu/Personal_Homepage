@@ -48,6 +48,8 @@
 #### Book Chapters
 1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**, World Scientific, Book edited by: Dr. Li Xiaoli, Dr. Chen Zhenghua and Dr. Wu Min, in press, 2020.
 
+#### Thesis
+
 ---
 ## China Patents
 1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "[Semi-supervised classification method based on hypergraph p-Laplacian graph convolutional neural networks (一种基于超图p-Laplacian图卷积神经网络的半监督分类方法)](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A)".
@@ -90,6 +92,7 @@
 ---
 
 ## Honors and Awards
+##### Master
 1. Academic Star of College of Oceangraphy and Space Informatics of China University of Petroleum （East China)（中国石油大学（华东）海洋与空间信息学院学术之星），2020
 1. Outstanding Master's Thesis of China University of Petroleum （East China) （中国石油大学（华东）优秀硕士学位论文推荐资格），2020
 1. Outstanding Graduates of Shandong Province（[山东省优秀毕业生](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)），2020
