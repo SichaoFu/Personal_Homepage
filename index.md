@@ -49,7 +49,7 @@
 1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**, World Scientific, Book edited by: Dr. Li Xiaoli, Dr. Chen Zhenghua and Dr. Wu Min, in press, 2020.
 
 #### Thesis
-1. 傅司超, 基于图卷积神经网络的半监督分类算法研究, 工程硕士学位论文, 2020.	
+1. 傅司超, 基于图卷积神经网络的半监督分类算法研究, 中国石油大学（华东）工程硕士学位论文, 2020.	
 1. 傅司超, 基于Web和智能设备的"物流云"系统的设计与研究, 临沂大学学士学位论文, 2017.
 
 ---
