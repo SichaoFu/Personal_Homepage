@@ -32,7 +32,7 @@
 ---
 
 ## Publications
-#### Journal papers
+### Journal papers
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Learning Using Graph p-Laplacian Convolutional Networks", **Information Sciences**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Dapeng Tao, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications, and Applications**, Under Second Review.
@@ -41,14 +41,14 @@
 1. **Sichao Fu**, Weifeng Liu, Shuying Li and Yicong Zhou, ["Two-Order Graph Convolutional Networks for Semi-Supervised Classification"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8946955). **IET Image Processing**, vol. 13, no. 14, pp. 2763–2771, 2019.
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Liqiang Nie, ["HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks"](https://doi.org/10.1016/j.neucom.2019.06.068), **Neurocomputing**, vol. 362, pp. 166-174, 2019.
 
-#### Conference papers
+### Conference papers
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization", **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, in press, 2019.
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, ["The Comparison of Different Graph Convolutional Neural Networks for Image Recognition"](https://doi.org/10.1145/3240876.3240915). **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018.
 
 #### Book Chapters
 1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**, World Scientific, Book edited by: Dr. Li Xiaoli, Dr. Chen Zhenghua and Dr. Wu Min, in press, 2020.
 
-#### Thesis
+### Thesis
 1. **Sichao Fu**, Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification (基于图卷积神经网络的半监督分类算法研究), **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, 2020.	
 1. **Sichao Fu**, Design and Research on the "Logistics Cloud" System based on Web and Smart Devices (基于Web和智能设备的"物流云"系统的设计与研究), **Degree Thesis of Engineering Bachelor of Linyi University**, 2017.
 
@@ -94,7 +94,7 @@
 ---
 
 ## Honors and Awards
-##### Master
+### Master
 1. Academic Star of College of Oceangraphy and Space Informatics of China University of Petroleum （East China)（中国石油大学（华东）海洋与空间信息学院学术之星），2020
 1. Outstanding Master's Thesis of China University of Petroleum (East China) （中国石油大学（华东）优秀硕士学位论文推荐资格），2020
 1. Outstanding Graduates of Shandong Province（[山东省优秀毕业生](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)），2020
@@ -114,7 +114,7 @@
 1. “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
 1. Third Prize of Academic Scholarship of China University of Petroleum （East China)（中国石油大学（华东）三等学业奖学金）, 2017
 
-#### Undergraduate
+### Undergraduate
 1. 各类奖学金18项（学业奖学金4项，学科竞赛奖学金11项，科研学术奖学金3项）
 1. 各类学科竞赛获奖11项 （国家级5项，省部级6项）
 1. 发表3篇一作国家级普刊论文 （[[1]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201608016&v=MjkzNzkxRnJDVVJMT2VaZVpvRnkzaFZiektMeWZBWkxHNEg5Zk1wNDlFWW9SOGVYMUx1eFlTN0RoMVQzcVRyV00=) [[2]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201603015&v=MTQ2NjR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVpvRnkzaFZidkpMeWZBWkxHNEg5Zk1ySTlFWVlSOGVYMUw=) [[3]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=DNBC201601022&v=MTgyMjZPZVplWm9GeTNoV3I3TklTUEpiYkc0SDlmTXJvOUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkw=)）
