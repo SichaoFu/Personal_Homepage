@@ -50,7 +50,7 @@
 
 #### Thesis
 1. **Sichao Fu**, Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification (基于图卷积神经网络的半监督分类算法研究), **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, 2020.	
-1. **Sichao Fu**, Design and Research on "Logistics Cloud" System based on Web and Smart Devices (基于Web和智能设备的"物流云"系统的设计与研究), **Degree Thesis of Engineering Bachelor of Linyi University**, 2017.
+1. **Sichao Fu**, Design and Research on the "Logistics Cloud" System based on Web and Smart Devices (基于Web和智能设备的"物流云"系统的设计与研究), **Degree Thesis of Engineering Bachelor of Linyi University**, 2017.
 
 ---
 ## China Patents
