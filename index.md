@@ -36,13 +36,13 @@
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Learning Using Graph p-Laplacian Convolutional Networks", **Information Sciences**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Dapeng Tao, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications, and Applications**, Under Third Review.
-1. Weifeng Liu (supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, in press, 2020.
+1. Weifeng Liu (supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, accepted, 2020.
 1. **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou and Liqiang Nie, ["HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification"](https://doi.org/10.1016/j.ins.2019.11.019), **Information Sciences**, vol. 514, pp. 484-498, 2020.
 1. **Sichao Fu**, Weifeng Liu, Shuying Li and Yicong Zhou, ["Two-Order Graph Convolutional Networks for Semi-Supervised Classification"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8946955). **IET Image Processing**, vol. 13, no. 14, pp. 2763–2771, 2019.
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Liqiang Nie, ["HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks"](https://doi.org/10.1016/j.neucom.2019.06.068), **Neurocomputing**, vol. 362, pp. 166-174, 2019.
 
 ### Conference papers
-1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization", **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, in press, 2019.
+1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization", **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, 2019.
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, ["The Comparison of Different Graph Convolutional Neural Networks for Image Recognition"](https://doi.org/10.1145/3240876.3240915). **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018.
 
 ### Book Chapters
