@@ -26,7 +26,7 @@
 
 ## Education
 * 2020.09-Now, Ph.D. degree in 
-* 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceangraphy and Space Informatics, China University of Petroleum (East China), Led by professor [**Weifeng Liu**](https://frostliu.github.io/). 
+* 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceangraphy and Space Informatics, China University of Petroleum (East China), Led by professor [**Weifeng Liu**](https://frostliu.github.io/); 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University;
 
 ---
