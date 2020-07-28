@@ -6,12 +6,12 @@
 
 ---
 
-**Sichao Fu** is currently a final year graduate student with the College of Oceangraphy and Space Informatics, China University of Petroleum (East China), Qingdao, China. He received the B.Eng. degree in communication engineering from Linyi University, Linyi, China, in 2017; the M.Eng. degree in electronics and communication engineering from the China University of Petroleum (East China), Qingdao, China, in 2020. His current research interests include pattern recognition and machine learning. He serves dozens of journals and conferences. Here's my [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-SichaoFu.pdf).
+**Sichao Fu** is currently a final year graduate student with the College of Oceangraphy and Space Informatics, China University of Petroleum (East China), Qingdao, China. He received the B.Eng. degree in communication engineering from Linyi University, Linyi, China, in 2017; the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China), Qingdao, China, in 2020. His current research interests include pattern recognition and machine learning. He also serves dozens of journals and conferences. Here's my [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-SichaoFu.pdf).
 
 * Address: No.66 Changjiang West Road, Huangdao District, Qingdao 266580,China
 * Email: fusichao_upc@163.com 
 
-**傅司超**, 研究生学历, 博士研究生在读, IEEE学生会员。 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位。硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以学生第一位次主持在研国家重点实验室开放课题项目2项, 主持完成中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项。 担任数十种领域内重要期刊和国际学术会议审稿人。
+**傅司超**, 研究生学历, 工学博士研究生在读, IEEE学生会员。 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位。硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以学生第一位次主持在研国家重点实验室开放课题项目2项, 主持完成中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项。 担任数十种领域内重要期刊和国际学术会议审稿人。
 
 ---
 
@@ -36,7 +36,7 @@
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Learning Using Graph p-Laplacian Convolutional Networks", **Information Sciences**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Dapeng Tao, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications and Applications**, accepted, 2020.
-1. Weifeng Liu (supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, accepted, 2020.
+1. Weifeng Liu (Supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, accepted, 2020.
 1. **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou and Liqiang Nie, ["HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification"](https://doi.org/10.1016/j.ins.2019.11.019), **Information Sciences**, vol. 514, pp. 484-498, 2020.
 1. **Sichao Fu**, Weifeng Liu, Shuying Li and Yicong Zhou, ["Two-Order Graph Convolutional Networks for Semi-Supervised Classification"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8946955). **IET Image Processing**, vol. 13, no. 14, pp. 2763–2771, 2019.
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Liqiang Nie, ["HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks"](https://doi.org/10.1016/j.neucom.2019.06.068), **Neurocomputing**, vol. 362, pp. 166-174, 2019.
@@ -132,7 +132,7 @@
 
 ## Professional Services
 ### Membership
-* IEEE Student Membership
+* IEEE Student Member
 
 ### Reviewer
 * IEEE Transactions on Neural Networks and Learning Systems
