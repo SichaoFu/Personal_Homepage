@@ -11,7 +11,7 @@
 * Address: No.66 Changjiang West Road, Huangdao District, Qingdao 266580,China
 * Email: fusichao_upc@163.com 
 
-**傅司超**, 研究生学历, 工学博士在读, IEEE学生会员。 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位。硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以学生第一位次主持在研国家重点实验室开放课题项目2项, 主持完成中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项。 担任数十种领域内重要期刊和国际学术会议审稿人。
+**傅司超**, 研究生学历, 工程硕士, IEEE学生会员。 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位。硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以学生第一位次主持在研国家重点实验室开放课题项目2项, 主持完成中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项。 担任数十种领域内重要期刊和国际学术会议审稿人。
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 ## Education
-* 2020.09-Now, Ph.D. degree in 
+* 2020.09-Now,  
 * 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceangraphy and Space Informatics, China University of Petroleum (East China), Led by professor [**Weifeng Liu**](https://frostliu.github.io/); 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University;
 
@@ -33,8 +33,8 @@
 
 ## Publications
 ### Journal papers
-1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Learning Using Graph p-Laplacian Convolutional Networks", **Information Sciences**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Dapeng Tao, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
+1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Learning Using Graph p-Laplacian Convolutional Networks", **Information Sciences**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications and Applications**, accepted, 2020.
 1. Weifeng Liu (Supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, accepted, 2020.
 1. **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou and Liqiang Nie, ["HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification"](https://doi.org/10.1016/j.ins.2019.11.019), **Information Sciences**, vol. 514, pp. 484-498, 2020.
