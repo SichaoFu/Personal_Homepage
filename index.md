@@ -6,7 +6,7 @@
 
 ---
 
-**Sichao Fu** is currently a first year doctoral student with the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China. He received the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, Shandong, China, in 2017; the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, Shandong, China, in 2020. His current research interests include pattern recognition and machine learning. He also serves dozens of journals and conferences. Here's my [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-SichaoFu.pdf).
+**Sichao Fu** is currently a first year doctoral student with the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China. He received the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, Shandong, China, in 2020; the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, Shandong, China, in 2017. His current research interests include pattern recognition and machine learning. He also serves dozens of journals and conferences. Here's my [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-SichaoFu.pdf).
 
 * Address: No.1037 Luoyu Road, Hongshan District, Wuhan 266580,China
 * Email: fusichao_upc@163.com 
