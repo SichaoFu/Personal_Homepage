@@ -6,12 +6,12 @@
 
 ---
 
-**Sichao Fu** is currently a final year graduate student with the College of Oceangraphy and Space Informatics, China University of Petroleum (East China), Qingdao, China. He received the B.Eng. degree in communication engineering from Linyi University, Linyi, China, in 2017; the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China), Qingdao, China, in 2020. His current research interests include pattern recognition and machine learning. He also serves dozens of journals and conferences. Here's my [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-SichaoFu.pdf).
+**Sichao Fu** is currently a first year doctoral student with the School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, Hubei, China. He received the B.Eng. degree in communication engineering from Linyi University, Linyi, Shandong, China, in 2017; the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China), Qingdao, Shandong, China, in 2020. His current research interests include pattern recognition and machine learning. He also serves dozens of journals and conferences. Here's my [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-SichaoFu.pdf).
 
 * Address: No.66 Changjiang West Road, Huangdao District, Qingdao 266580,China
 * Email: fusichao_upc@163.com 
 
-**傅司超**, 研究生学历, 工程硕士, IEEE学生会员。 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位。硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以学生第一位次主持在研国家重点实验室开放课题项目2项, 主持完成中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项。 担任数十种领域内重要期刊和国际学术会议审稿人。
+**傅司超**, 研究生学历, 工学博士在读, IEEE学生会员。 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位。硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以学生第一位次主持在研国家重点实验室开放课题项目2项, 主持完成中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项。 担任数十种领域内重要期刊和国际学术会议审稿人。
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 ## Education
-* 2020.09-Now,  
+* 2020.09-Now,  Ph.D. degree in information and communication engineering, College of Oceangraphy and Space Informatics, Huazhong University of Science and Technology. 
 * 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceangraphy and Space Informatics, China University of Petroleum (East China), Led by professor [**Weifeng Liu**](https://frostliu.github.io/); 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University;
 
