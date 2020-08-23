@@ -25,7 +25,7 @@
 ---
 
 ## Education
-* 2020.09-Now,  Ph.D. degree in information and communication engineering, College of Oceangraphy and Space Informatics, Huazhong University of Science and Technology, Wuhan, Hubei, China. 
+* 2020.09-Now, Ph.D. degree in information and communication engineering, College of Oceangraphy and Space Informatics, Huazhong University of Science and Technology, Wuhan, Hubei, China, Led by professor [**Xinge You**](http://ei.hust.edu.cn/professor/youxinge/).
 * 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceangraphy and Space Informatics, China University of Petroleum (East China), Qingdao, Shandong, China, Led by professor [**Weifeng Liu**](https://frostliu.github.io/); 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University, Linyi, Shandong, China;
 
@@ -33,7 +33,7 @@
 
 ## Publications
 ### Journal papers
-1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Dapeng Tao, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
+1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Learning Using Graph p-Laplacian Convolutional Networks", **Information Sciences**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications and Applications**, accepted, 2020.
 1. Weifeng Liu (Supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, accepted, 2020.
