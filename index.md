@@ -139,6 +139,7 @@
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Transactions on Geoscience and Remote Sensing
+* IEEE Transactions on Emerging Topics in Computational Intelligence
 * Pattern Recognition
 * Neural Networks
 * Information Sciences
@@ -151,6 +152,7 @@
 * Journal of Applied Remote Sensing
 * IET Computer Vision
 * Journal of Healthcare Engineering
+* Signal, Image and Video Processing
 * International Joint Conference on Artificial Intelligence (IJCAI 2019)
 * International Conference on Information and Knowledge Management (CIKM 2019)
 * International Conference on Multimedia and Expo (ICME 2019)
