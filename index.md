@@ -171,7 +171,7 @@
 * ACM International Conference on Multimedia (MM 2020)
 * International Conference on Systems, Man, and Cybernetics (SMC 2020) 
 
-### Resources
+## Resources
 * [《中国计算机学会推荐国际学术会议和期刊目录》第五版](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
 * [《中国计算机学会推荐中文科技期刊目录》2019](https://www.ccf.org.cn/c/2019-07-31/667609.shtml)
 * [Awesome resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks#awesome-resources-on-graph-neural-networks)
