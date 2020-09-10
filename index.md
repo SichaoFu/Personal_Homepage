@@ -2,7 +2,7 @@
 
 |[Research Interests](#research-interests)|[Education](#education)|[Publications](#publications)
 |[China Patents](#china-patents)|[Projects](#projects)|[Honors and Awards](#honors-and-awards)
-|[Experiences](#experiences)|[Professional Services](#professional-services)|Resources(#resources)|
+|[Experiences](#experiences)|[Professional Services](#professional-services)|[Resources](#resources)|
 
 ---
 
