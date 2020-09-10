@@ -48,7 +48,7 @@
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, ["The Comparison of Different Graph Convolutional Neural Networks for Image Recognition"](https://doi.org/10.1145/3240876.3240915). **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018.
 
 ### Book Chapters
-#### Book Chapters（Master）
+##### Book Chapters（Master）
 1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**, World Scientific, Book edited by: Dr. Li Xiaoli, Dr. Chen Zhenghua and Dr. Wu Min, accepted, 2020.
 
 ### Thesis
@@ -57,7 +57,7 @@
 
 ---
 ## China Patents
-### China Patents （Master）
+#### China Patents （Master）
 1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "[Semi-supervised classification method based on hypergraph p-Laplacian graph convolutional neural networks (一种基于超图p-Laplacian图卷积神经网络的半监督分类方法)](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A)".
    * Patent for Invention
    * Open Number: CN109766935A
@@ -70,7 +70,7 @@
 ---
 
 ## Projects
-### Projects （Master）
+#### Projects （Master）
 1. [Research on the efficient local geometry preserving methods of graph representation learning and its modeling analysis (探究图表示学习中有效保持样本分布局部结构方法及建模分析)](http://www.nlpr.ia.ac.cn/cn/news/1565.html) （2020.01-2021.12）
     * Student First Project Leader
     * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR)
@@ -99,7 +99,7 @@
 ---
 
 ## Honors and Awards
-### Master
+#### Master
 1. Academic Star of College of Oceangraphy and Space Informatics of China University of Petroleum （East China)（中国石油大学（华东）海洋与空间信息学院学术之星），2020
 1. Outstanding Master's Thesis of China University of Petroleum (East China) [（中国石油大学（华东）优秀硕士学位论文）](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)，2020
 1. Outstanding Graduates of Shandong Province（[山东省优秀毕业生](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)），2020
@@ -119,7 +119,7 @@
 1. “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
 1. Third Prize of Academic Scholarship of China University of Petroleum （East China)（中国石油大学（华东）三等学业奖学金）, 2017
 
-### Undergraduate
+#### Undergraduate
 1. 各类奖学金18项（学业奖学金4项，学科竞赛奖学金11项，科研学术奖学金3项）
 1. 各类学科竞赛获奖11项 （国家级5项，省部级6项）
 1. 发表3篇一作国家级普刊论文 （[[1]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201608016&v=MjkzNzkxRnJDVVJMT2VaZVpvRnkzaFZiektMeWZBWkxHNEg5Zk1wNDlFWW9SOGVYMUx1eFlTN0RoMVQzcVRyV00=) [[2]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201603015&v=MTQ2NjR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVpvRnkzaFZidkpMeWZBWkxHNEg5Zk1ySTlFWVlSOGVYMUw=) [[3]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=DNBC201601022&v=MTgyMjZPZVplWm9GeTNoV3I3TklTUEpiYkc0SDlmTXJvOUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkw=)）
@@ -136,11 +136,11 @@
 ---
 
 ## Professional Services
-### Membership
+#### Membership
 * IEEE Student Member
 * Chinese Institute of Electronics Member
 
-### Reviewer
+#### Reviewer
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Circuits and Systems for Video Technology
