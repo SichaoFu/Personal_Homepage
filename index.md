@@ -49,7 +49,7 @@
 
 ### Book Chapters
 ### Master
-1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**, World Scientific, Book edited by: Dr. Li Xiaoli, Dr. Chen Zhenghua and Dr. Wu Min, accepted, 2020.
+1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold based Graph Convolutional Networks for Remote Sensing Images Recognition" in **[Generalization with Deep Learning: For Improvement on Sensing Capability](https://doi.org/10.1142/11784)**, World Scientific, Book edited by: Dr. Li Xiaoli, Dr. Chen Zhenghua and Dr. Wu Min, accepted, 2020.
 
 ### Thesis
 1. **Sichao Fu**, Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification (基于图卷积神经网络的半监督分类算法研究), **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, 2020.	
