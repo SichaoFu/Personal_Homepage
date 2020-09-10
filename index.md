@@ -2,7 +2,7 @@
 
 |[Research Interests](#research-interests)|[Education](#education)|[Publications](#publications)
 |[China Patents](#china-patents)|[Projects](#projects)|[Honors and Awards](#honors-and-awards)
-|[Experiences](#experiences)|[Professional Services](#professional-services)|
+|[Experiences](#experiences)|[Professional Services](#professional-services)|Resources|
 
 ---
 
@@ -11,7 +11,7 @@
 * Address: No.1037 Luoyu Road, Hongshan District, Wuhan 266580,China
 * Email: fusichao_upc@163.com 
 
-**傅司超**, 研究生学历, 工学博士在读, IEEE学生会员, 中国电子学会会员。2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位。硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以学生第一位次主持在研国家重点实验室开放课题项目2项, 主持完成中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项。 担任数十种领域内重要期刊和国际学术会议审稿人。
+**傅司超**, 研究生学历, 工学博士在读, IEEE学生会员, 中国电子学会会员。2020年9月起就读于华中科技大学信息与通信工程专业; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位。硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以学生第一位次主持在研国家重点实验室开放课题项目2项, 主持完成中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项。 担任数十种领域内重要期刊和国际学术会议审稿人。
 
 ---
 
@@ -33,6 +33,7 @@
 
 ## Publications
 ### Journal papers
+#### Journal papers（Master）
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Learning Using Graph p-Laplacian Convolutional Networks", **Information Sciences**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications and Applications**, accepted, 2020.
@@ -42,10 +43,12 @@
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Liqiang Nie, ["HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks"](https://doi.org/10.1016/j.neucom.2019.06.068), **Neurocomputing**, vol. 362, pp. 166-174, 2019.
 
 ### Conference papers
+#### Conference papers（Master）
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization", **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, 2019.
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, ["The Comparison of Different Graph Convolutional Neural Networks for Image Recognition"](https://doi.org/10.1145/3240876.3240915). **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018.
 
 ### Book Chapters
+#### Book Chapters（Master）
 1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**, World Scientific, Book edited by: Dr. Li Xiaoli, Dr. Chen Zhenghua and Dr. Wu Min, accepted, 2020.
 
 ### Thesis
@@ -54,6 +57,7 @@
 
 ---
 ## China Patents
+### China Patents （Master）
 1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "[Semi-supervised classification method based on hypergraph p-Laplacian graph convolutional neural networks (一种基于超图p-Laplacian图卷积神经网络的半监督分类方法)](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A)".
    * Patent for Invention
    * Open Number: CN109766935A
@@ -66,6 +70,7 @@
 ---
 
 ## Projects
+### Projects （Master）
 1. [Research on the efficient local geometry preserving methods of graph representation learning and its modeling analysis (探究图表示学习中有效保持样本分布局部结构方法及建模分析)](http://www.nlpr.ia.ac.cn/cn/news/1565.html) （2020.01-2021.12）
     * Student First Project Leader
     * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR)
@@ -165,6 +170,11 @@
 * International Conference on Machine Learning, Optimization, and Data Science (LOD 2020)
 * ACM International Conference on Multimedia (MM 2020)
 * International Conference on Systems, Man, and Cybernetics (SMC 2020) 
+
+### Resources
+* [《中国计算机学会推荐国际学术会议和期刊目录》第五版](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
+* [《中国计算机学会推荐中文科技期刊目录》2019](https://www.ccf.org.cn/c/2019-07-31/667609.shtml)
+* [Awesome resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks#awesome-resources-on-graph-neural-networks)
 
 ---
 [Top](#welcome-to-sichao-fus-pages)
