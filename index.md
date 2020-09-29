@@ -161,18 +161,14 @@
 * IET Computer Vision
 * Journal of Healthcare Engineering
 * Signal, Image and Video Processing
-* International Joint Conference on Artificial Intelligence (IJCAI 2019)
+* International Joint Conference on Artificial Intelligence (IJCAI 2019, 2020)
+* International Conference on Multimedia and Expo (ICME 2019,2020)
+* International Conference on Systems, Man, and Cybernetics (SMC 2019, 2020) 
+* International Conference on Machine Learning, Optimization, and Data Science (LOD 2019,2020)
 * International Conference on Information and Knowledge Management (CIKM 2019)
-* International Conference on Multimedia and Expo (ICME 2019)
-* International Conference on Systems, Man, and Cybernetics (SMC 2019) 
-* International Conference on Machine Learning, Optimization, and Data Science (LOD 2019)
 * Asian Conference on Pattern Recognition (ACPR 2019)
 * Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2019)
-* International Joint Conference on Artificial Intelligence (IJCAI 2020)
-* International Conference on Multimedia and Expo (ICME 2020)
-* International Conference on Machine Learning, Optimization, and Data Science (LOD 2020)
 * ACM International Conference on Multimedia (MM 2020)
-* International Conference on Systems, Man, and Cybernetics (SMC 2020) 
 
 ## Resources
 * [《中国计算机学会推荐国际学术会议和期刊目录》第五版](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
