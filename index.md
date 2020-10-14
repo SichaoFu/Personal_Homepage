@@ -17,7 +17,7 @@
 
 ## Research Interests
 * Machine Learning/Deep Learning
-* Graph representation learning/Graph convolutional networks
+* Graph Representation Learning/Graph Convolutional Networks
 
 ---
 
