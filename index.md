@@ -16,11 +16,8 @@
 ---
 
 ## Research Interests
-* Machine learning
-* Pattern recognition
-* Deep learning
-* Graph representation learning
-* Graph convolutional networks
+* Machine Learning/Deep Learning
+* Graph representation learning/Graph convolutional networks
 
 ---
 
