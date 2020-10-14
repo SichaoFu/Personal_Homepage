@@ -94,6 +94,9 @@
 ---
 
 ## Honors and Awards
+### Ph.D.
+1.Academic Scholarship of Huazhong University of Science and Technology [（华中科技大学学业奖学金）](), 2020
+
 ### Master
 1. Academic Star of College of Oceangraphy and Space Informatics of China University of Petroleum （East China)（中国石油大学（华东）海洋与空间信息学院学术之星），2020
 1. Outstanding Master's Thesis of China University of Petroleum (East China) [（中国石油大学（华东）优秀硕士学位论文）](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)，2020
