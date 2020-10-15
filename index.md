@@ -114,8 +114,8 @@
 1. “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
 1. 全国大学生“互联网+”创新大赛华东赛区二等奖, 2017
 1. First Prize in Qingdao Graduate Student Electronic Design Competition（青岛市第八届研究生电子设计竞赛一等奖）, 2017
-1. 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
 1. 第十五届研究生“博萃节”科技学术活动优秀组织者, 2017
+1. 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
 1. Third Prize of Academic Scholarship of China University of Petroleum （East China)（中国石油大学（华东）三等学业奖学金）, 2017
 
 ### Undergraduate
