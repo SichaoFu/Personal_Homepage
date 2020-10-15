@@ -63,6 +63,7 @@
 ---
 
 ## Projects
+### Under Study
 1. [Research on the efficient local geometry preserving methods of graph representation learning and its modeling analysis (探究图表示学习中有效保持样本分布局部结构方法及建模分析)](http://www.nlpr.ia.ac.cn/cn/news/1565.html) （2020.01-2021.12）
     * Student First Project Leader
     * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR)
