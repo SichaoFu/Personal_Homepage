@@ -170,6 +170,8 @@
 * Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2019)
 * ACM International Conference on Multimedia (MM 2020)
 
+---
+
 ## Resources
 * [《中国计算机学会推荐国际学术会议和期刊目录》第五版](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
 * [《中国计算机学会推荐中文科技期刊目录》2019](https://www.ccf.org.cn/c/2019-07-31/667609.shtml)
