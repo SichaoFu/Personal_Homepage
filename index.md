@@ -95,7 +95,7 @@
 
 ## Honors and Awards
 ### Ph.D.
-1. Doctor Academic Scholarship of Huazhong University of Science and Technology （华中科技大学博士学业奖学金）, 2020
+1. Doctor Academic Scholarship of Huazhong University of Science and Technology [（华中科技大学博士学业奖学金）](http://ei.hust.edu.cn/info/1177/5539.htm), 2020
 
 ### Master
 
