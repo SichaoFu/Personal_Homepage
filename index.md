@@ -140,7 +140,7 @@
 * Society of Petroleum Engineers Member
 * Chinese Institute of Electronics Member
 * China Graphics Society Student Member
-* ShanDong Association for Artificial Intelligence Member
+* Shandong Association for Artificial Intelligence Member
 
 
 #### Reviewer
