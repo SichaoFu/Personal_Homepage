@@ -111,18 +111,37 @@
 1. Certificate of Computer and Software Professional Qualification（软考中级网络工程师）, 2018
 1. 中国石油大学（华东）共青团“一起答”纪念改革开放40周年知识竞赛一等奖, 2018
 1. “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
-1. 全国大学生“互联网+”创新大赛华东赛区二等奖, 2017
+1. 第五届“发现杯”全国大学生互联网软件设计大奖赛(互联网应用开发与设计)华东赛区二等奖, 2017
 1. First Prize in Qingdao Graduate Student Electronic Design Competition（青岛市第八届研究生电子设计竞赛一等奖）, 2017
 1. 第十五届研究生“博萃节”科技学术活动优秀组织者, 2017
 1. 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
 1. Third Prize of Academic Scholarship of China University of Petroleum （East China)（中国石油大学（华东）三等学业奖学金）, 2017
 
 ### Undergraduate (2013.09-2017.06)
-1. 各类奖学金18项（学业奖学金4项，学科竞赛奖学金11项，科研学术奖学金3项）
-1. 各类学科竞赛获奖11项 （国家级5项，省部级6项）
+1. 临沂大学学业一等奖学金一等2次，二等2次
+1. 临沂大学学科竞赛奖学金（创新创业类）一等4次，二等5次
+1. 临沂大学科研学术奖学金（创新创业类）三等3次
+1. 第六届全国大学生电子商务“创新、创意及创业”挑战赛山东赛区省级一等奖、全国三等奖
+1. 第四届“发现杯”全国大学生互联网软件设计大奖赛（网络营销技能）华东赛区一等奖、国家三等奖
+1. 第十三届山东省大学生软件设计大赛省级二等奖
+1. 第七届蓝桥杯全国软件和信息技术专业人才大赛省级三等奖
+1. 2016年“创青春”•海尔山东省大学生创业大赛省级铜奖
+1. 第三届“发现杯”全国大学生互联网软件设计大奖赛(互联网应用开发与设计)华东赛区二等奖
+1. 第四届“发现杯”全国大学生互联网软件设计大奖赛(互联网应用开发与设计)华东赛区三等奖
+1. 第十三届山东省大学生服务外包外语大赛省级三等奖
+1. 第四、五、六届全国大学生计算机信息素养大赛全国三等奖
+1. 临沂大学2015年大学生创新创业训练计划项目《基于智能手机APP的3D试衣间研究》
+1. 临沂大学2016年大学生创新创业训练计划项目《基于Web和智能设备的“物流云”平台的设计与研究
 1. 发表3篇一作国家级普刊论文 （[[1]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201608016&v=MjkzNzkxRnJDVVJMT2VaZVpvRnkzaFZiektMeWZBWkxHNEg5Zk1wNDlFWW9SOGVYMUx1eFlTN0RoMVQzcVRyV00=) [[2]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201603015&v=MTQ2NjR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVpvRnkzaFZidkpMeWZBWkxHNEg5Zk1ySTlFWVlSOGVYMUw=) [[3]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=DNBC201601022&v=MTgyMjZPZVplWm9GeTNoV3I3TklTUEpiYkc0SDlmTXJvOUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkw=)）
+
+
+1. 发表3篇一作国家级普刊论文
+1.1 《基于Web和Android的_立购_系统设计与研究》
+1.1 《基于Web和智能设备的物流系统的设计与研究》
+1.1 《临沂市智慧物流信息化平台的建设与研究》
+
+1. 临沂大学优秀毕业生
 1. 校级优秀毕业生、优秀团员、优秀志愿者等荣誉称号
-1. 申请并参与两项大学生创新创业项目
 1. 计算机二级、三级、四级，会计从业资格证等职业资格证书
 
 ---
