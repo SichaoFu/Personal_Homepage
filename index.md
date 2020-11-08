@@ -94,11 +94,10 @@
 ---
 
 ## Honors and Awards
-### Ph.D.
+### Ph.D. (2020.09-Now)
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology [（华中科技大学博士学业奖学金）](http://ei.hust.edu.cn/info/1177/5539.htm), 2020
 
-### Master
-
+### Master (2017.09-2020.06)
 1. Outstanding Master's Thesis of China University of Petroleum (East China) [（中国石油大学（华东）优秀硕士学位论文）](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)，2020
 1. Outstanding Graduates of Shandong Province（[山东省优秀毕业生](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)），2020
 1. First Prize of Professional Degree Postgraduate Famous Achievement Award of Shandong Province（[山东省专业学位研究生优秀成果奖省级一等奖](http://news.upc.edu.cn/info/1432/96016.htm)），2019
@@ -118,7 +117,7 @@
 1. 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
 1. Third Prize of Academic Scholarship of China University of Petroleum （East China)（中国石油大学（华东）三等学业奖学金）, 2017
 
-### Undergraduate
+### Undergraduate (2013.09-2017.06)
 1. 各类奖学金18项（学业奖学金4项，学科竞赛奖学金11项，科研学术奖学金3项）
 1. 各类学科竞赛获奖11项 （国家级5项，省部级6项）
 1. 发表3篇一作国家级普刊论文 （[[1]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201608016&v=MjkzNzkxRnJDVVJMT2VaZVpvRnkzaFZiektMeWZBWkxHNEg5Zk1wNDlFWW9SOGVYMUx1eFlTN0RoMVQzcVRyV00=) [[2]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201603015&v=MTQ2NjR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVpvRnkzaFZidkpMeWZBWkxHNEg5Zk1ySTlFWVlSOGVYMUw=) [[3]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=DNBC201601022&v=MTgyMjZPZVplWm9GeTNoV3I3TklTUEpiYkc0SDlmTXJvOUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkw=)）
