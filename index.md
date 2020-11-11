@@ -104,9 +104,9 @@
 1. First Prize of Professional Degree Postgraduate Outstanding Achievement Award of Shandong Province（[山东省专业学位研究生优秀成果奖省级一等奖](http://news.upc.edu.cn/info/1432/96016.htm)），2019
 1. Professional Degree Postgraduate Outstanding Achievement Award of China University of Petroleum （East China）  （[中国石油大学（华东）专业学位研究生优秀成果奖](http://gs.upc.edu.cn/2019/1114/c14691a225689/page.htm)）, 2019
 1. China National Scholarship（[硕士研究生国家奖学金](http://ygb.upc.edu.cn/2019/1023/c13638a222255/page.htm)）, 2019
-1. Ten Academic Elites（Award Nomination） of China University of Petroleum （East China） （[中国石油大学（华东）研究生学术十杰提名奖](http://gs.upc.edu.cn/2019/1119/c14691a226328/page.htm)）, 2019
+1. Top Ten Postgraduate on Academic（Award Nomination） of China University of Petroleum （East China） （[中国石油大学（华东）研究生学术十杰提名奖](http://gs.upc.edu.cn/2019/1119/c14691a226328/page.htm)）, 2019
 1. Outstanding Students of China University of Petroleum （East China）（中国石油大学（华东）优秀研究生），2019
-1. Academic Star of College of Oceangraphy and Space Informatics of China University of Petroleum （East China)（中国石油大学（华东）海洋与空间信息学院学术之星），2019
+1. Star on Academic of College of Oceangraphy and Space Informatics of China University of Petroleum （East China)（中国石油大学（华东）海洋与空间信息学院学术之星），2019
 1. First Prize of Academic Scholarship of China University of Petroleum （East China)（中国石油大学（华东）一等学业奖学金）, 2019
 1. 第十三届“西门子杯”中国智能制造挑战赛华北二赛区二等奖, 2019
 1. Certificate of Computer and Software Professional Qualification（软考中级网络工程师）, 2018
