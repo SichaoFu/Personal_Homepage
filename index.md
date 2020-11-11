@@ -122,6 +122,9 @@
 1. 临沂大学学业一等奖学金一等2次，二等2次
 1. 临沂大学学科竞赛奖学金（创新创业类）一等4次，二等5次
 1. 临沂大学科研学术奖学金（创新创业类）三等3次
+1. 傅司超, 刘乃丽. "[基于Web和Android的“立购”系统设计与研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=DNBC201601022&v=MTgyMjZPZVplWm9GeTNoV3I3TklTUEpiYkc0SDlmTXJvOUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkw=)". 电脑编程技巧与维护, 2016 (01): 51-52.
+1. 傅司超, 隋振. "[基于Web和智能设备的物流系统的设计与研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201603015&v=MTQ2NjR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVpvRnkzaFZidkpMeWZBWkxHNEg5Zk1ySTlFWVlSOGVYMUw=)". 科技经济导刊, 2016 (03): 26+23.
+1. 傅司超, 华满, 刘乃丽. "[临沂市智慧物流信息化平台的建设与研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201608016&v=MjkzNzkxRnJDVVJMT2VaZVpvRnkzaFZiektMeWZBWkxHNEg5Zk1wNDlFWW9SOGVYMUx1eFlTN0RoMVQzcVRyV00=)". 科技经济导刊, 2016 (08): 28.
 1. 第六届全国大学生电子商务“创新、创意及创业”挑战赛山东赛区省级一等奖、全国三等奖
 1. 第四届“发现杯”全国大学生互联网软件设计大奖赛（网络营销技能）华东赛区一等奖、国家三等奖
 1. 第十三届山东省大学生软件设计大赛省级二等奖
@@ -133,9 +136,6 @@
 1. 第四、五、六届全国大学生计算机信息素养大赛全国三等奖
 1. 临沂大学2015年大学生创新创业训练计划项目《基于智能手机APP的3D试衣间研究》
 1. 临沂大学2016年大学生创新创业训练计划项目《基于Web和智能设备的“物流云”平台的设计与研究》
-1. 傅司超, 刘乃丽. "[基于Web和Android的“立购”系统设计与研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=DNBC201601022&v=MTgyMjZPZVplWm9GeTNoV3I3TklTUEpiYkc0SDlmTXJvOUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkw=)". 电脑编程技巧与维护, 2016 (01): 51-52.
-1. 傅司超, 隋振. "[基于Web和智能设备的物流系统的设计与研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201603015&v=MTQ2NjR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVpvRnkzaFZidkpMeWZBWkxHNEg5Zk1ySTlFWVlSOGVYMUw=)". 科技经济导刊, 2016 (03): 26+23.
-1. 傅司超, 华满, 刘乃丽. "[临沂市智慧物流信息化平台的建设与研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201608016&v=MjkzNzkxRnJDVVJMT2VaZVpvRnkzaFZiektMeWZBWkxHNEg5Zk1wNDlFWW9SOGVYMUx1eFlTN0RoMVQzcVRyV00=)". 科技经济导刊, 2016 (08): 28.
 1. 临沂大学优秀毕业生
 1. 全国计算机等级考试（National Computer Rank Examination）二级（C语言程序设计）// 三级（网络技术）// 四级（网络工程师）优秀
 1. 优秀团员、优秀志愿者等各类荣誉称号
