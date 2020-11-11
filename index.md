@@ -74,7 +74,7 @@
     * Funded by: Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education
 1. [Research on Person re-identification Algorithms based on Metric Learning (基于Metric Learning的行人再识别算法研究)](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp)  (2018.05-2019.12)
      * Project Member
-     * Funded by: Graduate Student Innovation Project, China University of Petroleum (East China)  
+     * Funded by: Postgraduate Innovation Project, China University of Petroleum (East China)  
      * Grant Number: YCX2018064
 1. Research on Theory and Method of Large-scale Data Deep Structure Learning (大规模数据深度结构学习理论及方法研究)  (2018.01-2020.12）
     * Project Member
@@ -88,7 +88,7 @@
 ### Study Complete
  1. [Research on Semi-supervised Classification Method based on Graph Neural Networks (基于图神经网络的半监督分类算法研究)](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp)  （2019.05-2020.05）
     * Project Leader
-    * Funded by: Graduate Student Innovation Project, China University of Petroleum (East China)
+    * Funded by: Postgraduate Student Innovation Project, China University of Petroleum (East China)
     * Grant Number: YCX2019080
     * [已结题](http://gs.upc.edu.cn/2020/0615/c14671a302760/page.htm)
 
