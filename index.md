@@ -95,7 +95,7 @@
 
 ## Honors and Awards
 ### Ph.D. (2020.09-Now)
-1. Doctor Academic Scholarship of Huazhong University of Science and Technology [（华中科技大学博士学业奖学金）](http://ei.hust.edu.cn/info/1177/5539.htm), 2020
+1. Doctor Academic Scholarship of Huazhong University of Science and Technology [（华中科技大学博士学业奖学金）](http://gszz.hust.edu.cn/info/1087/2904.htm), 2020
 
 ### Master (2017.09-2020.06)
 1. Outstanding Master's Thesis of China University of Petroleum (East China) [（中国石油大学（华东）优秀硕士学位论文）](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)，2020
