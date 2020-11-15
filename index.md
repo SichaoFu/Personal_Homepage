@@ -11,7 +11,7 @@
 * Address: National Anti-counterfeit Engineering Research Center, No.1037 Luoyu Road, Hongshan District, Wuhan 430074,China
 * Email: fusichao_upc@163.com 
 
-**傅司超**, 中共预备党员, 研究生学历, 工学博士在读, IEEE学生会员, 石油工程师学会会员, 中国电子学会会员, 中国图学学会学生会员, 山东省人工智能学会会员。2017年6月毕业于临沂大学通信工程专业, 获工学学士学位; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2020年9月起就读于华中科技大学信息与通信工程专业。硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以学生第一位次主持在研国家重点实验室开放课题项目2项, 主持完成中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项; 以第一作者或导师一作、学生二作发表学术论文十篇, 申请公开国家发明专利两项。博士阶段主要研究方向为跨模态检索理论及其应用。担任数十种领域内重要期刊和国际学术会议审稿人。
+**傅司超**, 中共预备党员, 研究生学历, 工学博士在读, IEEE学生会员, 石油工程师学会学生会员, 中国电子学会会员, 中国图学学会学生会员, 中国仿真学会学生会员, 山东省人工智能学会会员。2017年6月毕业于临沂大学通信工程专业, 获工学学士学位; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2020年9月起就读于华中科技大学信息与通信工程专业。硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以学生第一位次主持在研国家重点实验室开放课题项目2项, 主持完成中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项; 以第一作者或导师一作、学生二作发表学术论文十篇, 申请公开国家发明专利两项。博士阶段主要研究方向为跨模态检索理论及其应用。担任数十种领域内重要期刊和国际学术会议审稿人。
 
 ---
 
@@ -153,9 +153,10 @@
 ## Professional Services
 #### Membership
 * IEEE Student Member
-* Society of Petroleum Engineers Member
+* Society of Petroleum Engineers Student Member
 * Chinese Institute of Electronics Member
 * China Graphics Society Student Member
+* China Simulation Federation Student Member
 * Shandong Association for Artificial Intelligence Member
 
 
