@@ -6,7 +6,7 @@
 
 ---
 
-**Sichao Fu** is currently a first-year Ph.D. student in information and communication engineering, from the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China; He has received the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, Shandong, China, in 2017; and has received the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, Shandong, China, in 2020. His current research interests include deep learning and machine learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-SichaoFu.pdf).
+**Sichao Fu** is currently a first-year Ph.D. student in information and communication engineering, from the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China; He has obtained the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, Shandong, China, in 2017; and the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, Shandong, China, in 2020. His current research interests include deep learning and machine learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/CV-SichaoFu.pdf).
 
 * Address: National Anti-counterfeit Engineering Research Center, No.1037 Luoyu Road, Hongshan District, Wuhan 430074,China
 * Email: fusichao_hust@hust.edu.cn 
@@ -23,8 +23,8 @@
 ---
 
 ## Education
-* 2020.09-Now, Ph.D. degree in information and communication engineering, College of Oceangraphy and Space Informatics, Huazhong University of Science and Technology, Wuhan, Hubei, China, Led by professor [**Xinge You**](http://ei.hust.edu.cn/professor/youxinge/).
-* 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceangraphy and Space Informatics, China University of Petroleum (East China), Qingdao, Shandong, China, Led by professor [**Weifeng Liu**](https://frostliu.github.io/); 
+* 2020.09-Now, Ph.D. degree in information and communication engineering, College of Oceangraphy and Space Informatics, Huazhong University of Science and Technology, Wuhan, Hubei, China, under the supervision of professor [**Xinge You**](http://ei.hust.edu.cn/professor/youxinge/).
+* 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceangraphy and Space Informatics, China University of Petroleum (East China), Qingdao, Shandong, China, under the supervision of professor [**Weifeng Liu**](https://frostliu.github.io/); 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University, Linyi, Shandong, China;
 
 ---
