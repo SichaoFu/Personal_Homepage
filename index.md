@@ -16,7 +16,7 @@
 ---
 
 ## Research Interests
-* Graph theory based Cross-modal Retrieval
+* Cross-modal Retrieval
 * Graph Representation Learning/Graph Convolutional Networks
 * Machine Learning/Deep Learning
 
