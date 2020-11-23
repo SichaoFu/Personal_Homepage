@@ -96,7 +96,7 @@
 
 ## Honors and Awards
 ### Ph.D. (2020.09-Now)
-1. 山东省第七届大学生科技创新大赛中国石油大学（华东）校赛（10/366）, 2020
+1. 山东省第七届大学生科技创新大赛---中国石油大学（华东）校赛（10/366）, 2020
 1. 华中科技大学第七次研究生代表大会正式代表, 2020
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology [（华中科技大学博士学业奖学金）](http://gszz.hust.edu.cn/info/1087/2904.htm), 2020
 
