@@ -1,5 +1,4 @@
 # Welcome to Sichao Fu's Pages
-
 ===
 
 |[Research Interests](#research-interests)|[Education](#education)|[Publications](#publications)
