@@ -145,7 +145,6 @@
 
 ---
 
-
 ## Experiences
 * 山东省研究生暑假学校---“机器人与智能控制技术”, 2018
 * 中国石油大学（华东）研究生骨干培训班, 2017 
@@ -160,7 +159,6 @@
 * China Graphics Society Student Member
 * China Simulation Federation Student Member
 * Shandong Association for Artificial Intelligence Member
-
 
 #### Reviewer
 * IEEE Transactions on Neural Networks and Learning Systems
