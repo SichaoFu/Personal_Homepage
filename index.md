@@ -81,9 +81,9 @@
     * Funded by: Independent Innovation Research Project, China University of Petroleum (East China)  
     * Grant Number: 18CX07011A
 1. Image Annotation based on Mult-iview Depth Sparse Coding and Manifold Regularization (基于多视角深度稀疏编码及流形正则化的图像标注研究)     (2017.01-2020.12）
-     * Project Member
-     * Funded by: National Natural Science Foundation of China 
-     * Grant Number: 61671480
+    * Project Member
+    * Funded by: National Natural Science Foundation of China 
+    * Grant Number: 61671480
 
 ### Study Complete
  1. [Research on Semi-supervised Classification Method based on Graph Neural Networks (基于图神经网络的半监督分类算法研究)](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp)  （2019.05-2020.05）
@@ -97,7 +97,8 @@
 ## Honors and Awards
 ### Ph.D. (2020.09-Now)
 1. 华中科技大学第七次研究生代表大会正式代表, 2020
-1. Academic Degree Postgraduate Outstanding Achievement Award of China University of Petroleum （East China）（[中国石油大学（华东）学术学位研究生优秀成果奖](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm)）（排名19/22）, 2020 ---基于局部几何结构的领域自适应算法研究 （共同完成） 
+1. Academic Degree Postgraduate Outstanding Achievement Award of China University of Petroleum （East China）（[中国石油大学（华东）学术学位研究生优秀成果奖](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm)）（排名19/22）, 2020 
+   * 基于局部几何结构的领域自适应算法研究 （共同完成） 
 1. 山东省第七届大学生科技创新大赛---中国石油大学（华东）校赛（排名10/366）, 2020
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology [（华中科技大学博士学业奖学金）](http://gszz.hust.edu.cn/info/1087/2904.htm), 2020
 
