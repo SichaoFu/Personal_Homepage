@@ -96,6 +96,8 @@
 
 ## Honors and Awards
 ### Ph.D. (2020.09-Now)
+1. Professional Degree Postgraduate Outstanding Achievement Award of China University of Petroleum （East China）（[中国石油大学（华东）学术学位研究生优秀成果奖](http://gs.upc.edu.cn/2019/1114/c14691a225689/page.htm)）（19/22）, 2019
+
 1. 华中科技大学第七次研究生代表大会正式代表, 2020
 1. 山东省第七届大学生科技创新大赛---中国石油大学（华东）校赛（10/366）, 2020
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology [（华中科技大学博士学业奖学金）](http://gszz.hust.edu.cn/info/1087/2904.htm), 2020
@@ -104,7 +106,7 @@
 1. Outstanding Master's Thesis of China University of Petroleum (East China) [（中国石油大学（华东）优秀硕士学位论文）](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)，2020
 1. Outstanding Graduate of Shandong Province（[山东省优秀毕业生](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)），2020
 1. First Prize of Professional Degree Postgraduate Outstanding Achievement Award of Shandong Province（[山东省专业学位研究生优秀成果奖省级一等奖](http://news.upc.edu.cn/info/1432/96016.htm)），2019
-1. Professional Degree Postgraduate Outstanding Achievement Award of China University of Petroleum （East China）（[中国石油大学（华东）专业学位研究生优秀成果奖](http://gs.upc.edu.cn/2019/1114/c14691a225689/page.htm)）, 2019
+1. Professional Degree Postgraduate Outstanding Achievement Award of China University of Petroleum （East China）（[中国石油大学（华东）专业学位研究生优秀成果奖](http://gs.upc.edu.cn/2019/1114/c14691a225689/page.htm)）（1/15）, 2019
 1. China National Scholarship（[硕士研究生国家奖学金](http://ygb.upc.edu.cn/2019/1023/c13638a222255/page.htm)）, 2019
 1. First Prize of Academic Scholarship of China University of Petroleum （East China)（中国石油大学（华东）一等学业奖学金）, 2019
 1. Top Ten Postgraduate on Academic（Award Nomination） of China University of Petroleum （East China）（[中国石油大学（华东）研究生学术十杰提名奖](http://gs.upc.edu.cn/2019/1119/c14691a226328/page.htm)）, 2019
