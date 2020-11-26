@@ -3,6 +3,7 @@
 |[Research Interests](#research-interests)|[Education](#education)|[Publications](#publications)
 |[China Patents](#china-patents)|[Projects](#projects)|[Honors and Awards](#honors-and-awards)
 |[Experiences](#experiences)|[Professional Services](#professional-services)|[Resources](#resources)|
+
 ---
 
 **Sichao Fu** is currently a first-year Ph.D. student in information and communication engineering, from the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China; He has obtained the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, Shandong, China, in 2017; and the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, Shandong, China, in 2020. His current research interests include deep learning and machine learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
