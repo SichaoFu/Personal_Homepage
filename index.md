@@ -105,7 +105,7 @@
 
 ### Master (2017.09-2020.06)
 1. Outstanding Master's Thesis of China University of Petroleum (East China) [（中国石油大学（华东）优秀硕士学位论文）](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)，2020
-1. [中国石油大学（华东）青年五四奖章（集体）](http://youth.upc.edu.cn/2020/0426/c11148a298325/page.htm), 2020 // 全体抗击新冠肺炎疫情青年志愿者
+1. [中国石油大学（华东）青年五四奖章（集体）](http://youth.upc.edu.cn/2020/0426/c11148a298325/page.htm), 2020 // 中国石油大学（华东）全体抗击新冠肺炎疫情青年志愿者
 1. Outstanding Graduate of Shandong Province（[山东省优秀毕业生](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)），2020
 1. First Prize of Professional Degree Postgraduate Outstanding Achievement Award of Shandong Province（[山东省专业学位研究生优秀成果奖省级一等奖](http://news.upc.edu.cn/info/1432/96016.htm)），2019
    * Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification (基于图卷积神经网络的半监督分类算法研究) 
