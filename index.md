@@ -67,28 +67,28 @@
 ### Under Study
 1. [Research on the Efficient Local Geometry Preserving Methods of Graph Representation Learning and its Modeling Analysis ](http://www.nlpr.ia.ac.cn/cn/news/1565.html) // 探究图表示学习中有效保持样本分布局部结构方法及建模分析（2020.01-2021.12）
     * Student First Project Leader
-    * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR)
+    * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR) // 模式识别国家重点实验室开放课题
     * Grant Number: 202000009
 1. Research on Data Representation Learning Theory and Method based on Graph Neural Networks // 基于图神经网络的数据表示学习理论与方法研究 （2019.01-2020.12）
     * Student First Project Leader
-    * Funded by: Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education
+    * Funded by: Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education // 复杂系统建模与仿真教育部重点实验室开放课题
 1. [Research on Person re-identification Algorithms based on Metric Learning ](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp) // 基于Metric Learning的行人再识别算法研究 （2018.05-2019.12）
      * Project Member
-     * Funded by: Postgraduate Innovation Project, China University of Petroleum (East China)  
+     * Funded by: Postgraduate Innovation Project, China University of Petroleum (East China) // 中国石油大学（华东）校赛研究生创新工程资助项目
      * Grant Number: YCX2018064
 1. Research on Theory and Method of Large-scale Data Deep Structure Learning // 大规模数据深度结构学习理论及方法研究 （2018.01-2020.12）
     * Project Member
-    * Funded by: Independent Innovation Research Project, China University of Petroleum (East China)  
+    * Funded by: Independent Innovation Research Project, China University of Petroleum (East China) // 中国石油大学（华东）自主创新科研计划项目
     * Grant Number: 18CX07011A
 1. Image Annotation based on Mult-iview Depth Sparse Coding and Manifold Regularization // 基于多视角深度稀疏编码及流形正则化的图像标注研究 （2017.01-2020.12）
     * Project Member
-    * Funded by: National Natural Science Foundation of China 
+    * Funded by: National Natural Science Foundation of China // 国家自然科学基金面上项目
     * Grant Number: 61671480
 
 ### Study Complete
  1. [Research on Semi-supervised Classification Method based on Graph Neural Networks ](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp) // 基于图神经网络的半监督分类算法研究 （2019.05-2020.05）
     * Project Leader
-    * Funded by: Postgraduate Student Innovation Project, China University of Petroleum (East China)
+    * Funded by: Postgraduate Student Innovation Project, China University of Petroleum (East China) // 中国石油大学（华东）校赛研究生创新工程资助项目
     * Grant Number: YCX2019080
     * [已结题](http://gs.upc.edu.cn/2020/0615/c14671a302760/page.htm)
 
