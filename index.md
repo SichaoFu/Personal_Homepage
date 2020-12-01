@@ -47,16 +47,16 @@
 1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**. World Scientific, Book edited by: Dr. Li Xiaoli, Dr. Chen Zhenghua and Dr. Wu Min, in press, 2020. // [URL](https://doi.org/10.1142/11784)
 
 ### Degree Thesis
-1. **Sichao Fu**, Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究, **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, 2020.	
-1. **Sichao Fu**, Design and Research on the "Logistics Cloud" System based on Web and Smart Devices // 基于Web和智能设备的"物流云"系统的设计与研究, **Degree Thesis of Engineering Bachelor of Linyi University**, 2017.
+1. **Sichao Fu**, "Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究", **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, 2020.	
+1. **Sichao Fu**, "Design and Research on the "Logistics Cloud" System based on Web and Smart Devices // 基于Web和智能设备的"物流云"系统的设计与研究", **Degree Thesis of Engineering Bachelor of Linyi University**, 2017.
 
 ---
 ## China Patents
-1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "Semi-supervised Classification Method based on Hypergraph p-Laplacian Graph Convolutional Neural Networks" // 一种基于超图p-Laplacian图卷积神经网络的半监督分类方法. // [URL] (http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A)
+1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "Semi-supervised Classification Method based on Hypergraph p-Laplacian Graph Convolutional Neural Networks // 一种基于超图p-Laplacian图卷积神经网络的半监督分类方法". // [URL](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A)
    * Patent for Invention
    * Open Number: CN109766935A
    * Open Date: 17 May, 2019
-1. **Sichao Fu**, Zehong Ji, Weifeng Liu and Liqiang Nie, "Semi-supervised Classification Method based on p-Laplacian Graph Convolutional Neural Networks " // 一种基于p-Laplacian图卷积神经网络的半监督分类方法. // [URL](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109583519A)
+1. **Sichao Fu**, Zehong Ji, Weifeng Liu and Liqiang Nie, "Semi-supervised Classification Method based on p-Laplacian Graph Convolutional Neural Networks // 一种基于p-Laplacian图卷积神经网络的半监督分类方法". // [URL](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109583519A)
    * Patent for Invention
    * Open Number: CN109583519A
    * Open Date: 5 April, 2019
@@ -65,7 +65,7 @@
 
 ## Projects
 ### Under Study
-1. [Research on the Efficient Local Geometry Preserving Methods of Graph Representation Learning and its Modeling Analysis ](http://www.nlpr.ia.ac.cn/cn/news/1565.html) // 探究图表示学习中有效保持样本分布局部结构方法及建模分析（2020.01-2021.12）
+1. Research on the Efficient Local Geometry Preserving Methods of Graph Representation Learning and its Modeling Analysis // 探究图表示学习中有效保持样本分布局部结构方法及建模分析（2020.01-2021.12）// [URL](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
     * Student First Project Leader
     * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR) // 模式识别国家重点实验室开放课题
     * Grant Number: 202000009
@@ -82,12 +82,12 @@
     * Grant Number: 61671480
 
 ### Study Complete
- 1. [Research on Semi-supervised Classification Method based on Graph Neural Networks ](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp) // 基于图神经网络的半监督分类算法研究 （2019.05-2020.05）
+ 1. Research on Semi-supervised Classification Method based on Graph Neural Networks // 基于图神经网络的半监督分类算法研究 （2019.05-2020.05）// [URL](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp)
     * Project Leader
     * Funded by: Postgraduate Student Innovation Project, China University of Petroleum (East China) // 中国石油大学（华东）研究生创新工程资助项目
     * Grant Number: YCX2019080
     * [已结题](http://gs.upc.edu.cn/2020/0615/c14671a302760/page.htm)
-1. [Research on Person re-identification Algorithms based on Metric Learning ](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp) // 基于Metric Learning的行人再识别算法研究 （2018.05-2019.12）
+1. Research on Person re-identification Algorithms based on Metric Learning // 基于Metric Learning的行人再识别算法研究 （2018.05-2019.12）// [URL](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp)
      * Project Member
      * Funded by: Postgraduate Innovation Project, China University of Petroleum (East China) // 中国石油大学（华东）研究生创新工程资助项目
      * Grant Number: YCX2018064
@@ -97,11 +97,11 @@
 ## Honors and Awards
 ### Ph.D. (2020.09-Now)
 1. 华中科技大学第七次研究生代表大会正式代表, 2020
-1. [Academic Degree Postgraduate Outstanding Achievement Award of China University of Petroleum(East China)](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm) // 中国石油大学（华东）学术学位研究生优秀成果奖（排名19/22）, 2020 
+1. Academic Degree Postgraduate Outstanding Achievement Award of China University of Petroleum(East China) // 中国石油大学（华东）学术学位研究生优秀成果奖（排名19/22）, 2020 // [URL](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm)
    * Research on Local Geometric Structure Preserving based Domain Adaptation Algorithms // 基于局部几何结构的领域自适应算法研究
    * Complete Together // 共同完成
 1. 山东省第七届大学生科技创新大赛---中国石油大学（华东）校赛（排名10/366）, 2020
-1. [Doctor Academic Scholarship of Huazhong University of Science and Technology](http://gszz.hust.edu.cn/info/1087/2904.htm) // 华中科技大学博士学业奖学金, 2020
+1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2020 // [URL](http://gszz.hust.edu.cn/info/1087/2904.htm)
 
 ### Master (2017.09-2020.06)
 1. [Outstanding Master's Thesis of China University of Petroleum (East China)](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm) // 中国石油大学（华东）优秀硕士学位论文, 2020
@@ -132,9 +132,9 @@
 1. 临沂大学学业一等奖学金一等2次，二等2次
 1. 临沂大学学科竞赛奖学金（创新创业类）一等4次，二等5次
 1. 临沂大学科研学术奖学金（创新创业类）三等3次
-1. 傅司超, 刘乃丽. "[基于Web和Android的“立购”系统设计与研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=DNBC201601022&v=MTgyMjZPZVplWm9GeTNoV3I3TklTUEpiYkc0SDlmTXJvOUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkw=)". 电脑编程技巧与维护, 2016 (01): 51-52.
-1. 傅司超, 隋振. "[基于Web和智能设备的物流系统的设计与研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201603015&v=MTQ2NjR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVpvRnkzaFZidkpMeWZBWkxHNEg5Zk1ySTlFWVlSOGVYMUw=)". 科技经济导刊, 2016 (03): 26+23.
-1. 傅司超, 华满, 刘乃丽. "[临沂市智慧物流信息化平台的建设与研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201608016&v=MjkzNzkxRnJDVVJMT2VaZVpvRnkzaFZiektMeWZBWkxHNEg5Zk1wNDlFWW9SOGVYMUx1eFlTN0RoMVQzcVRyV00=)". 科技经济导刊, 2016 (08): 28.
+1. 傅司超, 刘乃丽. "基于Web和Android的“立购”系统设计与研究". 电脑编程技巧与维护, 2016 (01): 51-52. // [URL](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=DNBC201601022&v=MTgyMjZPZVplWm9GeTNoV3I3TklTUEpiYkc0SDlmTXJvOUhab1I4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkw=)
+1. 傅司超, 隋振. "基于Web和智能设备的物流系统的设计与研究". 科技经济导刊, 2016 (03): 26+23. // [URL](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201603015&v=MTQ2NjR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVpvRnkzaFZidkpMeWZBWkxHNEg5Zk1ySTlFWVlSOGVYMUw=)
+1. 傅司超, 华满, 刘乃丽. "临沂市智慧物流信息化平台的建设与研究". 科技经济导刊, 2016 (08): 28. // [URL](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JJKJ201608016&v=MjkzNzkxRnJDVVJMT2VaZVpvRnkzaFZiektMeWZBWkxHNEg5Zk1wNDlFWW9SOGVYMUx1eFlTN0RoMVQzcVRyV00=)
 1. 第六届全国大学生电子商务“创新、创意及创业”挑战赛山东赛区省级一等奖、全国三等奖
 1. 第四届“发现杯”全国大学生互联网软件设计大奖赛（网络营销技能）华东赛区一等奖、国家三等奖
 1. 第四、五、六届全国大学生计算机信息素养大赛全国三等奖
