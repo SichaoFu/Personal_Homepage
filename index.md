@@ -6,7 +6,7 @@
 
 ---
 
-**Sichao Fu** is currently a first-year Ph.D. student in information and communication engineering, from the School of Electronic Information and Communications, Huazhong University of Science and Technology （HUST）, Wuhan, Hubei, China; He has obtained the B.Eng. degree in communication engineering from Linyi University （LYU）, Linyi, Shandong, China, in 2017; and the M.Eng. degree in electronics and communication engineering from China University of Petroleum （East China）（UPC）, Qingdao, Shandong, China, in 2020. His current research interests include deep learning and machine learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
+**Sichao Fu** is currently a first-year Ph.D. student in information and communication engineering, from the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China; He has obtained the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, Shandong, China, in 2017; and the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, Shandong, China, in 2020. His current research interests include deep learning and machine learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
 
 * Address: National Anti-counterfeit Engineering Research Center, No.1037 Luoyu Road, Hongshan District, Wuhan 430074,China
 * Email: fusichao_hust@hust.edu.cn 
@@ -52,11 +52,11 @@
 
 ---
 ## China Patents
-1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "[Semi-supervised Classification Method based on Hypergraph p-Laplacian Graph Convolutional Neural Networks ](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A)" (一种基于超图p-Laplacian图卷积神经网络的半监督分类方法).
+1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "[Semi-supervised Classification Method based on Hypergraph p-Laplacian Graph Convolutional Neural Networks ](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A)" （一种基于超图p-Laplacian图卷积神经网络的半监督分类方法）.
    * Patent for Invention
    * Open Number: CN109766935A
    * Open Date: 17 May, 2019
-1. **Sichao Fu**, Zehong Ji, Weifeng Liu and Liqiang Nie, "[Semi-supervised Classification Method based on p-Laplacian Graph Convolutional Neural Networks ](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109583519A)" (一种基于p-Laplacian图卷积神经网络的半监督分类方法).
+1. **Sichao Fu**, Zehong Ji, Weifeng Liu and Liqiang Nie, "[Semi-supervised Classification Method based on p-Laplacian Graph Convolutional Neural Networks ](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109583519A)" （一种基于p-Laplacian图卷积神经网络的半监督分类方法）.
    * Patent for Invention
    * Open Number: CN109583519A
    * Open Date: 5 April, 2019
