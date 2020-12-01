@@ -6,7 +6,7 @@
 
 ---
 
-**Sichao Fu** is currently a first-year Ph.D. student in information and communication engineering, from the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China; He has obtained the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, Shandong, China, in 2017; and the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, Shandong, China, in 2020. His current research interests include deep learning and machine learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
+**Sichao Fu** is currently a first-year Ph.D. student in information and communication engineering, from the School of Electronic Information and Communications, Huazhong University of Science and Technology （HUST）, Wuhan, Hubei, China; He has obtained the B.Eng. degree in communication engineering from Linyi University （LYU）, Linyi, Shandong, China, in 2017; and the M.Eng. degree in electronics and communication engineering from China University of Petroleum （East China）（UPC）, Qingdao, Shandong, China, in 2020. His current research interests include deep learning and machine learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
 
 * Address: National Anti-counterfeit Engineering Research Center, No.1037 Luoyu Road, Hongshan District, Wuhan 430074,China
 * Email: fusichao_hust@hust.edu.cn 
@@ -65,28 +65,28 @@
 
 ## Projects
 ### Under Study
-1. [Research on the Efficient Local Geometry Preserving Methods of Graph Representation Learning and its Modeling Analysis ](http://www.nlpr.ia.ac.cn/cn/news/1565.html) (探究图表示学习中有效保持样本分布局部结构方法及建模分析)（2020.01-2021.12）
+1. [Research on the Efficient Local Geometry Preserving Methods of Graph Representation Learning and its Modeling Analysis ](http://www.nlpr.ia.ac.cn/cn/news/1565.html) // 探究图表示学习中有效保持样本分布局部结构方法及建模分析（2020.01-2021.12）
     * Student First Project Leader
     * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR)
     * Grant Number: 202000009
-1. Research on Data Representation Learning Theory and Method based on Graph Neural Networks (基于图神经网络的数据表示学习理论与方法研究)     (2019.01-2020.12）
+1. Research on Data Representation Learning Theory and Method based on Graph Neural Networks // 基于图神经网络的数据表示学习理论与方法研究 （2019.01-2020.12）
     * Student First Project Leader
     * Funded by: Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education
-1. [Research on Person re-identification Algorithms based on Metric Learning ](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp) (基于Metric Learning的行人再识别算法研究) (2018.05-2019.12)
+1. [Research on Person re-identification Algorithms based on Metric Learning ](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp) // 基于Metric Learning的行人再识别算法研究 （2018.05-2019.12）
      * Project Member
      * Funded by: Postgraduate Innovation Project, China University of Petroleum (East China)  
      * Grant Number: YCX2018064
-1. Research on Theory and Method of Large-scale Data Deep Structure Learning (大规模数据深度结构学习理论及方法研究)  (2018.01-2020.12）
+1. Research on Theory and Method of Large-scale Data Deep Structure Learning // 大规模数据深度结构学习理论及方法研究 （2018.01-2020.12）
     * Project Member
     * Funded by: Independent Innovation Research Project, China University of Petroleum (East China)  
     * Grant Number: 18CX07011A
-1. Image Annotation based on Mult-iview Depth Sparse Coding and Manifold Regularization (基于多视角深度稀疏编码及流形正则化的图像标注研究)     (2017.01-2020.12）
+1. Image Annotation based on Mult-iview Depth Sparse Coding and Manifold Regularization // 基于多视角深度稀疏编码及流形正则化的图像标注研究 （2017.01-2020.12）
     * Project Member
     * Funded by: National Natural Science Foundation of China 
     * Grant Number: 61671480
 
 ### Study Complete
- 1. [Research on Semi-supervised Classification Method based on Graph Neural Networks ](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp) (基于图神经网络的半监督分类算法研究)（2019.05-2020.05）
+ 1. [Research on Semi-supervised Classification Method based on Graph Neural Networks ](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp) // 基于图神经网络的半监督分类算法研究 （2019.05-2020.05）
     * Project Leader
     * Funded by: Postgraduate Student Innovation Project, China University of Petroleum (East China)
     * Grant Number: YCX2019080
