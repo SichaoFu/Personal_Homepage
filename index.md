@@ -97,36 +97,36 @@
 ## Honors and Awards
 ### Ph.D. (2020.09-Now)
 1. 华中科技大学第七次研究生代表大会正式代表, 2020
-1. [Academic Degree Postgraduate Outstanding Achievement Award of China University of Petroleum （East China）](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm)（中国石油大学（华东）学术学位研究生优秀成果奖）（排名19/22）, 2020 
-   * Research on Local Geometric Structure Preserving based Domain Adaptation Algorithms （基于局部几何结构的领域自适应算法研究） 
-   * Complete Together （共同完成） 
+1. [Academic Degree Postgraduate Outstanding Achievement Award of China University of Petroleum(East China)](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm) // 中国石油大学（华东）学术学位研究生优秀成果奖（排名19/22）, 2020 
+   * Research on Local Geometric Structure Preserving based Domain Adaptation Algorithms // 基于局部几何结构的领域自适应算法研究
+   * Complete Together// 共同完成
 1. 山东省第七届大学生科技创新大赛---中国石油大学（华东）校赛（排名10/366）, 2020
-1. [Doctor Academic Scholarship of Huazhong University of Science and Technology](http://gszz.hust.edu.cn/info/1087/2904.htm)（华中科技大学博士学业奖学金）, 2020
+1. [Doctor Academic Scholarship of Huazhong University of Science and Technology](http://gszz.hust.edu.cn/info/1087/2904.htm) // 华中科技大学博士学业奖学金, 2020
 
 ### Master (2017.09-2020.06)
-1. [Outstanding Master's Thesis of China University of Petroleum (East China)](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)（中国石油大学（华东）优秀硕士学位论文）, 2020
+1. [Outstanding Master's Thesis of China University of Petroleum (East China)](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm) // 中国石油大学（华东）优秀硕士学位论文, 2020
 1. [中国石油大学（华东）青年五四奖章（集体）](http://youth.upc.edu.cn/2020/0426/c11148a298325/page.htm) // 中国石油大学（华东）全体抗击新冠肺炎疫情青年志愿者, 2020 
-1. [Outstanding Graduate of Shandong Province](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)（山东省优秀毕业生），2020
-1. [First Prize of Professional Degree Postgraduate Outstanding Achievement Award of Shandong Province](http://news.upc.edu.cn/info/1432/96016.htm)（山东省专业学位研究生优秀成果奖省级一等奖），2019
-   * Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification (基于图卷积神经网络的半监督分类算法研究) 
-   * Complete Independently （独立完成） 
-1. [Professional Degree Postgraduate Outstanding Achievement Award of China University of Petroleum（East China）](http://gs.upc.edu.cn/2019/1114/c14691a225689/page.htm)（中国石油大学（华东）专业学位研究生优秀成果奖）（排名1/15）, 2019
-   * Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification (基于图卷积神经网络的半监督分类算法研究) 
-   * Complete Independently （独立完成） 
-1. [China National Scholarship](http://ygb.upc.edu.cn/2019/1023/c13638a222255/page.htm)（硕士研究生国家奖学金）, 2019
-1. First Prize of Academic Scholarship of China University of Petroleum （East China)（中国石油大学（华东）一等学业奖学金）, 2019
-1. [Top Ten Postgraduate on Academic（Award Nomination） of China University of Petroleum （East China）](http://gs.upc.edu.cn/2019/1119/c14691a226328/page.htm)（中国石油大学（华东）研究生学术十杰提名奖）, 2019
+1. [Outstanding Graduate of Shandong Province](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm) // 山东省优秀毕业生，2020
+1. [First Prize of Professional Degree Postgraduate Outstanding Achievement Award of Shandong Province](http://news.upc.edu.cn/info/1432/96016.htm) // 山东省专业学位研究生优秀成果奖省级一等奖，2019
+   * Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究
+   * Complete Independently // 独立完成
+1. [Professional Degree Postgraduate Outstanding Achievement Award of China University of Petroleum (East China)](http://gs.upc.edu.cn/2019/1114/c14691a225689/page.htm) // 中国石油大学（华东）专业学位研究生优秀成果奖 （排名1/15）, 2019
+   * Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究
+   * Complete Independently // 独立完成
+1. [China National Scholarship](http://ygb.upc.edu.cn/2019/1023/c13638a222255/page.htm) // 硕士研究生国家奖学金, 2019
+1. First Prize of Academic Scholarship of China University of Petroleum (East China) // 中国石油大学（华东）一等学业奖学金, 2019
+1. [Top Ten Postgraduate on Academic（Award Nomination） of China University of Petroleum (East China)](http://gs.upc.edu.cn/2019/1119/c14691a226328/page.htm) // 中国石油大学（华东）研究生学术十杰提名奖, 2019
 1. Outstanding Postgraduate of China University of Petroleum （East China）（中国石油大学（华东）优秀研究生），2019
-1. Star on Academic of College of Oceangraphy and Space Informatics of China University of Petroleum （East China)（中国石油大学（华东）海洋与空间信息学院学术之星），2019
+1. Star on Academic of College of Oceangraphy and Space Informatics of China University of Petroleum (East China) // 中国石油大学（华东）海洋与空间信息学院学术之星，2019
 1. 第十三届“西门子杯”中国智能制造挑战赛华北二赛区二等奖, 2019
-1. Certificate of Computer and Software Professional Qualification（软考中级网络工程师）, 2018
+1. Certificate of Computer and Software Professional Qualification // 软考中级网络工程师, 2018
 1. 中国石油大学（华东）共青团“一起答”纪念改革开放40周年知识竞赛一等奖, 2018
 1. “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
 1. 第五届“发现杯”全国大学生互联网软件设计大奖赛（互联网应用开发与设计）华东赛区二等奖, 2017
-1. First Prize in Qingdao Postgraduate Electronic Design Competition（青岛市第八届研究生电子设计竞赛一等奖）, 2017
+1. First Prize in Qingdao Postgraduate Electronic Design Competition // 青岛市第八届研究生电子设计竞赛一等奖, 2017
 1. 第十五届研究生“博萃节”科技学术活动优秀组织者, 2017
 1. 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
-1. Third Prize of Academic Scholarship of China University of Petroleum （East China)（中国石油大学（华东）三等学业奖学金）, 2017
+1. Third Prize of Academic Scholarship of China University of Petroleum (East China) // 中国石油大学（华东）三等学业奖学金, 2017
 
 ### Undergraduate (2013.09-2017.06)
 1. 临沂大学学业一等奖学金一等2次，二等2次
