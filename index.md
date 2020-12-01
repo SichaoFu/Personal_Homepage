@@ -104,18 +104,18 @@
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2020 // [URL](http://gszz.hust.edu.cn/info/1087/2904.htm)
 
 ### Master (2017.09-2020.06)
-1. [Outstanding Master's Thesis of China University of Petroleum (East China)](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm) // 中国石油大学（华东）优秀硕士学位论文, 2020
-1. [中国石油大学（华东）青年五四奖章（集体）](http://youth.upc.edu.cn/2020/0426/c11148a298325/page.htm) // 中国石油大学（华东）全体抗击新冠肺炎疫情青年志愿者, 2020 
-1. [Outstanding Graduate of Shandong Province](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm) // 山东省优秀毕业生，2020
-1. [First Prize of Professional Degree Postgraduate Outstanding Achievement Award of Shandong Province](http://news.upc.edu.cn/info/1432/96016.htm) // 山东省专业学位研究生优秀成果奖省级一等奖，2019
+1. Outstanding Master's Thesis of China University of Petroleum (East China) // 中国石油大学（华东）优秀硕士学位论文, 2020 // [URL](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)
+1. 中国石油大学（华东）青年五四奖章（集体）// 中国石油大学（华东）全体抗击新冠肺炎疫情青年志愿者, 2020 // [URL](http://youth.upc.edu.cn/2020/0426/c11148a298325/page.htm)
+1. Outstanding Graduate of Shandong Province // 山东省优秀毕业生，2020 // [URL](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)
+1. First Prize of Professional Degree Postgraduate Outstanding Achievement Award of Shandong Province // 山东省专业学位研究生优秀成果奖省级一等奖，2019 //[URL](http://news.upc.edu.cn/info/1432/96016.htm)
    * Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究
    * Complete Independently // 独立完成
-1. [Professional Degree Postgraduate Outstanding Achievement Award of China University of Petroleum (East China)](http://gs.upc.edu.cn/2019/1114/c14691a225689/page.htm) // 中国石油大学（华东）专业学位研究生优秀成果奖 （排名1/15）, 2019
+1. Professional Degree Postgraduate Outstanding Achievement Award of China University of Petroleum (East China) // 中国石油大学（华东）专业学位研究生优秀成果奖 （排名1/15）, 2019 // [URL](http://gs.upc.edu.cn/2019/1114/c14691a225689/page.htm)
    * Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究
    * Complete Independently // 独立完成
-1. [China National Scholarship](http://ygb.upc.edu.cn/2019/1023/c13638a222255/page.htm) // 硕士研究生国家奖学金, 2019
+1. China National Scholarship // 硕士研究生国家奖学金, 2019 // [URL](http://ygb.upc.edu.cn/2019/1023/c13638a222255/page.htm)
 1. First Prize of Academic Scholarship of China University of Petroleum (East China) // 中国石油大学（华东）一等学业奖学金, 2019
-1. [Top Ten Postgraduate on Academic（Award Nomination） of China University of Petroleum (East China)](http://gs.upc.edu.cn/2019/1119/c14691a226328/page.htm) // 中国石油大学（华东）研究生学术十杰提名奖, 2019
+1. Top Ten Postgraduate on Academic（Award Nomination） of China University of Petroleum (East China) // 中国石油大学（华东）研究生学术十杰提名奖, 2019 // [URL](http://gs.upc.edu.cn/2019/1119/c14691a226328/page.htm)
 1. Outstanding Postgraduate of China University of Petroleum (East China) // 中国石油大学（华东）优秀研究生, 2019
 1. Star on Academic of College of Oceangraphy and Space Informatics of China University of Petroleum (East China) // 中国石油大学（华东）海洋与空间信息学院学术之星, 2019
 1. 第十三届“西门子杯”中国智能制造挑战赛华北二赛区二等奖, 2019
