@@ -97,20 +97,20 @@
 ## Honors and Awards
 ### Ph.D. (2020.09-Now)
 1. 华中科技大学第七次研究生代表大会正式代表, 2020
-1. [Academic Degree Postgraduate Outstanding Achievement Award of China University of Petroleum （East China）](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm) （中国石油大学（华东）学术学位研究生优秀成果奖）（排名19/22）, 2020 
+1. [Academic Degree Postgraduate Outstanding Achievement Award of China University of Petroleum （East China）](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm)（中国石油大学（华东）学术学位研究生优秀成果奖）（排名19/22）, 2020 
    * Research on Local Geometric Structure Preserving based Domain Adaptation Algorithms （基于局部几何结构的领域自适应算法研究） 
    * Complete Together （共同完成） 
 1. 山东省第七届大学生科技创新大赛---中国石油大学（华东）校赛（排名10/366）, 2020
-1. [Doctor Academic Scholarship of Huazhong University of Science and Technology] (http://gszz.hust.edu.cn/info/1087/2904.htm) （华中科技大学博士学业奖学金）, 2020
+1. [Doctor Academic Scholarship of Huazhong University of Science and Technology](http://gszz.hust.edu.cn/info/1087/2904.htm)（华中科技大学博士学业奖学金）, 2020
 
 ### Master (2017.09-2020.06)
-1. [Outstanding Master's Thesis of China University of Petroleum (East China)](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)（中国石油大学（华东）优秀硕士学位论文），2020
+1. [Outstanding Master's Thesis of China University of Petroleum (East China)](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)（中国石油大学（华东）优秀硕士学位论文）, 2020
 1. [中国石油大学（华东）青年五四奖章（集体）](http://youth.upc.edu.cn/2020/0426/c11148a298325/page.htm) // 中国石油大学（华东）全体抗击新冠肺炎疫情青年志愿者, 2020 
-1. Outstanding Graduate of Shandong Province（[山东省优秀毕业生](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)），2020
+1. [Outstanding Graduate of Shandong Province](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)（山东省优秀毕业生），2020
 1. [First Prize of Professional Degree Postgraduate Outstanding Achievement Award of Shandong Province](http://news.upc.edu.cn/info/1432/96016.htm)（山东省专业学位研究生优秀成果奖省级一等奖），2019
    * Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification (基于图卷积神经网络的半监督分类算法研究) 
    * Complete Independently （独立完成） 
-1. [Professional Degree Postgraduate Outstanding Achievement Award of China University of Petroleum （East China）](http://gs.upc.edu.cn/2019/1114/c14691a225689/page.htm)（中国石油大学（华东）专业学位研究生优秀成果奖）（排名1/15）, 2019
+1. [Professional Degree Postgraduate Outstanding Achievement Award of China University of Petroleum（East China）](http://gs.upc.edu.cn/2019/1114/c14691a225689/page.htm)（中国石油大学（华东）专业学位研究生优秀成果奖）（排名1/15）, 2019
    * Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification (基于图卷积神经网络的半监督分类算法研究) 
    * Complete Independently （独立完成） 
 1. [China National Scholarship](http://ygb.upc.edu.cn/2019/1023/c13638a222255/page.htm)（硕士研究生国家奖学金）, 2019
