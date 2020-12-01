@@ -34,17 +34,17 @@
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Learning Using Graph p-Laplacian Convolutional Networks", **Information Sciences**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing Communications and Applications**, accepted, 2020.
-1. Weifeng Liu (Supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, in press, 2020. [URL](https://doi.org/10.1016/j.neucom.2019.12.150)
-1. **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou and Liqiang Nie, "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification", **Information Sciences**, vol. 514, pp. 484-498, 2020. [URL](https://doi.org/10.1016/j.ins.2019.11.019)
-1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Liqiang Nie, "HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks", **Neurocomputing**, vol. 362, pp. 166-174, 2019.  [URL](https://doi.org/10.1016/j.neucom.2019.06.068)
-1. **Sichao Fu**, Weifeng Liu, Shuying Li and Yicong Zhou, "Two-Order Graph Convolutional Networks for Semi-Supervised Classification". **IET Image Processing**, vol. 13, no. 14, pp. 2763–2771, 2019. [URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8946955)
+1. Weifeng Liu (Supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, in press, 2020. // [URL](https://doi.org/10.1016/j.neucom.2019.12.150)
+1. **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou and Liqiang Nie, "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification", **Information Sciences**, vol. 514, pp. 484-498, 2020. // [URL](https://doi.org/10.1016/j.ins.2019.11.019)
+1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Liqiang Nie, "HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks", **Neurocomputing**, vol. 362, pp. 166-174, 2019. // [URL](https://doi.org/10.1016/j.neucom.2019.06.068)
+1. **Sichao Fu**, Weifeng Liu, Shuying Li and Yicong Zhou, "Two-Order Graph Convolutional Networks for Semi-Supervised Classification". **IET Image Processing**, vol. 13, no. 14, pp. 2763–2771, 2019. // [URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8946955)
 
 ### Conference papers
-1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization". **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, 2019. [URL](https://www.ijcai19.org/workshops.html)
-1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, "The Comparison of Different Graph Convolutional Neural Networks for Image Recognition". **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018.[URL](https://doi.org/10.1145/3240876.3240915)
+1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization". **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, 2019. // [URL](https://www.ijcai19.org/workshops.html)
+1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, "The Comparison of Different Graph Convolutional Neural Networks for Image Recognition". **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018. // [URL](https://doi.org/10.1145/3240876.3240915)
 
 ### Book Chapters
-1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold based Graph Convolutional Networks for Remote Sensing Images Recognition" in **[Generalization with Deep Learning: For Improvement on Sensing Capability](https://doi.org/10.1142/11784)**. World Scientific, Book edited by: Dr. Li Xiaoli, Dr. Chen Zhenghua and Dr. Wu Min, in press, 2020.
+1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**. World Scientific, Book edited by: Dr. Li Xiaoli, Dr. Chen Zhenghua and Dr. Wu Min, in press, 2020. // [URL](https://doi.org/10.1142/11784)
 
 ### Degree Thesis
 1. **Sichao Fu**, Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究, **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, 2020.	
@@ -52,11 +52,11 @@
 
 ---
 ## China Patents
-1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "[Semi-supervised Classification Method based on Hypergraph p-Laplacian Graph Convolutional Neural Networks ](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A)" // 一种基于超图p-Laplacian图卷积神经网络的半监督分类方法.
+1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "Semi-supervised Classification Method based on Hypergraph p-Laplacian Graph Convolutional Neural Networks" // 一种基于超图p-Laplacian图卷积神经网络的半监督分类方法. // [URL] (http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A)
    * Patent for Invention
    * Open Number: CN109766935A
    * Open Date: 17 May, 2019
-1. **Sichao Fu**, Zehong Ji, Weifeng Liu and Liqiang Nie, "[Semi-supervised Classification Method based on p-Laplacian Graph Convolutional Neural Networks ](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109583519A)" // 一种基于p-Laplacian图卷积神经网络的半监督分类方法.
+1. **Sichao Fu**, Zehong Ji, Weifeng Liu and Liqiang Nie, "Semi-supervised Classification Method based on p-Laplacian Graph Convolutional Neural Networks " // 一种基于p-Laplacian图卷积神经网络的半监督分类方法. // [URL](http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109583519A)
    * Patent for Invention
    * Open Number: CN109583519A
    * Open Date: 5 April, 2019
