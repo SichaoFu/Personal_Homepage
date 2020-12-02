@@ -69,20 +69,17 @@
     * Student First Project Leader
     * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR) // 模式识别国家重点实验室开放课题
     * Grant Number: 202000009
-1. Research on Data Representation Learning Theory and Method based on Graph Neural Networks // 基于图神经网络的数据表示学习理论与方法研究 （2019.01-2020.12）
-    * Student First Project Leader
-    * Funded by: Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education // 复杂系统建模与仿真教育部重点实验室开放课题
-1. Image Annotation based on Mult-iview Depth Sparse Coding and Manifold Regularization // 基于多视角深度稀疏编码及流形正则化的图像标注研究 （2017.01-2020.12）
-    * Project Member
-    * Funded by: National Natural Science Foundation of China // 国家自然科学基金面上项目
-    * Grant Number: 61671480
-
+ 
 ### Study Complete
  1. Research on Semi-supervised Classification Method based on Graph Neural Networks // 基于图神经网络的半监督分类算法研究 （2019.05-2020.05）// [URL](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp)
     * Project Leader
     * Funded by: Postgraduate Student Innovation Project, China University of Petroleum (East China) // 中国石油大学（华东）研究生创新工程资助项目
     * Grant Number: YCX2019080
     * [已结题](http://gs.upc.edu.cn/2020/0615/c14671a302760/page.htm)
+1. Research on Data Representation Learning Theory and Method based on Graph Neural Networks // 基于图神经网络的数据表示学习理论与方法研究 （2019.01-2020.12）
+    * Student First Project Leader
+    * Funded by: Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education // 复杂系统建模与仿真教育部重点实验室开放课题
+    * 已结题
 1. Research on Person re-identification Algorithms based on Metric Learning // 基于Metric Learning的行人再识别算法研究 （2018.05-2019.12）// [URL](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp)
      * Project Member
      * Funded by: Postgraduate Innovation Project, China University of Petroleum (East China) // 中国石油大学（华东）研究生创新工程资助项目
@@ -92,6 +89,11 @@
     * Funded by: Independent Innovation Research Project, China University of Petroleum (East China) // 中国石油大学（华东）自主创新科研计划项目
     * Grant Number: 18CX07011A
     * [已结题](http://kjc.upc.edu.cn/2020/1202/c5135a323826/page.htm)
+1. Image Annotation based on Mult-iview Depth Sparse Coding and Manifold Regularization // 基于多视角深度稀疏编码及流形正则化的图像标注研究 （2017.01-2020.12）
+    * Project Member
+    * Funded by: National Natural Science Foundation of China // 国家自然科学基金面上项目
+    * Grant Number: 61671480
+    * 已结题
 
 ---
 
