@@ -84,6 +84,7 @@
      * Project Member
      * Funded by: Postgraduate Innovation Project, China University of Petroleum (East China) // 中国石油大学（华东）研究生创新工程资助项目
      * Grant Number: YCX2018064
+     * 已结题
 1. Research on Theory and Method of Large-scale Data Deep Structure Learning // 大规模数据深度结构学习理论及方法研究 （2018.01-2020.12）
     * Project Member
     * Funded by: Independent Innovation Research Project, China University of Petroleum (East China) // 中国石油大学（华东）自主创新科研计划项目
