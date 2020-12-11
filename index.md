@@ -110,8 +110,10 @@
    * Complete Together // 共同完成
 1. Third Prize of the Seventh College Student Science and Technology Innovation Competition of Shandong Province // 山东省第七届大学生科技创新大赛省级三等奖, 2020
    * Research on Graph Related Algorithms based on the Efficient Preserving Data Local Geometry Structure // 探究有效保持数据局部几何结构的Graph相关算法研究
-1. The Seventh College Student Science and Technology Innovation Competition of Shandong Province---School Competition of China University of Petroleum (East China)// 山东省第七届大学生科技创新大赛---中国石油大学（华东）校赛（排名10/366）, 2020
+   * 王飞、傅司超、昝畅通、彭旭阳、蔡玉颖
+1. The Seventh College Student Science and Technology Innovation Competition of Shandong Province---School Competition of China University of Petroleum (East China) // 山东省第七届大学生科技创新大赛---中国石油大学（华东）校赛（排名10/366）, 2020
    * Research on Graph Related Algorithms based on the Efficient Preserving Data Local Geometry Structure // 探究有效保持数据局部几何结构的Graph相关算法研究
+   * 王飞、傅司超、昝畅通、彭旭阳、蔡玉颖
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2020 // [URL](http://gszz.hust.edu.cn/info/1087/2904.htm)
 
 ### Master (2017.09-2020.06)
