@@ -104,7 +104,7 @@
 
 ## Honors and Awards
 ### Ph.D. (2020.09-Now)
-1. Academic Degree Postgraduate Outstanding Achievement Award of China University of Petroleum(East China) // 中国石油大学（华东）学术学位研究生优秀成果奖（推荐排名19/22）, 2020 // [URL](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm)
+1. Academic Degree Postgraduate Outstanding Achievement Award of China University of Petroleum (East China) // 中国石油大学（华东）学术学位研究生优秀成果奖（推荐排名19/22）, 2020 // [URL](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm)
    * Research on Local Geometric Structure Preserving based Domain Adaptation Algorithms // 基于局部几何结构的领域自适应算法研究
    * Complete Together // 李金凤、**傅司超**
 1. Third Prize of the Seventh College Student Science and Technology Innovation Competition of Shandong Province // 山东省第七届大学生科技创新大赛省级三等奖, 2020
