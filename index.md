@@ -194,6 +194,7 @@
 * Neural Networks
 * Information Sciences
 * Neurocomputing
+* Digital Signal Processing
 * IEEE Access
 * Artificial Intelligence in Medicine
 * Neural Processing Letters
