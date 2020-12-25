@@ -114,10 +114,10 @@
    * Complete Together // 李金凤、**傅司超**
 1. Third Prize of the Seventh College Student Science and Technology Innovation Competition of Shandong Province // 山东省第七届大学生科技创新大赛省级三等奖, 2020  // [URL](http://edu.shandong.gov.cn/art/2020/12/25/art_11982_10214639.html)
    * Research on Graph Related Algorithms based on the Efficient Preserving Data Local Geometry Structure // 探究有效保持数据局部几何结构的Graph相关算法研究
-   * Main Project Member // 王飞、**傅司超**、昝畅通、彭旭阳、蔡玉颖
+   * Main Project Member // 王飞、**傅司超**、彭旭阳、昝畅通、蔡玉颖
 1. The Seventh College Student Science and Technology Innovation Competition of Shandong Province---School Competition of China University of Petroleum (East China) // 山东省第七届大学生科技创新大赛---中国石油大学（华东）校赛（推荐排名10/366）, 2020
    * Research on Graph Related Algorithms based on the Efficient Preserving Data Local Geometry Structure // 探究有效保持数据局部几何结构的Graph相关算法研究
-   * Main Project Member // 王飞、**傅司超**、昝畅通、彭旭阳、蔡玉颖
+   * Main Project Member // 王飞、**傅司超**、彭旭阳、昝畅通、蔡玉颖
 
 ### Master (2017.09-2020.06)
 1. Outstanding Master's Thesis of China University of Petroleum (East China) // 中国石油大学（华东）优秀硕士学位论文, 2020 // [URL](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)
