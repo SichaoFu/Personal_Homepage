@@ -106,9 +106,6 @@
 
 ## Honors and Awards
 ### Ph.D. (2020.09-Now)
-1. The First College Student Innovation Method Competition of Shandong Province // 山东省第一届大学生创新方法应用大赛, 2021
-   * Research on Graph Related Algorithms based on the Efficient Preserving Data Local Geometry Structure // 探究有效保持数据局部几何结构的Graph相关算法研究
-   * Main Project Member // 昝畅通、**傅司超**、彭旭阳、王飞、蔡玉颖
 1. 华中科技大学第七次研究生代表大会正式代表, 2020 // [URL](http://youth.hust.edu.cn/info/1027/7503.htm)
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2020 // [URL](http://gszz.hust.edu.cn/info/1087/2904.htm)
 1. Third Prize of Academic Degree Postgraduate Outstanding Achievement Award of Shandong Province // 山东省学术学位研究生优秀成果奖省级三等奖, 2020 // [URL](http://news.upc.edu.cn/info/1432/102456.htm) // [URL1](http://edu.shandong.gov.cn/art/2020/12/23/art_11982_10203688.html)
