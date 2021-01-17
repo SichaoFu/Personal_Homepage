@@ -46,7 +46,7 @@
 
 ### Under Review Papers
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, Under Review.
-1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Learning Using Graph p-Laplacian Convolutional Networks", **Information Sciences**, Under Review.
+1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks", **Information Sciences**, Under Review.
 
 ### Degree Thesis
 1. **Sichao Fu**, "Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究", **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, 2020.	
