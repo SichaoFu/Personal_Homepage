@@ -106,6 +106,7 @@
 
 ## Honors and Awards
 ### Ph.D. (2020.09-Now)
+1.  Outstanding Master's Thesis of Chinese Institute of Electronics // 中国电子学会优秀硕士学位论文, 2021 // [URL]()
 1. Second Prize of the First College Student Innovation Method Competition of Shandong Province // 山东省第一届大学生创新方法应用大赛省级二等奖, 2021 // [URL](https://cxcye.cn/tree/game/gamecase/mainpage/view?gameCaseId=bd0a31a6-3245-4381-9212-313f9ab4d410)
    * Research on Graph Related Algorithms based on the Efficient Preserving Data Local Geometry Structure // 探究有效保持数据局部几何结构的Graph相关算法研究
    * Main Project Member // 昝畅通、**傅司超**、彭旭阳、王飞、蔡玉颖
