@@ -112,7 +112,7 @@
    * Main Project Member // 昝畅通、**傅司超**、彭旭阳、王飞、蔡玉颖
 1. 华中科技大学第七次研究生代表大会正式代表, 2020 // [URL](http://youth.hust.edu.cn/info/1027/7503.htm)
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2020 // [URL](http://gszz.hust.edu.cn/info/1087/2904.htm)
-1. Third Prize of Academic Degree Postgraduate Outstanding Achievement Award of Shandong Province // 山东省学术学位研究生优秀成果奖省级三等奖, 2020 // [URL](http://news.upc.edu.cn/info/1432/102456.htm) // [URL1](http://edu.shandong.gov.cn/art/2020/12/31/art_11990_10285683.htmll)
+1. Third Prize of Academic Degree Postgraduate Outstanding Achievement Award of Shandong Province // 山东省学术学位研究生优秀成果奖省级三等奖, 2020 // [URL](http://news.upc.edu.cn/info/1432/102456.htm) // [URL1](http://edu.shandong.gov.cn/art/2020/12/31/art_11990_10285683.html)
    * Research on Local Geometric Structure Preserving based Domain Adaptation Algorithms // 基于局部几何结构的领域自适应算法研究
    * Complete Together // 李金凤、**傅司超**
 1. Academic Degree Postgraduate Outstanding Achievement Award of China University of Petroleum (East China) // 中国石油大学（华东）学术学位研究生优秀成果奖（推荐排名19/22）, 2020 // [URL](http://gs.upc.edu.cn/2020/1126/c14671a323185/page.htm)
