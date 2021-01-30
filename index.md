@@ -31,7 +31,7 @@
 
 ## Publications
 ### Journal Papers
-1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks", **Information Sciences**, accepted, 2021.
+1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks", **Information Sciences**, accepted, 2021. // [URL](https://authors.elsevier.com/tracking/article/details.do?aid=16204&jid=INS&surname=Liu)
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing Communications and Applications**, accepted, 2021.
 1. Weifeng Liu (Supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, in press, 2021. // [URL](https://doi.org/10.1016/j.neucom.2019.12.150)
 1. **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou and Liqiang Nie, "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification", **Information Sciences**, vol. 514, pp. 484-498, 2020. // [URL](https://doi.org/10.1016/j.ins.2019.11.019)
@@ -47,6 +47,7 @@
 
 ### Under Review Papers
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, Under Review.
+1. Jun Tang, Yan Gao, **Sichao Fu**, Weifeng Liu, Baodi Liu and Yanjiang Wang, "Combining Graph Convolutional Networks with Fisher Vector Encoding for Skeleton-Based Activity Recognition", **IEEE Transactions on Emerging Topics in Computational Intelligence**, Under Review.
 
 ### Degree Thesis
 1. **Sichao Fu**, "Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究", **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, 2020.	
@@ -106,7 +107,7 @@
 
 ## Honors and Awards
 ### Ph.D. (2020.09-Now)
-1.  Outstanding Master's Thesis of Chinese Institute of Electronics // 中国电子学会优秀硕士学位论文, 2021 // [URL]()
+1.  Outstanding Master's Thesis of Chinese Institute of Electronics // 中国电子学会优秀硕士学位论文, 2021 // [URL](https://www.cie-info.org.cn/site/term/67.html)
 1. Second Prize of the First College Student Innovation Method Competition of Shandong Province // 山东省第一届大学生创新方法应用大赛省级二等奖, 2021 // [URL](https://cxcye.cn/tree/game/gamecase/mainpage/view?gameCaseId=bd0a31a6-3245-4381-9212-313f9ab4d410)
    * Research on Graph Related Algorithms based on the Efficient Preserving Data Local Geometry Structure // 探究有效保持数据局部几何结构的Graph相关算法研究
    * Main Project Member // 昝畅通、**傅司超**、彭旭阳、王飞、蔡玉颖
