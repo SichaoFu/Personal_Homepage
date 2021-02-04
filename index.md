@@ -11,12 +11,11 @@
 * Address: National Anti-counterfeit Engineering Research Center, No.1037 Luoyu Road, Hongshan District, Wuhan 430074,China
 * Email: fusichao_hust@163.com; fusichao_hust@hust.edu.cn 
 
-**傅司超**, 中共党员, 研究生学历, 工学博士在读, 电气和电子工程师协会学生会员, 国际计算机学会专业会员, 石油工程师学会学生会员, 中国电子学会会员, 中国图学学会学生会员, 中国仿真学会学生会员, 山东省人工智能学会会员。2017年6月毕业于临沂大学通信工程专业, 获工学学士学位; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2020年9月起就读于华中科技大学信息与通信工程专业。硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以导师第一位次、 学生第二位次主持在研国家重点实验室开放课题项目1项, 以第一位次或导师第一位次、学生第二位次主持完成国家重点实验室开放课题项目1项、中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与中石油重大科技项目1项、国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项; 以第一作者或导师一作、学生二作发表学术论文10篇, 申请公开国家发明专利2项。博士阶段主要研究方向为跨模态检索和图对比学习理论及其应用。担任数十种领域内重要期刊和国际学术会议审稿人。
+**傅司超**, 中共党员, 研究生学历, 工学博士在读, 电气和电子工程师协会学生会员, 国际计算机学会专业会员, 石油工程师学会学生会员, 中国电子学会会员, 中国图学学会学生会员, 中国仿真学会学生会员, 山东省人工智能学会会员。2017年6月毕业于临沂大学通信工程专业, 获工学学士学位; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2020年9月起就读于华中科技大学信息与通信工程专业。硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以导师第一位次、 学生第二位次主持在研国家重点实验室开放课题项目1项, 以第一位次或导师第一位次、学生第二位次主持完成国家重点实验室开放课题项目1项、中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与中石油重大科技项目1项、国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项; 以第一作者或导师一作、学生二作发表学术论文10篇, 申请公开国家发明专利2项。博士阶段主要研究方向为 *** 理论及其应用。担任数十种领域内重要期刊和国际学术会议审稿人。
 
 ---
 
 ## Research Interests
-* Cross-modal Retrieval // Graph Contrastive Learning
 * Graph Representation Learning // Graph Convolutional Networks
 * Pattern Recognition // Deep Manifold Learning
 
@@ -107,12 +106,12 @@
 
 ## Honors and Awards
 ### Ph.D. (2020.09-Now)
+1. 华中科技大学第七次研究生代表大会正式代表, 2020 // [URL](http://youth.hust.edu.cn/info/1027/7503.htm)
+1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2020 // [URL](http://gszz.hust.edu.cn/info/1087/2904.htm)
 1.  Outstanding Master's Thesis of Chinese Institute of Electronics // 中国电子学会优秀硕士学位论文, 2021 // [URL](https://www.cie-info.org.cn/site/content/4047.html)
 1. Second Prize of the First College Student Innovation Method Competition of Shandong Province // 山东省第一届大学生创新方法应用大赛省级二等奖, 2021 // [URL](https://cxcye.cn/tree/game/gamecase/mainpage/view?gameCaseId=bd0a31a6-3245-4381-9212-313f9ab4d410)
    * Research on Graph Related Algorithms based on the Efficient Preserving Data Local Geometry Structure // 探究有效保持数据局部几何结构的Graph相关算法研究
    * Main Project Member // 昝畅通、**傅司超**、彭旭阳、王飞、蔡玉颖
-1. 华中科技大学第七次研究生代表大会正式代表, 2020 // [URL](http://youth.hust.edu.cn/info/1027/7503.htm)
-1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2020 // [URL](http://gszz.hust.edu.cn/info/1087/2904.htm)
 1. Third Prize of Academic Degree Postgraduate Outstanding Achievement Award of Shandong Province // 山东省学术学位研究生优秀成果奖省级三等奖, 2020 // [URL](http://news.upc.edu.cn/info/1432/102456.htm) // [URL1](http://edu.shandong.gov.cn/art/2020/12/31/art_11990_10285683.html)
    * Research on Local Geometric Structure Preserving based Domain Adaptation Algorithms // 基于局部几何结构的领域自适应算法研究
    * Complete Together // 李金凤、**傅司超**
