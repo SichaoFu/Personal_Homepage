@@ -30,8 +30,8 @@
 
 ## Publications
 ### Journal Papers
-1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks", **Information Sciences**, accepted, 2021. // [URL](https://authors.elsevier.com/tracking/article/details.do?aid=16204&jid=INS&surname=Liu)
-1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing Communications and Applications**, accepted, 2021.
+1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing Communications and Applications**, in press, 2021. // [URL](https://doi.org/10.1145/3412846)
+1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks", **Information Sciences**, accepted, 2021. // [URL](https://www.sciencedirect.com/science/article/pii/S0020025521001134)
 1. Weifeng Liu (Supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, in press, 2021. // [URL](https://doi.org/10.1016/j.neucom.2019.12.150)
 1. **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou and Liqiang Nie, "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification", **Information Sciences**, vol. 514, pp. 484-498, 2020. // [URL](https://doi.org/10.1016/j.ins.2019.11.019)
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Liqiang Nie, "HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks", **Neurocomputing**, vol. 362, pp. 166-174, 2019. // [URL](https://doi.org/10.1016/j.neucom.2019.06.068)
