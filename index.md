@@ -215,7 +215,7 @@
 * Journal of Healthcare Engineering
 * Signal, Image and Video Processing
 * Journal of Zhejiang University（Engineering Science）
-* International Joint Conference on Artificial Intelligence (IJCAI 2019/2020)
+* International Joint Conference on Artificial Intelligence (IJCAI 2019/2020/2021)
 * International Conference on Multimedia and Expo (ICME 2019/2020)
 * International Conference on Systems, Man, and Cybernetics (SMC 2019/2020) 
 * International Conference on Machine Learning, Optimization, and Data Science (LOD 2019/2020)
