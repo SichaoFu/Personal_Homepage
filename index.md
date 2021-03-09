@@ -49,8 +49,8 @@
 1. Jun Tang, Yan Gao, **Sichao Fu**, Weifeng Liu, Baodi Liu and Yanjiang Wang, "Combining Graph Convolutional Networks with Fisher Vector Encoding for Skeleton-Based Activity Recognition", **IEEE Transactions on Emerging Topics in Computational Intelligence**, Under Review.
 
 ### Degree Thesis
-1. **Sichao Fu**, "Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究", **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, under the supervision of professor Weifeng Liu, 2020.	
-1. **Sichao Fu**, "Design and Research on the "Logistics Cloud" System based on Web and Smart Devices // 基于Web和智能设备的"物流云"系统的设计与研究", **Degree Thesis of Engineering Bachelor of Linyi University**, under the supervision of lecturer Fujiang Liu, 2017;
+1. **Sichao Fu**, "Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究", **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, under the supervision of professor **Weifeng Liu**, 2020.	
+1. **Sichao Fu**, "Design and Research on the "Logistics Cloud" System based on Web and Smart Devices // 基于Web和智能设备的"物流云"系统的设计与研究", **Degree Thesis of Engineering Bachelor of Linyi University**, under the supervision of lecturer **Fujiang Liu**, 2017;
 
 ---
 ## China Patents
