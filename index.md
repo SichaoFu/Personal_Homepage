@@ -204,12 +204,12 @@
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Transactions on Geoscience and Remote Sensing
 * IEEE Transactions on Emerging Topics in Computational Intelligence
+* IEEE Access
 * Pattern Recognition
 * Neural Networks
 * Information Sciences
 * Neurocomputing
 * Digital Signal Processing
-* IEEE Access
 * Artificial Intelligence in Medicine
 * Neural Processing Letters
 * Multimedia Tools and Applications
@@ -224,9 +224,9 @@
 * International Conference on Systems, Man, and Cybernetics (SMC 2019/2020) 
 * International Conference on Machine Learning, Optimization, and Data Science (LOD 2019/2020)
 * International Conference on Information and Knowledge Management (CIKM 2019)
+* ACM International Conference on Multimedia (MM 2020)
 * Asian Conference on Pattern Recognition (ACPR 2019)
 * Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2019)
-* ACM International Conference on Multimedia (MM 2020)
 
 ---
 
