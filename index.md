@@ -105,7 +105,7 @@
 ---
 
 ## Honors and Awards
-### Ph.D. (2020.09-Now)
+### Doctor (2020.09-Now)
 1. Reviewer Certificate of Appreciation of Journal of Applied Remote Sensing, 2021 
 1. 华中科技大学第七次研究生代表大会正式代表, 2020 // [URL](http://youth.hust.edu.cn/info/1027/7503.htm)
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2020 // [URL](http://gszz.hust.edu.cn/info/1087/2904.htm)
