@@ -42,7 +42,7 @@
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, "The Comparison of Different Graph Convolutional Neural Networks for Image Recognition". **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018. // [URL](https://doi.org/10.1145/3240876.3240915)
 
 ### Book Chapters
-1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold-based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**. World Scientific, Book edited by: Dr. Chen Zhenghua, Dr. Wu Min and Dr. Li Xiaoli, in press, 2021. // [URL](https://doi.org/10.1142/11784)
+1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold-based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**. World Scientific, Book edited by: Chen Zhenghua, Wu Min and Li Xiaoli, pp. 207--230, 2021, ISBN: 978-981-121-883-5. // [URL](https://doi.org/10.1142/11784)
 
 ### Under Review
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, Under Review.
