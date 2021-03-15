@@ -38,11 +38,11 @@
 1. **Sichao Fu**, Weifeng Liu, Shuying Li and Yicong Zhou, "Two-Order Graph Convolutional Networks for Semi-Supervised Classification". **IET Image Processing**, vol. 13, no. 14, pp. 2763–2771, 2019. // [URL](https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2018.6224)
 
 ### Conferences
-1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization". **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, 2019. // [URL](https://www.ijcai19.org/workshops.html)
+1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization". **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, 2019. // [URL](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition)
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, "The Comparison of Different Graph Convolutional Neural Networks for Image Recognition". **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018. // [URL](https://doi.org/10.1145/3240876.3240915)
 
 ### Book Chapters
-1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold-based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**. World Scientific, Book edited by: Chen Zhenghua, Wu Min and Li Xiaoli, pp. 207--230, 2021, ISBN: 978-981-121-883-5. // [URL](https://doi.org/10.1142/11784)
+1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold-based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**. World Scientific, Book edited by: Chen Zhenghua, Wu Min and Li Xiaoli, ISBN: 978-981-121-883-5, pp. 207--230, 2021. // [URL](https://doi.org/10.1142/11784)
 
 ### Under Review
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, Under Review.
