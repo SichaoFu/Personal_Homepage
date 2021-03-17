@@ -106,13 +106,13 @@
 
 ## Honors and Awards
 ### Doctor (2020.09-Now)
+1. Outstanding Master's Thesis of Chinese Institute of Electronics // 中国电子学会优秀硕士学位论文 **（全国仅28人）**, 2021 // [URL](https://www.cie-info.org.cn/site/content/4061.html)
 1. Reviewer Certificate of Appreciation of Journal of Applied Remote Sensing, 2021 
-1. 华中科技大学第七次研究生代表大会正式代表, 2020 // [URL](http://youth.hust.edu.cn/info/1027/7503.htm)
-1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2020 // [URL](http://gszz.hust.edu.cn/info/1087/2904.htm)
-1.  Outstanding Master's Thesis of Chinese Institute of Electronics // 中国电子学会优秀硕士学位论文 **（全国仅28人）**, 2021 // [URL](https://www.cie-info.org.cn/site/content/4061.html)
 1. Second Prize of the First College Student Innovation Method Competition of Shandong Province // 山东省第一届大学生创新方法应用大赛省级二等奖, 2021 // [URL](https://www.view.sdu.edu.cn/info/1022/145170.htm)
    * Research on Graph Related Algorithms based on the Efficient Preserving Data Local Geometry Structure // 探究有效保持数据局部几何结构的Graph相关算法研究
    * Main Project Member // 昝畅通、**傅司超**、彭旭阳、王飞、蔡玉颖
+1. 华中科技大学第七次研究生代表大会正式代表, 2020 // [URL](http://youth.hust.edu.cn/info/1027/7503.htm)
+1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2020 // [URL](http://gszz.hust.edu.cn/info/1087/2904.htm)
 1. Third Prize of Academic Degree Postgraduate Outstanding Achievement Award of Shandong Province // 山东省学术学位研究生优秀成果奖省级三等奖, 2020 // [URL](http://news.upc.edu.cn/info/1432/102456.htm) // [URL1](http://edu.shandong.gov.cn/art/2020/12/31/art_11990_10285683.html)
    * Research on Local Geometric Structure Preserving based Domain Adaptation Algorithms // 基于局部几何结构的领域自适应算法研究
    * Complete Together // 李金凤、**傅司超**
@@ -120,9 +120,6 @@
    * Research on Local Geometric Structure Preserving based Domain Adaptation Algorithms // 基于局部几何结构的领域自适应算法研究
    * Complete Together // 李金凤、**傅司超**
 1. Third Prize of the Seventh College Student Science and Technology Innovation Competition of Shandong Province // 山东省第七届大学生科技创新大赛省级三等奖, 2020  // [URL](http://edu.shandong.gov.cn/art/2020/12/25/art_11982_10214639.html)
-   * Research on Graph Related Algorithms based on the Efficient Preserving Data Local Geometry Structure // 探究有效保持数据局部几何结构的Graph相关算法研究
-   * Main Project Member // 王飞、**傅司超**、彭旭阳、昝畅通、蔡玉颖
-1. The Seventh College Student Science and Technology Innovation Competition of Shandong Province---School Competition of China University of Petroleum (East China) // 山东省第七届大学生科技创新大赛---中国石油大学（华东）校赛（推荐排名10/366）, 2020 // [URL](http://news.upc.edu.cn/info/1432/102345.htm)
    * Research on Graph Related Algorithms based on the Efficient Preserving Data Local Geometry Structure // 探究有效保持数据局部几何结构的Graph相关算法研究
    * Main Project Member // 王飞、**傅司超**、彭旭阳、昝畅通、蔡玉颖
 1. 首届全国大学生国防&军工知识竞赛全国一等奖, 2020 // [URL](http://guofang.xrartcn.com/)
