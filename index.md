@@ -11,17 +11,19 @@
 * Address: National Anti-counterfeit Engineering Research Center, No.1037 Luoyu Road, Hongshan District, Wuhan 430074,China
 * Email: fusichao_hust@163.com; fusichao_hust@hust.edu.cn 
 
-**傅司超**, 中共党员, 研究生学历, 工学博士在读, 国际计算机学会专业会员, 石油工程师学会学生会员, 中国电子学会会员, 中国图学学会学生会员, 中国仿真学会学生会员, 山东省人工智能学会会员, 电气和电子工程师协会学生会员。2017年6月毕业于临沂大学通信工程专业, 获工学学士学位; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2020年9月起就读于华中科技大学信息与通信工程专业。硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以导师第一位次、 学生第二位次主持在研国家重点实验室开放课题项目1项, 以第一位次或导师第一位次、学生第二位次主持完成国家重点实验室开放课题项目1项、中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与中石油重大科技项目1项、国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项; 以第一作者或导师一作、学生二作发表学术论文10篇, 申请公开国家发明专利2项。博士阶段主要研究方向为 *** 理论及其应用。担任数十种领域内重要期刊和国际学术会议审稿人。
+**傅司超**, 中共党员, 研究生学历, 工学博士在读, 国际计算机学会专业会员, 石油工程师学会学生会员, 中国电子学会会员, 中国图学学会学生会员, 中国仿真学会学生会员, 山东省人工智能学会会员, 电气和电子工程师协会学生会员。2020年9月起就读于华中科技大学信息与通信工程专业; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位。博士阶段主要研究方向为 *** 理论及其应用; 硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以导师第一位次、 学生第二位次主持在研国家重点实验室开放课题项目1项, 以第一位次或导师第一位次、学生第二位次主持完成国家重点实验室开放课题项目1项、中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与中石油重大科技项目1项、国家自然科学基金面上项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项; 以第一作者或导师一作、学生二作发表学术论文10篇, 申请公开国家发明专利2项。担任数十种领域内重要期刊和国际学术会议审稿人。
 
 ---
 
 ## Research Interests
+
 * Graph Representation Learning // Graph Convolutional Networks
 * Pattern Recognition // Deep Manifold Learning
 
 ---
 
 ## Education
+
 * 2020.09-Now, D.Eng. degree in information and communication engineering, College of Oceangraphy and Space Informatics, Huazhong University of Science and Technology, Wuhan, China, under the supervision of professor [**Xinge You**](http://ei.hust.edu.cn/professor/youxinge/).
 * 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceangraphy and Space Informatics, China University of Petroleum (East China), Qingdao, China, under the supervision of professor [**Weifeng Liu**](https://frostliu.github.io/); 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University, Linyi, China;
@@ -29,7 +31,9 @@
 ---
 
 ## Publications
+
 ### Journals
+
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing Communications and Applications**, in press, 2021. // URL
 1. Weifeng Liu (Supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, in press, 2021. // [URL](https://doi.org/10.1016/j.neucom.2019.12.150)
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks", **Information Sciences**, vol. 560, pp. 92-106, 2021. // [URL](https://www.sciencedirect.com/science/article/pii/S0020025521001134)
@@ -38,22 +42,27 @@
 1. **Sichao Fu**, Weifeng Liu, Shuying Li and Yicong Zhou, "Two-Order Graph Convolutional Networks for Semi-Supervised Classification". **IET Image Processing**, vol. 13, no. 14, pp. 2763–2771, 2019. // [URL](https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2018.6224)
 
 ### Conferences
+
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization". **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, 2019. // [URL](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition)
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, "The Comparison of Different Graph Convolutional Neural Networks for Image Recognition". **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018. // [URL](https://doi.org/10.1145/3240876.3240915)
 
 ### Book Chapters
+
 1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold-based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**. World Scientific, Book edited by: Chen Zhenghua, Wu Min and Li Xiaoli, ISBN: 978-981-121-883-5, pp. 207--230, 2021. // [URL](https://doi.org/10.1142/11784)
 
 ### Under Review
+
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, Under Review.
 1. Jun Tang, Yan Gao, **Sichao Fu**, Weifeng Liu, Baodi Liu and Yanjiang Wang, "Combining Graph Convolutional Networks with Fisher Vector Encoding for Skeleton-Based Activity Recognition", **IEEE Transactions on Emerging Topics in Computational Intelligence**, Under Review.
 
 ### Degree Thesis
+
 1. **Sichao Fu** and Weifeng Liu (Supervisor), "Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究", **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, 2020.	
 1. **Sichao Fu** and Fujiang Liu (Supervisor), "Design and Research on the "Logistics Cloud" System based on Web and Smart Devices // 基于Web和智能设备的"物流云"系统的设计与研究", **Degree Thesis of Engineering Bachelor of Linyi University**, 2017.
 
 ---
 ## China Patents
+
 1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "Semi-supervised Classification Method based on Hypergraph p-Laplacian Graph Convolutional Neural Networks // 一种基于超图p-Laplacian图卷积神经网络的半监督分类方法". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A&v=go%25mmd2BQ8CRITVADQ06nFLYqE60Zzo8M1HccPA8XIdVWrTf%25mmd2B7IFJWLkwrm834NMnmQ8O)
    * Patent for Invention
    * Open Number: CN109766935A
@@ -66,7 +75,9 @@
 ---
 
 ## Projects
+
 ### Under Study
+
 1. Machine Learning based Remaining Oil Distribution Prediction // 基于机器学习的剩余油分布预测（2020.05-2022.12）
     * Project Member
     * Funded by: Major Scientific and Technological Projects of China National Petroleum Corporation // 中石油重大科技项目
@@ -77,6 +88,7 @@
     * Grant Number: 202000009
  
 ### Study Complete
+
  1. Research on Semi-supervised Classification Method based on Graph Neural Networks // 基于图神经网络的半监督分类算法研究 （2019.05-2020.05）// [URL](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp)
     * Project Leader
     * Funded by: Postgraduate Student Innovation Project, China University of Petroleum (East China) // 中国石油大学（华东）研究生创新工程资助项目
@@ -105,7 +117,9 @@
 ---
 
 ## Honors and Awards
+
 ### Doctor (2020.09-Now)
+
 1. Outstanding Master's Thesis of Chinese Institute of Electronics // 中国电子学会优秀硕士学位论文 **（全国仅28人）**, 2021 // [URL](https://www.cie-info.org.cn/site/content/4061.html)
 1. Reviewer Certificate of Appreciation of Journal of Applied Remote Sensing, 2021 
 1. Second Prize of the First College Student Innovation Method Competition of Shandong Province // 山东省第一届大学生创新方法应用大赛省级二等奖, 2021 // [URL](https://www.view.sdu.edu.cn/info/1022/145170.htm)
@@ -125,6 +139,7 @@
 1. 首届全国大学生国防&军工知识竞赛全国一等奖, 2020 // [URL](http://guofang.xrartcn.com/)
 
 ### Master (2017.09-2020.06)
+
 1. Outstanding Master's Thesis of China University of Petroleum (East China) // 中国石油大学（华东）优秀硕士学位论文, 2020 // [URL](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)
 1. 中国石油大学（华东）青年五四奖章（集体）// 中国石油大学（华东）全体抗击新冠肺炎疫情青年志愿者, 2020 // [URL](http://youth.upc.edu.cn/2020/0426/c11148a298325/page.htm)
 1. Outstanding Graduate of Shandong Province // 山东省优秀毕业生，2020 // [URL](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)
@@ -152,6 +167,7 @@
 1. Third Prize of Academic Scholarship of China University of Petroleum (East China) // 中国石油大学（华东）三等学业奖学金, 2017
 
 ### Undergraduate (2013.09-2017.06)
+
 1. 临沂大学学业一等奖学金一等2次，二等2次
 1. 临沂大学学科竞赛奖学金（创新创业类）一等4次，二等5次
 1. 临沂大学科研学术奖学金（创新创业类）三等3次
@@ -177,6 +193,7 @@
 ---
 
 ## Experiences
+
 * 协助指导华中科技大学本科毕业论文（1人），2021
 * 华中科技大学第七次研究生代表大会, 2020
 * 协助指导中国石油大学（华东）本科毕业论文（2人），2020
@@ -186,7 +203,9 @@
 ---
 
 ## Professional Services
+
 #### Membership
+
 * Association for Computing Machinery Professional Membership
 * Society of Petroleum Engineers Student Member
 * Chinese Institute of Electronics Member
@@ -196,6 +215,7 @@
 * Institute of Electrical and Electronics Engineers Student Member
 
 #### Reviewer
+
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Circuits and Systems for Video Technology
@@ -228,6 +248,7 @@
 ---
 
 ## Resources
+
 * [《中国计算机学会推荐国际学术会议和期刊目录》第五版](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
 * [《中国计算机学会推荐中文科技期刊目录》2019](https://www.ccf.org.cn/c/2019-07-31/667609.shtml)
 * [Awesome resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks#awesome-resources-on-graph-neural-networks)
