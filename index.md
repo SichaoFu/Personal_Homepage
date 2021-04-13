@@ -253,6 +253,7 @@
 * [《中国计算机学会推荐中文科技期刊目录》2019](https://www.ccf.org.cn/c/2019-07-31/667609.shtml)
 * [Awesome resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks#awesome-resources-on-graph-neural-networks)
 * [AI Conference](https://aideadlin.es/?sub=ML,CV,SP,GR,DM)
+* [Connected Papers](https://www.connectedpapers.com/)
 
 ---
 [Top](#welcome-to-sichao-fus-pages)
