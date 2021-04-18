@@ -161,7 +161,7 @@
 1. 中国石油大学（华东）共青团“一起答”纪念改革开放40周年知识竞赛一等奖, 2018
 1. “数创杯”全国大学生数学建模挑战赛全国二等奖, 2017
 1. 第五届“发现杯”全国大学生互联网软件设计大奖赛（互联网应用开发与设计）华东赛区二等奖, 2017
-1. First Prize in Qingdao Postgraduate Electronic Design Competition // 青岛市第八届研究生电子设计竞赛一等奖, 2017
+1. First Prize in Qingdao Postgraduate Electronic Design Competition // 青岛市第八届研究生电子设计竞赛一等奖, 2017 // [URL](http://ygb.upc.edu.cn/2018/1214/c3793a208464/page.htm)
 1. 第十五届研究生“博萃节”科技学术活动优秀组织者, 2017
 1. 第十五届研究生“博萃节”科技学术活动优秀积极分子, 2017
 1. Third Prize of Academic Scholarship of China University of Petroleum (East China) // 中国石油大学（华东）三等学业奖学金, 2017
