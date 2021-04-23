@@ -80,7 +80,7 @@
 ### Under Study
 
 1. Research on Non-local Information Architecture Methods based on Attention Mechanism and Graph Convolutional // 基于注意力机制与图卷积的非局部信息构建方法研究
-（2021.01-2022.12） // [URL][https://isn.xidian.edu.cn/info/1069/3021.htm]
+（2021.01-2022.12） // [URL](https://isn.xidian.edu.cn/info/1069/3021.htm)
     * Project Member
     * Funded by: Open Project Program of the State Key Laboratory of Integrated Services Networks // 综合业务网理论及关键技术国家重点实验室开放课题
     * Grant Number: ISN22-08
