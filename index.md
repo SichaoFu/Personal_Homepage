@@ -79,6 +79,11 @@
 
 ### Under Study
 
+1. Research on Non-local Information Architecture Methods based on Attention Mechanism and Graph Convolutional // 基于注意力机制与图卷积的非局部信息构建方法研究
+（2021.01-2022.12） // [https://isn.xidian.edu.cn/info/1069/3021.htm]
+    * Project Member
+    * Funded by: Open Project Program of the State Key Laboratory of Integrated Services Networks // 综合业务网理论及关键技术国家重点实验室开放课题
+    * Grant Number: ISN22-08
 1. Machine Learning based Remaining Oil Distribution Prediction // 基于机器学习的剩余油分布预测（2020.05-2022.12）
     * Project Member
     * Funded by: Major Scientific and Technological Projects of China National Petroleum Corporation // 中石油重大科技项目
