@@ -102,7 +102,7 @@
     * [已结题](http://gs.upc.edu.cn/2020/0615/c14671a302760/page.htm)
 1. Research on Data Representation Learning Theory and Method based on Graph Neural Networks // 基于图神经网络的数据表示学习理论与方法研究 （2019.01-2020.12）
     * Student First Project Leader
-    * Funded by: Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education // 复杂系统建模与仿真教育部重点实验室开放课题
+    * Funded by: Open Project Program of the Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education // 复杂系统建模与仿真教育部重点实验室开放课题
     * 已结题
 1. Research on Person re-identification Algorithms based on Metric Learning // 基于Metric Learning的行人再识别算法研究 （2018.05-2019.12）// [URL](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp)
      * Project Member
