@@ -52,7 +52,7 @@
 
 1. **Sichao Fu** and Weifeng Liu, "Recent Advances of Manifold-based Graph Convolutional Networks for Remote Sensing Images Recognition" in **Generalization with Deep Learning: For Improvement on Sensing Capability**. World Scientific, Book edited by: Chen Zhenghua, Wu Min and Li Xiaoli, ISBN: 978-981-121-883-5, pp. 209-232, 2021. // [URL](https://doi.org/10.1142/9789811218842_0009)
 
-### Under Review
+### Other Papers
 
 1. Jun Tang, Yan Gao, **Sichao Fu**, Weifeng Liu, Baodi Liu and Yanjiang Wang, "Combining Graph Convolutional Networks with Fisher Vector Encoding for Skeleton-Based Activity Recognition", **IEEE Transactions on Emerging Topics in Computational Intelligence**, Under Review.
 
