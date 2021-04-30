@@ -35,6 +35,7 @@
 
 ### Journals
 
+1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, Under Review.
 1. Weifeng Liu (Supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, in press, 2021. // [URL](https://doi.org/10.1016/j.neucom.2019.12.150)
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications, and Applications**, vol. 17, no. 1s, pp. 1-13, 2021. // [URL](https://doi.org/10.1145/3412846)
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks", **Information Sciences**, vol. 560, pp. 92-106, 2021. // [URL](https://www.sciencedirect.com/science/article/pii/S0020025521001134)
@@ -53,7 +54,6 @@
 
 ### Under Review
 
-1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, Under Review.
 1. Jun Tang, Yan Gao, **Sichao Fu**, Weifeng Liu, Baodi Liu and Yanjiang Wang, "Combining Graph Convolutional Networks with Fisher Vector Encoding for Skeleton-Based Activity Recognition", **IEEE Transactions on Emerging Topics in Computational Intelligence**, Under Review.
 
 ### Degree Thesis
@@ -79,6 +79,10 @@
 
 ### Under Study
 
+1. Research on the Efficient Local Geometry Preserving Methods of Graph Representation Learning and its Modeling Analysis // 探究图表示学习中有效保持样本分布局部结构方法及建模分析（2020.01-2021.12）// [URL](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
+    * Student First Project Leader
+    * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR) // 模式识别国家重点实验室开放课题
+    * Grant Number: 202000009
 1. Research on Non-local Information Architecture Methods based on Attention Mechanism and Graph Convolutional // 基于注意力机制与图卷积的非局部信息构建方法研究
 （2021.01-2022.12） // [URL](https://isn.xidian.edu.cn/info/1069/3021.htm)
     * Project Member
@@ -88,11 +92,7 @@
     * Project Member
     * Funded by: Major Scientific and Technological Projects of China National Petroleum Corporation // 中石油重大科技项目
     * Grant Number: ZD2019-183-008
-1. Research on the Efficient Local Geometry Preserving Methods of Graph Representation Learning and its Modeling Analysis // 探究图表示学习中有效保持样本分布局部结构方法及建模分析（2020.01-2021.12）// [URL](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
-    * Student First Project Leader
-    * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR) // 模式识别国家重点实验室开放课题
-    * Grant Number: 202000009
- 
+
 ### Study Complete
 
  1. Research on Semi-supervised Classification Method based on Graph Neural Networks // 基于图神经网络的半监督分类算法研究 （2019.05-2020.05）// [URL](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp)
