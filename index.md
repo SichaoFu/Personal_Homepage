@@ -229,6 +229,7 @@
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Transactions on Geoscience and Remote Sensing
 * IEEE Transactions on Emerging Topics in Computational Intelligence
+* IEEE/CAA Journal of Automatica Sinica
 * IEEE Access
 * Pattern Recognition
 * Neural Networks
