@@ -82,7 +82,7 @@
 ### Under Study
 
 1. Research on the Efficient Local Geometry Preserving Methods of Graph Representation Learning and its Modeling Analysis // 探究图表示学习中有效保持样本分布局部结构方法及建模分析（2020.01-2021.12）// [URL](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
-    * Student First Project Leader
+    * **Student First Project Leader**
     * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR) // 模式识别国家重点实验室开放课题
     * Grant Number: 202000009
 1. Research on Non-local Information Architecture Methods based on Attention Mechanism and Graph Convolutional // 基于注意力机制与图卷积的非局部信息构建方法研究
@@ -98,12 +98,12 @@
 ### Study Complete
 
  1. Research on Semi-supervised Classification Method based on Graph Neural Networks // 基于图神经网络的半监督分类算法研究 （2019.05-2020.05）// [URL](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp)
-    * Project Leader
+    * **Project Leader**
     * Funded by: Postgraduate Student Innovation Project, China University of Petroleum (East China) // 中国石油大学（华东）研究生创新工程资助项目
     * Grant Number: YCX2019080
     * [已结题](http://gs.upc.edu.cn/2020/0615/c14671a302760/page.htm)
 1. Research on Data Representation Learning Theory and Method based on Graph Neural Networks // 基于图神经网络的数据表示学习理论与方法研究 （2019.01-2020.12）
-    * Student First Project Leader
+    * **Student First Project Leader**
     * Funded by: Open Project Program of the Key Laboratory of Complex Systems Modeling and Simulation, Ministry of Education // 复杂系统建模与仿真教育部重点实验室开放课题
     * 已结题
 1. Research on Person re-identification Algorithms based on Metric Learning // 基于Metric Learning的行人再识别算法研究 （2018.05-2019.12）// [URL](http://gs.upc.edu.cn/_t57/2018/0525/c1794a207604/page.psp)
