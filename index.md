@@ -26,7 +26,7 @@
 ## Education
 
 * 2020.09-Now, D.Eng. degree in information and communication engineering, College of Oceangraphy and Space Informatics, Huazhong University of Science and Technology, Wuhan, China, under the supervision of professor [**Xinge You**](http://ei.hust.edu.cn/professor/youxinge/).
-* 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceanography and Space Informatics, China University of Petroleum (East China), Qingdao, China, under the supervision of professor [**Weifeng Liu**](https://frostliu.github.io/); 
+* 2017.09-2020.06, (Full time) M.Eng. degree in electronics and communication engineering, College of Oceanography and Space Informatics, China University of Petroleum (East China), Qingdao, China, under the supervision of professor [**Weifeng Liu**](https://frostliu.github.io/); 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University, Linyi, China;
 
 ---
