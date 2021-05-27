@@ -163,6 +163,7 @@
 1. Top Ten Postgraduate on Academic（Award Nomination） of China University of Petroleum (East China) // 中国石油大学（华东）研究生学术十杰提名奖, 2019 // [URL](http://gs.upc.edu.cn/2019/1119/c14691a226328/page.htm)
 1. Outstanding Postgraduate of China University of Petroleum (East China) // 中国石油大学（华东）优秀研究生, 2019
 1. Star on Academic of College of Oceangraphy and Space Informatics of China University of Petroleum (East China) // 中国石油大学（华东）海洋与空间信息学院学术之星, 2019
+1. 中国石油大学（华东）研究生境外学术交流与研修项目资助, 2019// [URL](http://gs.upc.edu.cn/2019/0702/c12907a211325/page.htm)
 1. 第十三届“西门子杯”中国智能制造挑战赛华北二赛区二等奖, 2019
 1. 中国石油学（华东）研究生科技竞赛获奖项目奖励, 2018 // [URL](http://ygb.upc.edu.cn/2018/1214/c3793a208464/page.htm)
 1. Certificate of Computer and Software Professional Qualification // 软考中级网络工程师, 2018
