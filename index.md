@@ -145,6 +145,8 @@
 1. Third Prize of the Seventh College Student Science and Technology Innovation Competition of Shandong Province // 山东省第七届大学生科技创新大赛省级三等奖, 2020  // [URL](http://edu.shandong.gov.cn/art/2020/12/25/art_11982_10214639.html)
    * Research on Graph Related Algorithms based on the Efficient Preserving Data Local Geometry Structure // 探究有效保持数据局部几何结构的Graph相关算法研究
    * Main Project Member // 王飞、**傅司超**、彭旭阳、昝畅通、蔡玉颖
+1. 首届全国大学生人工智能知识竞赛全国二等奖, 2021 // [URL](https://www.saikr.com/act/2534)
+1. 第二届全国高校“一带一路”知识竞赛全国一等奖, 2021 // [URL](https://www.saikr.com/act/2513)
 1. 首届全国大学生国防&军工知识竞赛全国一等奖, 2020 // [URL](http://guofang.xrartcn.com/)
 
 ### Master (2017.09-2020.06)
