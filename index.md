@@ -271,6 +271,7 @@
 * [Awesome resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks#awesome-resources-on-graph-neural-networks)
 * [AI Conference](https://aideadlin.es/?sub=ML,CV,SP,GR,DM)
 * [Connected Papers](https://www.connectedpapers.com/)
+* [AI Conferencea and Journal Deadlines](http://www.call4papers.cn:8080/ccf/ccf-1.jsp)
 
 ---
 [Top](#welcome-to-sichao-fus-pages)
