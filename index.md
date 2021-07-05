@@ -152,7 +152,7 @@
 
 ### Master (2017.09-2020.06)
 
-1. Outstanding Master's Thesis of China University of Petroleum (East China) // 中国石油大学（华东）优秀硕士学位论文, 2020 // [URL](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)
+1. Outstanding Master's Thesis of China University of Petroleum (East China) // 中国石油大学（华东）优秀硕士学位论文 **（全校仅60篇）**, 2020 // [URL](http://gs.upc.edu.cn/2020/0904/c14671a315528/page.htm)
 1. 中国石油大学（华东）青年五四奖章（集体）// 中国石油大学（华东）全体抗击新冠肺炎疫情青年志愿者, 2020 // [URL](http://youth.upc.edu.cn/2020/0426/c11148a298325/page.htm)
 1. Outstanding Graduate of Shandong Province // 山东省优秀毕业生，2020 // [URL](http://ocean.upc.edu.cn/2020/0316/c15079a295288/page.htm)
 1. Reviewer Certificate of Appreciation of Journal of Applied Remote Sensing, 2020 
