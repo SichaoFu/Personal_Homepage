@@ -237,6 +237,7 @@
 * IEEE Transactions on Emerging Topics in Computational Intelligence
 * IEEE/CAA Journal of Automatica Sinica
 * IEEE Access
+* IET Computer Vision
 * Pattern Recognition
 * Neural Networks
 * Information Sciences
@@ -246,10 +247,9 @@
 * Neural Processing Letters
 * Multimedia Tools and Applications
 * Pattern Analysis and Applications
-* Journal of Applied Remote Sensing
-* IET Computer Vision
-* Journal of Healthcare Engineering
 * Signal, Image and Video Processing
+* Journal of Applied Remote Sensing
+* Journal of Healthcare Engineering
 * Journal of Zhejiang University（Engineering Science）
 * International Joint Conference on Artificial Intelligence (IJCAI 2019/2020/2021)
 * International Conference on Multimedia and Expo (ICME 2019/2020)
