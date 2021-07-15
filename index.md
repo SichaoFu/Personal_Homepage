@@ -224,8 +224,9 @@
 * Institute of Electrical and Electronics Engineers Student Member
 * Society of Petroleum Engineers Student Member
 * Chinese Institute of Electronics Member
-* China Society of Image and Graphics Student Member Student Member
+* China Society of Image and Graphics Student Member
 * China Graphics Society Student Member
+* China Institute of Communications Student Member
 * China Simulation Federation Student Member
 * Shandong Association for Artificial Intelligence Member
 
