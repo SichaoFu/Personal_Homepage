@@ -250,6 +250,7 @@
 * Multimedia Tools and Applications
 * Pattern Analysis and Applications
 * Signal, Image and Video Processing
+* Measurement
 * Journal of Applied Remote Sensing
 * Journal of Healthcare Engineering
 * Journal of Zhejiang University（Engineering Science）
