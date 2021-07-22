@@ -36,7 +36,7 @@
 
 ### Journals
 
-1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, in press, 2021. // [URL]()
+1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, in press, 2021. // [URL](https://doi.org/10.1016/j.neucom.2021.07.048)
 1. Weifeng Liu (Supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, vol. 444, pp. 217-225, 2021. // [URL](https://doi.org/10.1016/j.neucom.2019.12.150)
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications and Applications**, vol. 17, no. 1s, pp. 1-13, 2021. // [URL](https://doi.org/10.1145/3412846)
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks", **Information Sciences**, vol. 560, pp. 92-106, 2021. // [URL](https://www.sciencedirect.com/science/article/pii/S0020025521001134)
