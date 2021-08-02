@@ -133,7 +133,7 @@
 ### Doctor (2020.09-Now)
 1. First Prize of the Artificial intelligence science and Technology (Natural Science) Award of Shandong Province // 山东省人工智能科学技术奖（自然科学奖）一等奖, 2021 // [URL](https://www.sdaai.org.cn/newsinfo/1763852.html)
    * Research on Theory and Method of Large-scale Data Hgh-order Local Geometry Preserving // 大规模数据高阶局部几何保持理论及方法研究
-   * Main Project Member // 刘伟锋、马学琦、**傅司超**、杨兴浩 
+   * Main Project Member // 刘伟锋、马学琦、**傅司超** (提出了基于高阶局部几何保持的深度图表示算法)、杨兴浩 
 1. Outstanding Master's Thesis of Shandong Association for Artificial Intelligenc // 山东省人工智能学会优秀硕士学位论文 **（全省仅5篇）**, 2021 // [URL](https://www.sdaai.org.cn/newsinfo/1763891.html) 
 1. 第八届“发现杯”全国大学生互联网软件设计大奖赛（互联网应用开发与设计）华中赛区三等奖, 2021 
 1. Reviewer Certificate of Appreciation of Journal of Applied Remote Sensing, 2021 
