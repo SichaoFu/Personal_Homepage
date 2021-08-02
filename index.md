@@ -131,6 +131,7 @@
 ## Honors and Awards
 
 ### Doctor (2020.09-Now)
+1. Outstanding Master's Thesis of Shandong Association for Artificial Intelligenc // 山东省人工智能学会优秀硕士学位论文 **（全省仅5篇）**, 2021 // [URL](https://www.sdaai.org.cn/newsinfo/1763891.html) 
 1. 第八届“发现杯”全国大学生互联网软件设计大奖赛（互联网应用开发与设计）华中赛区三等奖, 2021 
 1. Reviewer Certificate of Appreciation of Journal of Applied Remote Sensing, 2021 
 1. Outstanding Master's Thesis of Chinese Institute of Electronics // 中国电子学会优秀硕士学位论文 **（全国仅28篇）**, 2021 // [URL](https://www.cie-info.org.cn/site/content/4061.html) // [URL1](https://www.cie-info.org.cn/upload/60af075e2576a.pdf)
