@@ -17,7 +17,7 @@
 
 ## Research Interests
 
-* Few Shot Learning 
+* Few Shot Learning // Graph-based Few Shot Learning
 * Graph Representation Learning // Graph Convolutional Networks
 * Pattern Recognition // Deep Manifold Learning
 
