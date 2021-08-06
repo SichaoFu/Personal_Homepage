@@ -26,7 +26,7 @@
 ## Education
 
 * 2020.09-Now, D.Eng. degree in information and communication engineering, College of Oceangraphy and Space Informatics, Huazhong University of Science and Technology, Wuhan, China, under the supervision of professor [**Xinge You**](http://ei.hust.edu.cn/professor/youxinge/).
-* 2021.08-Now, Intern in Algorithm Engineer, JD Explore Academy, Beijing, China, under the supervision of XXX.
+* 2021.08-Now, Intern in Algorithm Engineer, JD Explore Academy, Beijing, China, under the supervision of Yibing Zhan and Qiong Cao.
 * 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceanography and Space Informatics, China University of Petroleum (East China), Qingdao, China, under the supervision of professor [**Weifeng Liu**](https://frostliu.github.io/); 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University, Linyi, China;
 
@@ -216,6 +216,7 @@
 ## Experiences
 
 * 湖南省国际研究生暑期学校---“人工智能与高性能计算”, 2021
+* 犀牛鸟研学营, 2021
 * 协助指导华中科技大学本科生学士毕业论文（1人），2021
 * 华中科技大学第七次研究生代表大会, 2020
 * 协助指导中国石油大学（华东）本科生学士毕业论文（2人），2020
