@@ -55,7 +55,6 @@
 
 ### Other Papers
 
-1. Jun Tang, Yan Gao, **Sichao Fu**, Weifeng Liu, Baodi Liu and Yanjiang Wang, "Combining Graph Convolutional Networks with Fisher Vector Encoding for Skeleton-Based Activity Recognition", **IEEE Transactions on Emerging Topics in Computational Intelligence**, Under Review.
 1. Zhengqiang Zhang, Qinmu Peng, **Sichao Fu**, Wenjie Wang, Shujian Yu, Yiu-ming Cheung, Shi Yin, Yue Zhao and Xinge You, "A Componentwise Approach to Weakly-Supervised Semantic Segmentation Using Dual Feedback Network", **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
 
 ### Degree Thesis
