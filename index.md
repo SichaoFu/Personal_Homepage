@@ -132,7 +132,7 @@
 ## Honors and Awards
 
 ### Doctor (2020.09-Now)
-1. CCF-腾讯犀牛鸟研学营优秀营员 **（40/468）**, 2021 // [URL](https://lexiangla.com/teams/k100009/docs/6bc081340c9711ecb934e611a98f5458?company_from=79350bd4d06911ea91f05254002f1020) 
+1. CCF-腾讯犀牛鸟研学营优秀营员 **（40/468=8.5%）**, 2021 // [URL](https://lexiangla.com/teams/k100009/docs/6bc081340c9711ecb934e611a98f5458?company_from=79350bd4d06911ea91f05254002f1020) 
 1. Outstanding Master's Thesis of Shandong Province // 山东省优秀硕士学位论文推选名单 **（全校仅34篇）**, 2021 // [URL](http://gs.upc.edu.cn/2021/0804/c14671a343064/page.htm) 
 1. First Prize of the Artificial Intelligence Science and Technology (Natural Science) Award of Shandong Province // 山东省人工智能科学技术奖（自然科学奖）一等奖 **（全省仅2项）**, 2021 // [URL](https://www.sdaai.org.cn/newsinfo/1818949.html)
    * High-order Local Geometry Preserving for Large-scale Data: Theory and Algorithm // 大规模数据高阶局部几何保持理论及方法研究
