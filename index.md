@@ -85,7 +85,10 @@
 ## Projects
 
 ### Under Study
-
+1. Research on Theory and Method of Deep Local Structure Preserving based on Graph Neural Networks // 基于图神经网络的深度局部结构保持理论及方法研究（XXX-XXX）// [URL]()
+    * **Co-First Project Leader**
+    * Funded by: Open Research Fund from Shandong Provincial Key Laboratory of Computer Network // 山东计算机学会省重点实验室联合开放基金（山东省计算机网络重点实验室）
+    * Grant Number: SDKLCN-XXX
 1. Research on the Efficient Local Geometry Preserving Methods of Graph Representation Learning and its Modeling Analysis // 探究图表示学习中有效保持样本分布局部结构方法及建模分析（2020.01-2021.12）// [URL](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
     * **Student First Project Leader**
     * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR) // 模式识别国家重点实验室开放课题
