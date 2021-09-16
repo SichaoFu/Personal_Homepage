@@ -35,8 +35,8 @@
 ## Publications
 
 ### Journals
-1. **Sichao Fu**, Baodi Liu, Weifeng Liu and Xinge You, "Adaptive Multi-scale Transductive Propagation Network for Few-shot Image Classification", **IEEE Transactions on Industrial Informatics**, Under Review. 
-1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu and Xinge You, "Multi-Layer Semantic Features Fusion based Adaptive Graph Convolutional Networks for Semi-supervised Classification", **IEEE/CAA Journal of Automatica Sinica**, Under Review. 
+1. **Sichao Fu**, Baodi Liu, Weifeng Liu, Xinhua You, Xiaoyuan Jing and Xinge You, "Adaptive Multi-scale Transductive Propagation Network for Few-shot Image Classification", **IEEE Transactions on Industrial Informatics**, Under Review. 
+1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu, Xinhua You, Xiaoyuan Jing and Xinge You, "Multi-Layer Semantic Features Fusion based Adaptive Graph Convolutional Networks for Semi-supervised Classification", **IEEE/CAA Journal of Automatica Sinica**, Under Review. 
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, vol. 461, pp. 63-76, 2021. // [URL](https://doi.org/10.1016/j.neucom.2021.07.048)
 1. Weifeng Liu (Supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, vol. 444, pp. 217-225, 2021. // [URL](https://doi.org/10.1016/j.neucom.2019.12.150)
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications and Applications**, vol. 17, no. 1s, pp. 1-13, 2021. // [URL](https://doi.org/10.1145/3412846)
