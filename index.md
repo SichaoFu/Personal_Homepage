@@ -88,7 +88,7 @@
 1. Research on Multimedia Information Security Algorithms based on Deep Local Structure Preserving Theory and Adversarial Attacks //  基于深度局部结构保持理论与对抗攻击的多媒体信息安全算法研究
     * **Co-First Project Leader**
     * Funded by: Open Research Fund from Shandong Provincial Key Laboratory of Computer Network // 山东计算机学会省重点实验室联合开放基金（山东省计算机网络重点实验室）
-    * Grant Number: SDKLCN-XXX
+    * Grant Number: SDKLCN-2022-0X
 1. Research on the Efficient Local Geometry Preserving Methods of Graph Representation Learning and its Modeling Analysis // 探究图表示学习中有效保持样本分布局部结构方法及建模分析（2020.01-2021.12）// [URL](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
     * **Co-First Project Leader**
     * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR) // 模式识别国家重点实验室开放课题
