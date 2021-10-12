@@ -135,6 +135,7 @@
 ## Honors and Awards
 
 ### Doctor (2020.09-Now)
+1. Outstanding Postgraduate Cadre of Huazhong University of Science and Technology // 华中科技大学优秀研究生干部, 2021 // [URL]() 
 1. Reviewer Certificate of Appreciation of the China Automation Congress (CAC 2021), 2021
 1.  Outstanding Camper of China Computer Federation and Tencent Rhino-Bird Research Camp // CCF-腾讯犀牛鸟研学营优秀营员 **（40/468=8.5%）**, 2021 // [URL](https://lexiangla.com/teams/k100009/docs/6bc081340c9711ecb934e611a98f5458?company_from=79350bd4d06911ea91f05254002f1020) 
 1. Outstanding Master's Thesis of Shandong Province // 山东省优秀硕士学位论文 **（全省仅500篇）** **（全校仅31篇）**, 2021 // [URL](http://edu.shandong.gov.cn/art/2021/9/22/art_11982_10293668.html) // [URL1](http://gs.upc.edu.cn/2021/0804/c14671a343064/page.htm) 
