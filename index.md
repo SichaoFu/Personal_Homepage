@@ -136,13 +136,13 @@
 
 ### Doctor (2020.09-Now)
 
+1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2021 // [URL](http://ei.hust.edu.cn/info/1177/6399.htm)
+1. Outstanding Postgraduate Cadre of Huazhong University of Science and Technology // 华中科技大学优秀研究生干部, 2021 // [URL](http://ei.hust.edu.cn/info/1177/6395.htm) 
 1. 湖南省国际研究生暑期学校---“人工智能与高性能计算”优秀学员, 2021 // [URL](http://gra.hnu.edu.cn/info/1050/7780.htm)
 1. 华中科技大学第八次研究生代表大会正式代表, 2021 // [URL](https://mp.weixin.qq.com/s?__biz=MzIzMDU5Mjg0OA==&mid=2247497166&idx=1&sn=92f7a64ef47722fd43109e4ccc71b64a&chksm=e8b3adf1dfc424e768cdfdfd05f3129ee0a067cd5a4130adf069b3306ed9747459b2fe8e5f45&mpshare=1&scene=23&srcid=1017ADuJsBPhEiR3RxPPmezF&sharer_sharetime=1634465829722&sharer_shareid=18064e8606f16cfdf383441857ed5deb#rd)
 1. 华中科技大学电子信息与通信学院第五次研究生代表大会正式代表, 2021 // [URL](https://mp.weixin.qq.com/s?__biz=MzIzMDU5Mjg0OA==&mid=2247497166&idx=1&sn=92f7a64ef47722fd43109e4ccc71b64a&chksm=e8b3adf1dfc424e768cdfdfd05f3129ee0a067cd5a4130adf069b3306ed9747459b2fe8e5f45&mpshare=1&scene=23&srcid=1017ADuJsBPhEiR3RxPPmezF&sharer_sharetime=1634465829722&sharer_shareid=18064e8606f16cfdf383441857ed5deb#rd)
-1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2021 // [URL](http://ei.hust.edu.cn/info/1177/6399.htm)
-1. Outstanding Postgraduate Cadre of Huazhong University of Science and Technology // 华中科技大学优秀研究生干部, 2021 // [URL](http://ei.hust.edu.cn/info/1177/6395.htm) 
-1. Reviewer Certificate of Appreciation of the China Automation Congress (CAC 2021), 2021
 1.  Outstanding Camper of China Computer Federation and Tencent Rhino-Bird Research Camp // CCF-腾讯犀牛鸟研学营优秀营员 **（40/468=8.5%）**, 2021 // [URL](https://lexiangla.com/teams/k100009/docs/6bc081340c9711ecb934e611a98f5458?company_from=79350bd4d06911ea91f05254002f1020) 
+1. Reviewer Certificate of Appreciation of the China Automation Congress (CAC 2021), 2021
 1. Outstanding Master's Thesis of Shandong Province // 山东省优秀硕士学位论文 **（全省仅500篇）** **（全校仅31篇）**, 2021 // [URL](http://edu.shandong.gov.cn/art/2021/9/22/art_11982_10293668.html) // [URL1](http://gs.upc.edu.cn/2021/0804/c14671a343064/page.htm) 
 1. First Prize of the Artificial Intelligence Science and Technology (Natural Science) Award of Shandong Province // 山东省人工智能科学技术奖（自然科学奖）一等奖 **（全省仅2项）**, 2021 // [URL](https://www.sdaai.org.cn/newsinfo/1818949.html)
    * High-order Local Geometry Preserving for Large-scale Data: Theory and Algorithm // 大规模数据高阶局部几何保持理论及方法研究
