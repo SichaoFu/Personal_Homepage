@@ -136,7 +136,7 @@
 
 ### Doctor (2020.09-Now)
 
-1. 湖南省国际研究生暑期学校---“人工智能与高性能计算”优秀学院员, 2021 // [URL](http://gra.hnu.edu.cn/info/1050/7780.htm)
+1. 湖南省国际研究生暑期学校---“人工智能与高性能计算”优秀学员, 2021 // [URL](http://gra.hnu.edu.cn/info/1050/7780.htm)
 1. 华中科技大学第八次研究生代表大会正式代表, 2021 // [URL](https://mp.weixin.qq.com/s?__biz=MzIzMDU5Mjg0OA==&mid=2247497166&idx=1&sn=92f7a64ef47722fd43109e4ccc71b64a&chksm=e8b3adf1dfc424e768cdfdfd05f3129ee0a067cd5a4130adf069b3306ed9747459b2fe8e5f45&mpshare=1&scene=23&srcid=1017ADuJsBPhEiR3RxPPmezF&sharer_sharetime=1634465829722&sharer_shareid=18064e8606f16cfdf383441857ed5deb#rd)
 1. 华中科技大学电子信息与通信学院第五次研究生代表大会正式代表, 2021 // [URL](https://mp.weixin.qq.com/s?__biz=MzIzMDU5Mjg0OA==&mid=2247497166&idx=1&sn=92f7a64ef47722fd43109e4ccc71b64a&chksm=e8b3adf1dfc424e768cdfdfd05f3129ee0a067cd5a4130adf069b3306ed9747459b2fe8e5f45&mpshare=1&scene=23&srcid=1017ADuJsBPhEiR3RxPPmezF&sharer_sharetime=1634465829722&sharer_shareid=18064e8606f16cfdf383441857ed5deb#rd)
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2021 // [URL](http://ei.hust.edu.cn/info/1177/6399.htm)
