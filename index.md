@@ -47,7 +47,7 @@
 
 ### Conferences
 
-1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yibin Zhan, Weifeng Liu and Xinge You. Few-shot Classification with Dynamic Graph Structure Preserving. 2022 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), Under Review.
+1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yibin Zhan, Weifeng Liu and Xinge You. Few-shot Classification with Dynamic Graph Structure Preserving. **2022 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization". **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, 2019. // [URL](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition) // [URL1](https://github.com/SichaoFu/MyWebpages/blob/master/Files/Dynamic%20Graph%20Convolutional%20Networks%20by%20Manifold%20Regularization.pdf)
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, "The Comparison of Different Graph Convolutional Neural Networks for Image Recognition". **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018. // [URL](https://doi.org/10.1145/3240876.3240915)
 
