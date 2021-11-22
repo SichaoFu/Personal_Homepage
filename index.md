@@ -138,7 +138,7 @@
 
 ### Doctor (2020.09-Now)
 
-1. China Computer Federation Technology Entrepreneurship Competition // CCF科技创业大赛全国前30强 **（30/102=29.4%）**, 2021 // [URL](https://conf.ccf.org.cn/web/html4/index.html?globalId=m8903477974281789441632317056769&type=1)
+1. China Computer Federation Technology Entrepreneurship Competition // CCF科技创业大赛全国前32强 **（32/102=31.4%）**, 2021 // [URL](https://mp.weixin.qq.com/s/_U4_YXoMdLeBT2vGRdARfw)
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2021 // [URL](http://gszz.hust.edu.cn/info/1087/3197.htm)
 1. Outstanding Postgraduate Cadre of Huazhong University of Science and Technology // 华中科技大学优秀研究生干部, 2021 // [URL](http://gszz.hust.edu.cn/info/1087/3202.htm) 
 1. 华中科技大学第八次研究生代表大会正式代表, 2021 // [URL](https://mp.weixin.qq.com/s?__biz=MzIzMDU5Mjg0OA==&mid=2247497166&idx=1&sn=92f7a64ef47722fd43109e4ccc71b64a&chksm=e8b3adf1dfc424e768cdfdfd05f3129ee0a067cd5a4130adf069b3306ed9747459b2fe8e5f45&mpshare=1&scene=23&srcid=1017ADuJsBPhEiR3RxPPmezF&sharer_sharetime=1634465829722&sharer_shareid=18064e8606f16cfdf383441857ed5deb#rd)
