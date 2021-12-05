@@ -91,10 +91,6 @@
     * **Co-First Project Leader**
     * Funded by: Open Research Fund from Shandong Provincial Key Laboratory of Computer Network // 山东计算机学会省重点实验室联合开放基金（山东省计算机网络重点实验室）
     * Grant Number: SKLCN-2021-04
-1. Research on the Efficient Local Geometry Preserving Methods of Graph Representation Learning and its Modeling Analysis // 探究图表示学习中有效保持样本分布局部结构方法及建模分析（2020.01-2021.12）// [URL](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
-    * **Co-First Project Leader**
-    * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR) // 模式识别国家重点实验室开放课题
-    * Grant Number: 202000009
 1. Research on Non-local Information Architecture Methods based on Attention Mechanism and Graph Convolutional // 基于注意力机制与图卷积的非局部信息构建方法研究
 （2021.01-2022.12） // [URL](https://isn.xidian.edu.cn/info/1069/3021.htm)
     * Project Member
@@ -107,6 +103,10 @@
 
 ### Study Complete
 
+ 1. Research on the Efficient Local Geometry Preserving Methods of Graph Representation Learning and its Modeling Analysis // 探究图表示学习中有效保持样本分布局部结构方法及建模分析（2020.01-2021.12）// [URL](http://www.nlpr.ia.ac.cn/cn/news/1565.html)
+    * **Co-First Project Leader**
+    * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR) // 模式识别国家重点实验室开放课题
+    * Grant Number: 202000009
  1. Research on Semi-supervised Classification Method based on Graph Neural Networks // 基于图神经网络的半监督分类算法研究 （2019.05-2020.05）// [URL](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp)
     * **Project Leader**
     * Funded by: Postgraduate Student Innovation Project, China University of Petroleum (East China) // 中国石油大学（华东）研究生创新工程资助项目
