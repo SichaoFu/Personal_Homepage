@@ -139,9 +139,8 @@
 ### Doctor (2020.09-Now)
 
 1. First Prize of the Second College Student Innovation Method Competition of Shandong Province // 山东省第二届大学生创新方法应用大赛省级一等奖, 2021
-   * 数锋智写---全国高性能智能写作先行者
    * Main Project Member // 昝畅通、**傅司超**、高旭茹、于浩然、潘婷
-1. China Computer Federation Technology Entrepreneurship Competition // CCF科技创业大赛全国前32强 **（32/102=31.4%）**, 2021 // [URL](https://mp.weixin.qq.com/s/_U4_YXoMdLeBT2vGRdARfw)
+1. China Computer Federation Technology Entrepreneurship Competition // CCF科技创业大赛全国优胜创业团队, 2021 // [URL](https://mp.weixin.qq.com/s/glVDkkBgwnYuOQ7L-NebPQ)
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2021 // [URL](http://gszz.hust.edu.cn/info/1087/3197.htm)
 1. Outstanding Postgraduate Cadre of Huazhong University of Science and Technology // 华中科技大学优秀研究生干部, 2021 // [URL](http://gszz.hust.edu.cn/info/1087/3202.htm) 
 1. 华中科技大学第八次研究生代表大会正式代表, 2021 // [URL](https://mp.weixin.qq.com/s?__biz=MzIzMDU5Mjg0OA==&mid=2247497166&idx=1&sn=92f7a64ef47722fd43109e4ccc71b64a&chksm=e8b3adf1dfc424e768cdfdfd05f3129ee0a067cd5a4130adf069b3306ed9747459b2fe8e5f45&mpshare=1&scene=23&srcid=1017ADuJsBPhEiR3RxPPmezF&sharer_sharetime=1634465829722&sharer_shareid=18064e8606f16cfdf383441857ed5deb#rd)
