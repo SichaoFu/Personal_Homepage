@@ -141,6 +141,7 @@
 1. First Prize of the Second College Student Innovation Method Competition of Shandong Province // 山东省第二届大学生创新方法应用大赛省级一等奖, 2021
    * Main Project Member // 昝畅通、**傅司超**、高旭茹、于浩然、潘婷
 1. China Computer Federation Technology Entrepreneurship Competition // CCF科技创业大赛全国优胜创业团队, 2021 // [URL](https://mp.weixin.qq.com/s/glVDkkBgwnYuOQ7L-NebPQ)
+   * 数锋智写---全国高性能智能写作先行者
    * Main Project Member // 杨兴浩、**傅司超**、昝畅通、高旭茹、于浩然、潘婷
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2021 // [URL](http://gszz.hust.edu.cn/info/1087/3197.htm)
 1. Outstanding Postgraduate Cadre of Huazhong University of Science and Technology // 华中科技大学优秀研究生干部, 2021 // [URL](http://gszz.hust.edu.cn/info/1087/3202.htm) 
