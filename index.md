@@ -161,7 +161,6 @@
 1. 第八届“发现杯”全国大学生互联网软件设计大奖赛（互联网应用开发与设计）华中赛区三等奖, 2021  
 1. Outstanding Master's Thesis of Chinese Institute of Electronics // 中国电子学会优秀硕士学位论文 **（全国仅28篇）**, 2021 // [URL](https://www.cie-info.org.cn/site/content/4061.html) // [URL1](https://www.cie-info.org.cn/upload/60af075e2576a.pdf)
 1. Second Prize of the First College Student Innovation Method Competition of Shandong Province // 山东省第一届大学生创新方法应用大赛省级二等奖, 2021 // [URL](https://www.view.sdu.edu.cn/info/1022/145170.htm)
-   * Research on Graph Related Algorithms based on the Efficient Preserving Data Local Geometry Structure // 探究有效保持数据局部几何结构的Graph相关算法研究
    * Main Project Member // 昝畅通、**傅司超**、彭旭阳、王飞、蔡玉颖
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2020 // [URL](http://gszz.hust.edu.cn/info/1087/2904.htm)
 1. 华中科技大学第七次研究生代表大会正式代表, 2020 // [URL](http://youth.hust.edu.cn/info/1027/7503.htm)
