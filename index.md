@@ -138,6 +138,8 @@
 
 ### Doctor (2020.09-Now)
 
+1. Second Prize of the Eighth College Student Science and Technology Innovation Competition of Shandong Province // 山东省第八届大学生科技创新大赛省级二等奖, 2021 
+   * Main Project Member // 高旭茹、**傅司超**、于浩然、潘婷、昝畅通
 1. First Prize of the Second College Student Innovation Method Competition of Shandong Province // 山东省第二届大学生创新方法应用大赛省级一等奖, 2021
    * Main Project Member // 昝畅通、**傅司超**、高旭茹、于浩然、潘婷
 1. China Computer Federation Technology Entrepreneurship Competition // CCF科技创业大赛全国优胜创业团队, 2021 // [URL](https://mp.weixin.qq.com/s/glVDkkBgwnYuOQ7L-NebPQ)
