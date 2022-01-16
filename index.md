@@ -40,10 +40,10 @@
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, vol. 461, pp. 63-76, 2021. // [URL](https://doi.org/10.1016/j.neucom.2021.07.048)
 1. Weifeng Liu (Supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, vol. 444, pp. 217-225, 2021. // [URL](https://doi.org/10.1016/j.neucom.2019.12.150)
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications and Applications**, vol. 17, no. 1s, pp. 1-13, 2021. // [URL](https://doi.org/10.1145/3412846)
-1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks", **Information Sciences**, vol. 560, pp. 92-106, 2021. // [URL](https://www.sciencedirect.com/science/article/pii/S0020025521001134)
+1. **Sichao Fu**, Weifeng Liu, Kai Zhang, Yicong Zhou and Dapeng Tao, "Semi-supervised Classification by Graph p-Laplacian Convolutional Networks", **Information Sciences**, vol. 560, pp. 92-106, 2021. // [URL](https://doi.org/10.1016/j.ins.2021.01.075)
 1. **Sichao Fu**, Weifeng Liu, Dapeng Tao, Yicong Zhou and Liqiang Nie, "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification", **Information Sciences**, vol. 514, pp. 484-498, 2020. // [URL](https://doi.org/10.1016/j.ins.2019.11.019)
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou and Liqiang Nie, "HpLapGCN: Hypergraph p-Laplacian Graph Convolutional Networks", **Neurocomputing**, vol. 362, pp. 166-174, 2019. // [URL](https://doi.org/10.1016/j.neucom.2019.06.068)
-1. **Sichao Fu**, Weifeng Liu, Shuying Li and Yicong Zhou, "Two-Order Graph Convolutional Networks for Semi-Supervised Classification". **IET Image Processing**, vol. 13, no. 14, pp. 2763–2771, 2019. // [URL](https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2018.6224)
+1. **Sichao Fu**, Weifeng Liu, Shuying Li and Yicong Zhou, "Two-Order Graph Convolutional Networks for Semi-Supervised Classification". **IET Image Processing**, vol. 13, no. 14, pp. 2763–2771, 2019. // [URL]( https://doi.org/10.1049/iet-ipr.2018.6224)
 
 ### Conferences
 
@@ -57,8 +57,8 @@
 
 ### Other Papers
 
-1. Zhengqiang Zhang, Qinmu Peng, **Sichao Fu**, Yiu-ming Cheung, Yue Zhao, Shujian Yu and Xinge You, "A Componentwise Approach to Weakly-Supervised Semantic Segmentation Using Dual Feedback Network", **IEEE Transactions on Neural Networks and Learning Systems**, in press, 2022.
-1. Jun Tang, Yanjiang Wang, **Sichao Fu**, Baodi Liu and Weifeng Liu, "A Graph Convolutional Neural Network Model with Fisher Vector Encoding and Channel-wise Spatial-Temporal Aggregation for Skeleton-based Action Recognition", **IET Image Processing**, in press, 2022. 
+1. Zhengqiang Zhang, Qinmu Peng, **Sichao Fu**, Yiu-ming Cheung, Yue Zhao, Shujian Yu and Xinge You, "A Componentwise Approach to Weakly-Supervised Semantic Segmentation Using Dual Feedback Network", **IEEE Transactions on Neural Networks and Learning Systems**, in press, 2022. // [URL](https://doi.org/10.1049/ipr2.12422)
+1. Jun Tang, Yanjiang Wang, **Sichao Fu**, Baodi Liu and Weifeng Liu, "A Graph Convolutional Neural Network Model with Fisher Vector Encoding and Channel-wise Spatial-Temporal Aggregation for Skeleton-based Action Recognition", **IET Image Processing**, in press, 2022. // [URL](https://doi.org/10.1109/TNNLS.2022.3144194)
 
 ### Degree Thesis
 
