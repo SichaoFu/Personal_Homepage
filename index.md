@@ -109,7 +109,7 @@
     * **Co-First Project Leader**
     * Funded by: Open Project Program of the National Laboratory of Pattern Recognition (NLPR) // 模式识别国家重点实验室开放课题
     * Grant Number: 202000009
-    * [已结题](https://mp.weixin.qq.com/s/7EQ9Q1dbf0H_SHWeMKXTkQ)
+    * [已结题 (优秀)](https://mp.weixin.qq.com/s/7EQ9Q1dbf0H_SHWeMKXTkQ)
  1. Research on Semi-supervised Classification Method based on Graph Neural Networks // 基于图神经网络的半监督分类算法研究 （2019.05-2020.05）// [URL](http://gs.upc.edu.cn/_t57/2019/0516/c1794a207574/page.psp)
     * **Project Leader**
     * Funded by: Postgraduate Student Innovation Project, China University of Petroleum (East China) // 中国石油大学（华东）研究生创新工程资助项目
