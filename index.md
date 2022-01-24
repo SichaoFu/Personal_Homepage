@@ -141,7 +141,7 @@
 
 ### Doctor (2020.09-Now)
 
-1. Outstanding Big Data Achievement Award of Qingdao City // 青岛市优秀大数据学术成果, 2022 
+1. Outstanding Big Data Achievement Award of Qingdao City // 青岛市优秀大数据学术成果奖, 2022 
     * Main Project Member // 杨兴浩、**傅司超**、刘伟锋
 1. Second Prize of the Eighth College Student Science and Technology Innovation Competition of Shandong Province // 山东省第八届大学生科技创新大赛省级二等奖, 2021 // [URL](http://edu.shandong.gov.cn/art/2021/12/27/art_11982_10296871.html)
    * Main Project Member // 高旭茹、**傅司超**、于浩然、潘婷、昝畅通
