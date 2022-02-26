@@ -291,6 +291,7 @@
 * Measurement
 * Journal of Applied Remote Sensing
 * Journal of Healthcare Engineering
+* Mathematics
 * Journal of Zhejiang University（Engineering Science）
 * International Joint Conference on Artificial Intelligence (IJCAI 2019/2020/2021)
 * International Conference on Multimedia and Expo (ICME 2019/2020)
