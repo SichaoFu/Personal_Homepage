@@ -75,6 +75,8 @@
 
 1. **Sichao Fu**, Qiong Cao, Yibin Zhan and Dacheng Tao, "Few-shot Image Recognition based on Dynamic Graph Structure Preserving // 基于动态Graph结构保持的小样本图像识别方法". 
    * Patent for Invention
+   * Application Number: 
+   * Application Date:
 1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "Semi-supervised Classification Method based on Hypergraph p-Laplacian Graph Convolutional Neural Networks // 一种基于超图p-Laplacian图卷积神经网络的半监督分类方法". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A&v=go%25mmd2BQ8CRITVADQ06nFLYqE60Zzo8M1HccPA8XIdVWrTf%25mmd2B7IFJWLkwrm834NMnmQ8O)
    * Patent for Invention
    * Open Number: CN109766935A
@@ -141,7 +143,7 @@
 
 ### Doctor (2020.09-Now)
 
-1. Outstanding Big Data Achievement Award of Qingdao City // 青岛市优秀大数据学术成果奖, 2022 
+1. Outstanding Big Data Achievement Award of Qingdao City // 青岛市优秀大数据学术成果奖, 2022 // [URL](http://www.qingdaobigdata.org.cn/index.php?s=/detail/index/cate/1371/id/58338.html)
     * Main Project Member // 杨兴浩、**傅司超**、刘伟锋
 1. Second Prize of the Eighth College Student Science and Technology Innovation Competition of Shandong Province // 山东省第八届大学生科技创新大赛省级二等奖, 2021 // [URL](http://edu.shandong.gov.cn/art/2021/12/27/art_11982_10296871.html)
    * Main Project Member // 高旭茹、**傅司超**、于浩然、潘婷、昝畅通
