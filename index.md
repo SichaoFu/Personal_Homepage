@@ -34,9 +34,12 @@
 
 ## Publications
 
+### Under Review
+1. **Sichao Fu**, Baodi Liu, Weifeng Liu, Bin Zou, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, " Adaptive Multi-scale Transductive Information Propagation for Few-shot Learning", Under Review. 
+1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, "Adaptive Graph Convolutional Collaboration Networks for Semi-supervised Classification", Under Review. 
+1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yibin Zhan, Weifeng Liu and Xinge You, Few-shot Classification with Dynamic Graph Structure Preserving. Under Review.
+
 ### Journals
-1. **Sichao Fu**, Baodi Liu, Weifeng Liu, Bin Zou, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, " Adaptive Multi-scale Transductive Information Propagation for Few-shot Learning", **Knowledge-Based Systems**, Under Review. 
-1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, "Adaptive Graph Convolutional Collaboration Networks for Semi-supervised Classification", **Information Sciences**, Under Review. 
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, vol. 461, pp. 63-76, 2021. // [URL](https://doi.org/10.1016/j.neucom.2021.07.048)
 1. Weifeng Liu (Supervisor), **Sichao Fu**,  Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Human Activity Recognition by Manifold Regularization Based Dynamic Graph Convolutional Networks", **Neurocomputing**, vol. 444, pp. 217-225, 2021. // [URL](https://doi.org/10.1016/j.neucom.2019.12.150)
 1. **Sichao Fu**, Weifeng Liu, Weili Guan, Yicong Zhou, Dapeng Tao and Changsheng Xu, "Dynamic Graph Learning Convolutional Networks for Semi-supervised Classification", **ACM Transactions on Multimedia Computing, Communications and Applications**, vol. 17, no. 1s, pp. 1-13, 2021. // [URL](https://doi.org/10.1145/3412846)
@@ -47,7 +50,6 @@
 
 ### Conferences
 
-1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yibin Zhan, Weifeng Liu and Xinge You. Few-shot Classification with Dynamic Graph Structure Preserving. **2022 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)**, Under Review.
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization". **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, 2019. // [URL](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition) // [URL1](https://github.com/SichaoFu/MyWebpages/blob/master/Files/Dynamic%20Graph%20Convolutional%20Networks%20by%20Manifold%20Regularization.pdf)
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, "The Comparison of Different Graph Convolutional Neural Networks for Image Recognition". **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018. // [URL](https://doi.org/10.1145/3240876.3240915)
 
