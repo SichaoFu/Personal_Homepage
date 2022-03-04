@@ -36,7 +36,7 @@
 
 ### Under Review
 
-1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yibin Zhan, Weifeng Liu and Xinge You, Few-shot Classification with Dynamic Graph Structure Preserving. Under Review.
+1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yibin Zhan and Xinge You, Few-shot Classification with Dynamic Graph Structure Preserving. Under Review.
 1. **Sichao Fu**, Baodi Liu, Weifeng Liu, Bin Zou, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, " Adaptive Multi-scale Transductive Information Propagation for Few-shot Learning", Under Review. 
 1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, "Adaptive Graph Convolutional Collaboration Networks for Semi-supervised Classification", Under Review. 
 
