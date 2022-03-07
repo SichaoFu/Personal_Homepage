@@ -36,7 +36,7 @@
 
 ### Under Review
 
-1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yibin Zhan and Xinge You, Few-shot Classification with Dynamic Graph Structure Preserving. Under Review.
+1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yujie Zhong, Yibin Zhan and Xinge You, Few-shot Classification with Dynamic Graph Structure Preserving. Under Review.
 1. **Sichao Fu**, Baodi Liu, Weifeng Liu, Bin Zou, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, " Adaptive Multi-scale Transductive Information Propagation for Few-shot Learning", Under Review. 
 1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, "Adaptive Graph Convolutional Collaboration Networks for Semi-supervised Classification", Under Review. 
 
@@ -79,7 +79,7 @@
 1. **Sichao Fu**, Qiong Cao, Yibin Zhan and Dacheng Tao, "Few-shot Image Recognition based on Dynamic Graph Structure Preserving // 基于动态Graph结构保持的小样本图像识别方法". 
    * Patent for Invention
    * Application Number: 202210193867.8
-   * Application Date:
+   * Application Date: 7 March, 2019
 1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "Semi-supervised Classification Method based on Hypergraph p-Laplacian Graph Convolutional Neural Networks // 一种基于超图p-Laplacian图卷积神经网络的半监督分类方法". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A&v=go%25mmd2BQ8CRITVADQ06nFLYqE60Zzo8M1HccPA8XIdVWrTf%25mmd2B7IFJWLkwrm834NMnmQ8O)
    * Patent for Invention
    * Open Number: CN109766935A
