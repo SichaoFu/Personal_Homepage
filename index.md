@@ -61,7 +61,7 @@
 ### Other Papers
 
 1. Zhengqiang Zhang, Qinmu Peng, **Sichao Fu**, Wenjie Wang, Yiu-ming Cheung, Yue Zhao, Shujian Yu and Xinge You, "A Componentwise Approach to Weakly-Supervised Semantic Segmentation Using Dual Feedback Network", **IEEE Transactions on Neural Networks and Learning Systems**, in press, 2022. // [URL](https://doi.org/10.1109/TNNLS.2022.3144194)
-1. Jun Tang, Yanjiang Wang, **Sichao Fu**, Baodi Liu and Weifeng Liu, "A Graph Convolutional Neural Network Model with Fisher Vector Encoding and Channel-wise Spatial-Temporal Aggregation for Skeleton-based Action Recognition", **IET Image Processing**, in press, 2022. // [URL](https://doi.org/10.1049/ipr2.12422)
+1. Jun Tang, Yanjiang Wang, **Sichao Fu**, Baodi Liu and Weifeng Liu, "A Graph Convolutional Neural Network Model with Fisher Vector Encoding and Channel-wise Spatial-Temporal Aggregation for Skeleton-based Action Recognition", **IET Image Processing**, vol. 16, no. 5, pp. 1433-1443, 2022. // [URL](https://doi.org/10.1049/ipr2.12422)
 
 ### Degree Thesis
 
