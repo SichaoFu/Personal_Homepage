@@ -286,6 +286,7 @@
 * Pattern Recognition
 * Neural Networks
 * Information Sciences
+* Knowledge-based Systems
 * Neurocomputing
 * Digital Signal Processing
 * Artificial Intelligence in Medicine
