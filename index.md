@@ -148,7 +148,7 @@
 
 1. Outstanding Big Data Achievement Award of Qingdao City // 青岛市优秀大数据学术成果奖, 2022 // [URL](http://www.qingdaobigdata.org.cn/index.php?s=/detail/index/cate/1371/id/58338.html)
     * Main Project Member // 杨兴浩、**傅司超**、刘伟锋
-1. National Excellence Prize of  the Ninth "Sharing Cup"  Science and Technology Resources Sharing Service Innovation Competition // 第九届“共享杯”科技资源共享服务创新大赛全国优秀奖 **（592/2310=25.6%）**, 2022 // [URL](http://share.escience.net.cn/article?type=1)
+1. National Excellence Prize of  the Ninth "Sharing Cup"  Science and Technology Resources Sharing Service Innovation Competition // 第九届“共享杯”科技资源共享服务创新大赛全国优秀奖 **（592/2310=25.6%）**, 2022 // [URL](http://share.escience.net.cn/award)
     * Main Project Member // 高旭茹、**傅司超**、于浩然、昝畅通、潘婷 
 1. Second Prize of the Eighth College Student Science and Technology Innovation Competition of Shandong Province // 山东省第八届大学生科技创新大赛省级二等奖, 2021 // [URL](http://edu.shandong.gov.cn/art/2021/12/27/art_11982_10296871.html)
    * Main Project Member // 高旭茹、**傅司超**、于浩然、潘婷、昝畅通
