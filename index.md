@@ -98,6 +98,10 @@
     * **Co-First Project Leader**
     * Funded by: Open Research Fund from Shandong Provincial Key Laboratory of Computer Network // 山东计算机学会省重点实验室联合开放基金（山东省计算机网络重点实验室）
     * Grant Number: SKLCN-2021-04
+1. 跨媒体因果推理和决策关键技术研究（2021.12-2024.11）
+    *  Project Member
+    * Funded by: 2030---“新一代人工智能”重大项目
+    * Grant Number: No. 2021ZD0111700
 1. Research on Non-local Information Architecture Methods based on Attention Mechanism and Graph Convolutional // 基于注意力机制与图卷积的非局部信息构建方法研究
 （2021.01-2022.12） // [URL](https://isn.xidian.edu.cn/info/1069/3021.htm)
     * Project Member
