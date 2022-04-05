@@ -36,9 +36,9 @@
 
 ### Under Review
 
-1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yujie Zhong, Yibin Zhan and Xinge You, Few-shot Classification with Dynamic Graph Structure Preserving. Under Review.
+1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yujie Zhong, Yibin Zhan and Xinge You, Few-shot Classification with Dynamic Graph Structure Preserving, **Information Sciences**, Under Review.
 1. **Sichao Fu**, Baodi Liu, Weifeng Liu, Bin Zou, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, " Adaptive Multi-scale Transductive Information Propagation for Few-shot Learning", **Knowledge-based Systems**, Major Revise. 
-1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, "Adaptive Graph Convolutional Collaboration Networks for Semi-supervised Classification", Under Review. 
+1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, "Adaptive Graph Convolutional Collaboration Networks for Semi-supervised Classification", **2022 Europeon Conference on Computer Vision (ECCV 2022)**, Under Review. 
 
 ### Journals
 1. **Sichao Fu**, Weifeng Liu, Kai Zhang and Yicong Zhou, "Example-Feature Graph Convolutional Networks for Semi-supervised Classification", **Neurocomputing**, vol. 461, pp. 63-76, 2021. // [URL](https://doi.org/10.1016/j.neucom.2021.07.048)
