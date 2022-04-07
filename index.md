@@ -97,7 +97,7 @@
 1. Research on Multimedia Information Security Algorithms based on Deep Local Structure Preserving Theory and Adversarial Attacks //  基于深度局部结构保持理论与对抗攻击的多媒体信息安全算法研究（2022.01-2023.12）// [URL](https://mp.weixin.qq.com/s/nSazAEUl-Otohv6X9r5NGg)
     * **Co-First Project Leader**
     * Funded by: Open Research Fund from Shandong Provincial Key Laboratory of Computer Network // 山东计算机学会省重点实验室联合开放基金（山东省计算机网络重点实验室）
-    * Grant Number: SKLCN-2021-04
+    * Grant Number: SKLCN-2021-02
 1. 跨媒体因果推理和决策关键技术研究（2021.12-2024.11）
     * Project Member
     * Funded by: 科技创新2030---“新一代人工智能”重大项目
