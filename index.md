@@ -101,7 +101,7 @@
 1. Research on Key Technologies based on Cross-multimedia Causal Inference and Decision-making // 跨媒体因果推理和决策关键技术研究（2021.12-2024.11）
     * Project Member
     * Funded by: Science and Technology Innovation 2030 – “New Generation Artificial Intelligence” Major Project // 科技创新2030-“新一代人工智能”重大项目
-    * Grant Number: No. 2021ZD0111700
+    * Grant Number: 2021ZD0111700
 1. Research on Non-local Information Architecture Methods based on Attention Mechanism and Graph Convolutional // 基于注意力机制与图卷积的非局部信息构建方法研究
 （2021.01-2022.12） // [URL](https://isn.xidian.edu.cn/info/1069/3021.htm)
     * Project Member
