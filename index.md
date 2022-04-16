@@ -37,7 +37,7 @@
 ### Under Review
 
 1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yujie Zhong, Yibin Zhan and Xinge You, Few-shot Classification with Dynamic Graph Structure Preserving, **2022 Europeon Conference on Computer Vision (ECCV 2022)**, Under Review.
-1. **Sichao Fu**, Baodi Liu, Weifeng Liu, Bin Zou, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, " Adaptive Multi-scale Transductive Information Propagation for Few-shot Learning", **Knowledge-based Systems**, Major Revise. 
+1. **Sichao Fu**, Baodi Liu, Weifeng Liu, Bin Zou, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, " Adaptive Multi-scale Transductive Information Propagation for Few-shot Learning", **Knowledge-based Systems**, Minior Revise. 
 1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, "Adaptive Graph Convolutional Collaboration Networks for Semi-supervised Classification", **Information Sciences**, Under Review. 
 
 ### Journals
