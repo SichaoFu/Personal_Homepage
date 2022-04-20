@@ -11,7 +11,7 @@
 * Address: National Anti-counterfeit Engineering Research Center, No.1037 Luoyu Road, Hongshan District, Wuhan 430074,China
 * Email: fusichao_hust@163.com; fusichao_hust@hust.edu.cn 
 
-**傅司超**, 中共党员, 研究生学历, 工学博士在读, 国际计算机学会专业会员, 电气和电子工程师协会学生会员, 石油工程师学会学生会员, 中国电子学会会员, 中国计算机学会学生会员, 中国自动化学会学生会员, 中国图象图形学学会学生会员, 中国图学学会学生会员, 中国通信学会学生会员, 中国仿真学会学生会员, 山东省人工智能学会会员. 2020年9月起就读于华中科技大学信息与通信工程专业, 2021年8月起于京东探索研究院算法工程师岗实习; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位. 博士阶段主要研究方向为深度流形学习理论及其应用, 以共同第一位次主持在研山东计算机学会省重点实验室联合开放基金项目1项, 以第一作者在审学术论文3篇, 第三位次参与发表学术论文1篇, 申请公开国家发明专利1项, 获评CCF科技创业大赛全国优胜创业团队、CCF-腾讯犀牛鸟研学营优秀营员等奖励; 硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以第一位次或共同第一位次次主持完成复杂系统建模与仿真国家重点实验室开放课题项目1项、模式识别国家重点实验室开放课题项目1项、中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与中石油重大科技项目1项、国家自然科学基金面上项目1项、综合业务网理论及关键技术国家重点实验室开放课题项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项; 以第一作者发表学术论文9篇, 导师一作、学生二作发表学术论文1篇, 第三位次参与发表学术论文1篇, 申请公开国家发明专利2项, 获评山东省人工智能科学技术奖（自然科学奖）一等奖、 青岛市优秀大数据学术成果奖、山东省专业学位研究生优秀成果奖省级一等奖、山东省学术学位研究生优秀成果奖省级三等奖、山东省优秀硕士学位论文、中国电子学会优秀硕士学位论文、山东省人工智能学会优秀硕士学位论文等奖励. 近年来, 担任数十种领域内重要期刊和国际学术会议审稿人.
+**傅司超**, 中共党员, 研究生学历, 工学博士在读, 国际计算机学会专业会员, 电气和电子工程师协会学生会员, 石油工程师学会学生会员, 中国电子学会会员, 中国计算机学会学生会员, 中国自动化学会学生会员, 中国图象图形学学会学生会员, 中国图学学会学生会员, 中国通信学会学生会员, 中国仿真学会学生会员, 山东省人工智能学会会员. 2020年9月起就读于华中科技大学信息与通信工程专业, 2022年5月于京东零售产品研发部算法工程师岗实习, 2021年8月至2022年4月在京东探索研究院算法工程师岗实习;  2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位. 博士阶段主要研究方向为深度流形学习理论及其应用, 以共同第一位次主持在研山东计算机学会省重点实验室联合开放基金项目1项, 以第一作者在审学术论文3篇, 第三位次参与发表学术论文1篇, 申请公开国家发明专利1项, 获评CCF科技创业大赛全国优胜创业团队、CCF-腾讯犀牛鸟研学营优秀营员等奖励; 硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以第一位次或共同第一位次次主持完成复杂系统建模与仿真国家重点实验室开放课题项目1项、模式识别国家重点实验室开放课题项目1项、中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与中石油重大科技项目1项、国家自然科学基金面上项目1项、综合业务网理论及关键技术国家重点实验室开放课题项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项; 以第一作者发表学术论文9篇, 导师一作、学生二作发表学术论文1篇, 第三位次参与发表学术论文1篇, 申请公开国家发明专利2项, 获评山东省人工智能科学技术奖（自然科学奖）一等奖、 青岛市优秀大数据学术成果奖、山东省专业学位研究生优秀成果奖省级一等奖、山东省学术学位研究生优秀成果奖省级三等奖、山东省优秀硕士学位论文、中国电子学会优秀硕士学位论文、山东省人工智能学会优秀硕士学位论文等奖励. 近年来, 担任数十种领域内重要期刊和国际学术会议审稿人.
 
 ---
 
@@ -26,7 +26,8 @@
 ## Education
 
 * 2020.09-Now, D.Eng. degree in information and communication engineering,  School of Electronic Information and Communication, Huazhong University of Science and Technology, Wuhan, China, under the supervision of professor [**Xinge You**](http://ei.hust.edu.cn/professor/youxinge/).
-* 2021.08-Now, Intern in Algorithm Engineer, JD Explore Academy, Beijing, China, under the supervision of postdoc Yibing Zhan and professor [**Dacheng Tao**](https://baike.baidu.com/item/%E9%99%B6%E5%A4%A7%E7%A8%8B/20197096);
+* 2022.05-Now, Intern in Algorithm Engineer, JD Retail Planning Department, Beijing, China;
+* 2021.08-2022.04, Intern in Algorithm Engineer, JD Explore Academy, Beijing, China, under the supervision of postdoc Yibing Zhan and professor [**Dacheng Tao**](https://baike.baidu.com/item/%E9%99%B6%E5%A4%A7%E7%A8%8B/20197096);
 * 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceanography and Space Informatics, China University of Petroleum (East China), Qingdao, China, under the supervision of professor [**Weifeng Liu**](https://frostliu.github.io/); 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University, Linyi, China;
 
