@@ -175,7 +175,7 @@
 1. First Prize of the Artificial Intelligence Science and Technology (Natural Science) Award of Shandong Province // 山东省人工智能科学技术奖（自然科学奖）一等奖 **（全省仅2项）**, 2021 // [URL](https://www.sdaai.org.cn/newsinfo/1818949.html)
    * High-order Local Geometry Preserving for Large-scale Data: Theory and Algorithm // 大规模数据高阶局部几何保持理论及方法研究
    * Main Project Member // 刘伟锋、马学琦、**傅司超** (提出了基于高阶局部几何保持的深度图表示算法) 、杨兴浩 
-1. Outstanding Master's Thesis of Shandong Association for Artificial Intelligence // 山东省人工智能学会优秀硕士学位论文 **（全省仅5篇）**, 2021 // [URL](https://www.sdaai.org.cn/newsinfo/1818979.html) 
+1. Outstanding Master's Thesis of Shandong Association for Artificial Intelligence // 山东省人工智能学会优秀硕士学位论文 **（全省仅5篇）**, 2021 // [URL](https://www.sdaai.org.cn/newsinfo/1818979.html) // [URL1](https://mp.weixin.qq.com/s/2j5M27rQTsLjTUL1GaCE8w)
 1. 第八届“发现杯”全国大学生互联网软件设计大奖赛（互联网应用开发与设计）华中赛区三等奖, 2021  
 1. Outstanding Master's Thesis of Chinese Institute of Electronics // 中国电子学会优秀硕士学位论文 **（全国仅28篇）**, 2021 // [URL](https://www.cie-info.org.cn/site/content/4061.html) // [URL1](https://www.cie-info.org.cn/upload/60af075e2576a.pdf)
 1. Second Prize of the First College Student Innovation Method Competition of Shandong Province // 山东省第一届大学生创新方法应用大赛省级二等奖, 2021 // [URL](https://www.view.sdu.edu.cn/info/1022/145170.htm)
