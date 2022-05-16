@@ -37,7 +37,7 @@
 
 ### Under Review
 
-1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Yuanjie Shao and Danilo Mandic, Finding Core Training Data Enhance Graph Neural Networks, **Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)**, Under Review.
+1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Yuanjie Shao, Tongliang Liu and Danilo Mandic, Finding Core Training Data Enhance Graph Neural Networks, **Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)**, Under Review.
 1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yujie Zhong, Yibin Zhan and Xinge You, Few-shot Classification with Dynamic Graph Structure Preserving, **2022 Europeon Conference on Computer Vision (ECCV 2022)**, Under Review.
 1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, "Adaptive Graph Convolutional Collaboration Networks for Semi-supervised Classification", **Information Sciences**, Under Review. 
 
