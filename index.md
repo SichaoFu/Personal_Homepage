@@ -27,7 +27,7 @@
 
 * 2020.09-Now, D.Eng. degree in information and communication engineering,  School of Electronic Information and Communication, Huazhong University of Science and Technology, Wuhan, China, under the supervision of professor [**Xinge You**](http://ei.hust.edu.cn/professor/youxinge/).
 * 2022.05-Now, Intern in Algorithm Engineer, JD Retail Planning Department, Beijing, China, under the supervision of Baokun Du and postdoc Yibing Zhan;
-* 2021.08-2022.04, Intern in Algorithm Engineer, JD Explore Academy, Beijing, China, under the supervision of postdoc Yibing Zhan and professor [**Dacheng Tao**](https://baike.baidu.com/item/%E9%99%B6%E5%A4%A7%E7%A8%8B/20197096);
+* 2021.08-2022.04, Intern in Algorithm Engineer, JD Explore Academy, Beijing, China, under the supervision of postdoc Qiong Cao and professor [**Dacheng Tao**](https://baike.baidu.com/item/%E9%99%B6%E5%A4%A7%E7%A8%8B/20197096);
 * 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceanography and Space Informatics, China University of Petroleum (East China), Qingdao, China, under the supervision of professor [**Weifeng Liu**](https://frostliu.github.io/); 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University, Linyi, China;
 
