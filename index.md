@@ -78,7 +78,7 @@
 ---
 ## China Patents
 
-1. **Sichao Fu**, Xiaorui wang, Baokun Du and Yang He, "Semi-supervised Classification Method based on Adaptive Graph Convolutional Collaboration Networks // 一种基于自适应图卷积协作网络的分类方法及装置". 
+1. **Sichao Fu**, Xiaorui Wang, Baokun Du and Yang He, "Semi-supervised Classification Method based on Adaptive Graph Convolutional Collaboration Networks // 一种基于自适应图卷积协作网络的分类方法及装置". 
    * Patent for Invention
 1. **Sichao Fu**, Qiong Cao, Yibin Zhan and Dacheng Tao, "Few-shot Image Recognition based on Dynamic Graph Structure Preserving // 一种数据分类方法、装置、设备及存储介质". 
    * Patent for Invention
