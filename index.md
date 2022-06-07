@@ -11,7 +11,7 @@
 * Address: National Anti-counterfeit Engineering Research Center, No.1037 Luoyu Road, Hongshan District, Wuhan 430074,China
 * Email: fusichao_hust@163.com; fusichao_hust@hust.edu.cn 
 
-**傅司超**, 中共党员, 研究生学历, 工学博士在读, 国际计算机学会专业会员, 电气和电子工程师协会学生会员, 石油工程师学会学生会员, 中国电子学会会员, 中国计算机学会学生会员, 中国自动化学会学生会员, 中国图象图形学学会学生会员, 中国图学学会学生会员, 中国通信学会学生会员, 中国仿真学会学生会员, 山东省人工智能学会会员. 2020年9月起就读于华中科技大学信息与通信工程专业, 2022年5月于京东零售产品研发部算法工程师岗实习, 2021年8月至2022年4月在京东科技探索研究院算法工程师岗实习;  2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位. 博士阶段主要研究方向为深度流形学习理论及其应用, 以共同第一位次主持在研山东计算机学会省重点实验室联合开放基金项目1项, 以骨干成员参与科技创新2030-“新一代人工智能”重大项目1项, 以第一作者发表学术论文1篇, 在审学术论文3篇, 第三位次参与发表学术论文1篇, 申请公开国家发明专利1项, 获评CCF科技创业大赛全国优胜创业团队、CCF-腾讯犀牛鸟研学营优秀营员等奖励; 硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以第一位次或共同第一位次次主持完成复杂系统建模与仿真国家重点实验室开放课题项目1项、模式识别国家重点实验室开放课题项目1项、中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与中石油重大科技项目1项、国家自然科学基金面上项目1项、综合业务网理论及关键技术国家重点实验室开放课题项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项; 以第一作者发表学术论文9篇, 导师一作、学生二作发表学术论文1篇, 第三位次参与发表学术论文1篇, 申请公开国家发明专利2项, 获评山东省人工智能科学技术奖（自然科学奖）一等奖、 青岛市优秀大数据学术成果奖、山东省专业学位研究生优秀成果奖省级一等奖、山东省学术学位研究生优秀成果奖省级三等奖、山东省优秀硕士学位论文、中国电子学会优秀硕士学位论文、山东省人工智能学会优秀硕士学位论文等奖励. 近年来, 担任数十种领域内重要期刊和国际学术会议审稿人.
+**傅司超**, 中共党员, 研究生学历, 工学博士在读, 国际计算机学会专业会员, 电气和电子工程师协会学生会员, 石油工程师学会学生会员, 中国电子学会会员, 中国计算机学会学生会员, 中国自动化学会学生会员, 中国图象图形学学会学生会员, 中国图学学会学生会员, 中国通信学会学生会员, 中国仿真学会学生会员, 山东省人工智能学会会员. 2020年9月起就读于华中科技大学信息与通信工程专业, 2022年5月于京东零售产品研发部算法工程师岗实习, 2021年8月至2022年4月在京东科技探索研究院算法工程师岗实习;  2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位. 博士阶段主要研究方向为深度流形学习理论及其应用, 以共同第一位次主持在研山东计算机学会省重点实验室联合开放基金项目1项, 以骨干成员参与科技创新2030-“新一代人工智能”重大项目1项, 以第一作者发表学术论文1篇, 在审学术论文3篇, 第三位次参与发表学术论文1篇, 申请公开国家发明专利2项, 获评CCF科技创业大赛全国优胜创业团队、CCF-腾讯犀牛鸟研学营优秀营员等奖励; 硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以第一位次或共同第一位次次主持完成复杂系统建模与仿真国家重点实验室开放课题项目1项、模式识别国家重点实验室开放课题项目1项、中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与中石油重大科技项目1项、国家自然科学基金面上项目1项、综合业务网理论及关键技术国家重点实验室开放课题项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项; 以第一作者发表学术论文9篇, 导师一作、学生二作发表学术论文1篇, 第三位次参与发表学术论文1篇, 申请公开国家发明专利2项, 获评山东省人工智能科学技术奖（自然科学奖）一等奖、 青岛市优秀大数据学术成果奖、山东省专业学位研究生优秀成果奖省级一等奖、山东省学术学位研究生优秀成果奖省级三等奖、山东省优秀硕士学位论文、中国电子学会优秀硕士学位论文、山东省人工智能学会优秀硕士学位论文等奖励. 近年来, 担任数十种领域内重要期刊和国际学术会议审稿人.
 
 ---
 
@@ -39,7 +39,7 @@
 
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Yuanjie Shao, Tongliang Liu and Danilo Mandic, Graph Data Lottery Ticket Hypothesis: Finding Core Labels to Maximize Graph Representation Learning, **Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)**, Under Review.
 1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, "Adaptive Graph Convolutional Collaboration Networks for Semi-supervised Classification", **Information Sciences**, Under Review. 
-1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yujie Zhong, Yibin Zhan and Xinge You, Few-shot Learning with Dynamic Graph Structure Preserving, **2022 Europeon Conference on Computer Vision (ECCV 2022)**, Under Review.
+1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yujie Zhong, Yibin Zhan and Xinge You, Few-shot Learning with Dynamic Graph Structure Preserving, **IEEE Transactions on Industrial Informatics**, Under Review.
 
 ### Journals
 1. **Sichao Fu**, Baodi Liu, Weifeng Liu, Bin Zou, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, " Adaptive Multi-scale Transductive Information Propagation for Few-shot Learning", **Knowledge-based Systems**, vol. 249, Article 108979, 2022. // [URL](https://doi.org/10.1016/j.knosys.2022.108979)
@@ -78,6 +78,8 @@
 ---
 ## China Patents
 
+1. **Sichao Fu**, Xiaorui wang, Baokun Du and Yang He, "Semi-supervised Classification Method based on Adaptive Graph Convolutional Collaboration Networks // 一种基于自适应图卷积协作网络的分类方法及装置". 
+   * Patent for Invention
 1. **Sichao Fu**, Qiong Cao, Yibin Zhan and Dacheng Tao, "Few-shot Image Recognition based on Dynamic Graph Structure Preserving // 一种数据分类方法、装置、设备及存储介质". 
    * Patent for Invention
    * Application Number: 202210193867.8
