@@ -154,7 +154,7 @@
 
 ### Doctor (2020.09-Now)
 
-1. Second Prize of the Thirteenth National Service Outsourcing Innovation and Entrepreneurship Competition for College Student (Regional Competition) // 第十三届中国大学生服务外包创新创业大赛（东部区域赛） 二等奖, 2022 // [URL1](http://www.fwwb.org.cn/news/show/383) // [URL1](http://www.fwwb.org.cn/news/show/374)
+1. Second Prize of the Thirteenth National Service Outsourcing Innovation and Entrepreneurship Competition for College Student (Regional Competition) // 第十三届中国大学生服务外包创新创业大赛（东部区域赛） 二等奖, 2022 // [URL](http://www.fwwb.org.cn/news/show/386)
     * Main Project Member // 潘婷、**傅司超**、高旭茹、于浩然、昝畅通
 1. Outstanding Big Data Achievement Award of Qingdao City // 青岛市优秀大数据学术成果奖, 2022 // [URL](http://www.qingdaobigdata.org.cn/index.php?s=/detail/index/cate/1371/id/58338.html)
     * Main Project Member // 杨兴浩、**傅司超**、刘伟锋
