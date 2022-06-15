@@ -38,7 +38,7 @@
 ### Under Review
 
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Yuanjie Shao, Tongliang Liu and Danilo Mandic, Graph Data Lottery Ticket Hypothesis: Finding Core Labels to Maximize Graph Representation Learning, **Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)**, Under Review.
-1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, "Adaptive Graph Convolutional Collaboration Networks for Semi-supervised Classification", **Information Sciences**, Major Revision. 
+1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu, Bin Zhou, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, "Adaptive Graph Convolutional Collaboration Networks for Semi-supervised Classification", **Information Sciences**, Major Revision. 
 1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yujie Zhong, Yibin Zhan and Xinge You, Few-shot Learning with Dynamic Graph Structure Preserving, **IEEE Transactions on Industrial Informatics**, Under Review.
 
 ### Journals
