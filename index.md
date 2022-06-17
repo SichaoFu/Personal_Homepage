@@ -80,10 +80,11 @@
 
 1. **Sichao Fu**, Xiaorui Wang, Baokun Du and Yang He, "Semi-supervised Classification Method based on Adaptive Graph Convolutional Collaboration Networks // 一种基于自适应图卷积协作网络的分类方法及装置". 
    * Patent for Invention
-1. **Sichao Fu**, Qiong Cao, Yibin Zhan and Dacheng Tao, "Few-shot Image Recognition based on Dynamic Graph Structure Preserving // 一种数据分类方法、装置、设备及存储介质". 
+1. **Sichao Fu**, Qiong Cao, Yibin Zhan and Dacheng Tao, "Few-shot Image Recognition based on Dynamic Graph Structure Preserving // 一种数据分类方法、装置、设备及存储介质". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN114610953A&uniplatform=NZKPT&v=s-PAb6UP0ZfKLGU_OdnKu0tyxchcqy_9CMWJNvM5h0S6w62n7Cxc6yMKKTGlfoHc)
    * Patent for Invention
-   * Application Number: 202210193867.8
-   * Application Date: 1 March, 2019
+   * Patent for Invention
+   * Application Number: CN114610953A
+   * Application Date: 10 June, 2022
 1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "Semi-supervised Classification Method based on Hypergraph p-Laplacian Graph Convolutional Neural Networks // 一种基于超图p-Laplacian图卷积神经网络的半监督分类方法". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A&v=go%25mmd2BQ8CRITVADQ06nFLYqE60Zzo8M1HccPA8XIdVWrTf%25mmd2B7IFJWLkwrm834NMnmQ8O)
    * Patent for Invention
    * Open Number: CN109766935A
