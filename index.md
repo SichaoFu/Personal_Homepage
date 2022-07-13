@@ -82,15 +82,17 @@
    * Patent for Invention
    * Application Number: XXX
    * Application Date: 12 July, 2022
-1. **Sichao Fu**, Qiong Cao, Yibin Zhan and Dacheng Tao, "Few-shot Image Recognition based on Dynamic Graph Structure Preserving // 一种数据分类方法、装置、设备及存储介质". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN114610953A&uniplatform=NZKPT&v=s-PAb6UP0ZfKLGU_OdnKu0tyxchcqy_9CMWJNvM5h0S6w62n7Cxc6yMKKTGlfoHc)
+1. **Sichao Fu**, Qiong Cao, Yibin Zhan and Dacheng Tao, "Data Classification Method, Device, Equipment and Storage Medium // 一种数据分类方法、装置、设备及存储介质". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN114610953A&uniplatform=NZKPT&v=s-PAb6UP0ZfKLGU_OdnKu0tyxchcqy_9CMWJNvM5h0S6w62n7Cxc6yMKKTGlfoHc)
    * Patent for Invention
    * Application Number: CN114610953A
    * Application Date: 10 June, 2022
-1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "Semi-supervised Classification Method based on Hypergraph p-Laplacian Graph Convolutional Neural Networks // 一种基于超图p-Laplacian图卷积神经网络的半监督分类方法". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A&v=go%25mmd2BQ8CRITVADQ06nFLYqE60Zzo8M1HccPA8XIdVWrTf%25mmd2B7IFJWLkwrm834NMnmQ8O)
+1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "A semi-supervised Classification Method based on a Hypergraph p-Laplacian Graph
+Convolutional Neural Network // 一种基于超图p-Laplacian图卷积神经网络的半监督分类方法". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A&v=go%25mmd2BQ8CRITVADQ06nFLYqE60Zzo8M1HccPA8XIdVWrTf%25mmd2B7IFJWLkwrm834NMnmQ8O)
    * Patent for Invention
    * Open Number: CN109766935A
    * Open Date: 17 May, 2019
-1. **Sichao Fu**, Zehong Ji, Weifeng Liu and Liqiang Nie, "Semi-supervised Classification Method based on p-Laplacian Graph Convolutional Neural Networks // 一种基于p-Laplacian图卷积神经网络的半监督分类方法". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109583519A&v=eeFjJQzn2VePm7%25mmd2B2a6nlwyxiW2vygWC%25mmd2BCahT%25mmd2B2dauQ5kS8J3qvLir2diYgCNUIGB)
+1. **Sichao Fu**, Zehong Ji, Weifeng Liu and Liqiang Nie, "A semi-supervised Classification Method based on a p-Laplacian Graph Convolutional
+Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类方法". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109583519A&v=eeFjJQzn2VePm7%25mmd2B2a6nlwyxiW2vygWC%25mmd2BCahT%25mmd2B2dauQ5kS8J3qvLir2diYgCNUIGB)
    * Patent for Invention
    * Open Number: CN109583519A
    * Open Date: 5 April, 2019
