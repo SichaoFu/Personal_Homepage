@@ -102,9 +102,13 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Projects
 
 ### Under Study
+1. Research on the Construction Problems and its Strategies of a Harmonious Society in the Post-epidemic Era--Taking Grassroots Social Governance as the Starting Point // 后疫情时代和谐社会的建构问题及其策略探究--以基层社会治理为切入点（2022.07-2023.06）// [URL](http://ygb.hust.edu.cn/info/1028/8462.htm)
+    * Project Member
+    * Funded by: Fundamental Research Funds for the Central Universities // 华中科技大学研究生创新基金（人文社科创新交叉）
+    * Grant Number: YCJJ202204016
 1. Research on Deep Local Structure Preserving Methods and Applications based on Graph Neural Networks // 基于图神经网络的深度局部结构保持方法及应用研究（2022.01-2023.12）// [URL](http://ii.hust.edu.cn/info/1004/1508.htm)
     * **Project Leader**
-    * Funded by: Fundamental Research Funds for the Central Universities, HUST // 中央高校基本科研业务费资助，HUST
+    * Funded by: Fundamental Research Funds for the Central Universities, HUST // 中央高校基本科研业务费资助，HUST（华中科技大学创新研究院技术创新基金）
     * Grant Number: 2022JYCXJJ034
 1. Research on Multimedia Information Security Algorithms based on Deep Local Structure Preserving Theory and Adversarial Attacks //  基于深度局部结构保持理论与对抗攻击的多媒体信息安全算法研究（2022.01-2023.12）// [URL](https://mp.weixin.qq.com/s/nSazAEUl-Otohv6X9r5NGg)
     * **Co-First Project Leader**
