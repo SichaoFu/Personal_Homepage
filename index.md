@@ -324,6 +324,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 * Measurement
 * Journal of Applied Remote Sensing
 * Journal of Healthcare Engineering
+* International Journal on Document Analysis and Recognition
 * Mathematics
 * Journal of Zhejiang University（Engineering Science）
 * International Joint Conference on Artificial Intelligence (IJCAI 2019/2020/2021)
