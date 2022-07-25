@@ -314,6 +314,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 * Information Sciences
 * Knowledge-based Systems
 * Neurocomputing
+* BMC Bioinformatics
 * Digital Signal Processing
 * Artificial Intelligence in Medicine
 * Neural Processing Letters
