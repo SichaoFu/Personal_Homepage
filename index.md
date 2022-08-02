@@ -329,6 +329,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 * Journal of Zhejiang University（Engineering Science）
 * International Joint Conference on Artificial Intelligence (IJCAI 2019/2020/2021)
 * International Conference on Multimedia and Expo (ICME 2019/2020)
+* IEEE International Conference on High Performance Computing, Data, & Analytics (HiPC 2022)
 * International Conference on Systems, Man, and Cybernetics (SMC 2019/2020) 
 * International Conference on Machine Learning, Optimization, and Data Science (LOD 2019/2020)
 * International Conference on Information and Knowledge Management (CIKM 2019)
