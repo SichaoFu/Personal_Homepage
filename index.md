@@ -166,7 +166,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Honors and Awards
 
 ### Doctor (2020.09-Now)
-1. Third Prize of the Thirteenth National Service Outsourcing Innovation and Entrepreneurship Competition for College Student // 第十三届中国大学生服务外包创新创业大赛全国三等奖, 2022 // [URL](http://www.fwwb.org.cn/news/show/389)
+1. Third Prize of the Thirteenth National Service Outsourcing Innovation and Entrepreneurship Competition for College Student // 第十三届中国大学生服务外包创新创业大赛全国三等奖, 2022 // [URL](http://www.fwwb.org.cn/news/show/393)
     * Main Project Member // 潘婷、**傅司超**、高旭茹、于浩然、昝畅通
 1. Second Prize of the Thirteenth National Service Outsourcing Innovation and Entrepreneurship Competition for College Student (Regional Competition) // 第十三届中国大学生服务外包创新创业大赛（东部区域赛） 二等奖, 2022 // [URL](http://www.fwwb.org.cn/news/show/386)
     * Main Project Member // 潘婷、**傅司超**、高旭茹、于浩然、昝畅通
