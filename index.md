@@ -176,6 +176,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 1. Second Prize of the Thirteenth National Service Outsourcing Innovation and Entrepreneurship Competition for College Student (Regional Competition) // 第十三届中国大学生服务外包创新创业大赛（东部区域赛） 二等奖, 2022 // [URL](http://www.fwwb.org.cn/news/show/386)
     * Main Project Member // 潘婷、**傅司超**、高旭茹、于浩然、昝畅通
 1. Outstanding Big Data Achievement Award of Qingdao City // 青岛市大数据优秀学术成果奖 **（全市仅8项）**, 2022 // [URL](http://www.qingdaobigdata.org.cn/index.php?s=/detail/index/cate/1371/id/59612.html)
+    * 基于多源（多视角）信息融合及高阶局部结构保持理论的数据表示方法研究
     * Main Project Member // 杨兴浩、**傅司超**、刘伟锋
 1. National Excellence Prize of  the Ninth "Sharing Cup"  Science and Technology Resources Sharing Service Innovation Competition // 第九届“共享杯”科技资源共享服务创新大赛全国优秀奖 **（592/2310=25.6%）**, 2022 // [URL](http://share.escience.net.cn/award)
     * Main Project Member // 高旭茹、**傅司超**、于浩然、昝畅通、潘婷 
