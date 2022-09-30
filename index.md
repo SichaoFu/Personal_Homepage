@@ -343,7 +343,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 * ACM International Conference on Multimedia (MM 2020)
 * Asian Conference on Pattern Recognition (ACPR 2019)
 * Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2019)
-* The China Automation Congress (CAC 2021)
+* The China Automation Congress (CAC 2021/2022)
 
 ---
 
