@@ -356,7 +356,6 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 * [Awesome resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks#awesome-resources-on-graph-neural-networks)
 * [CCF Conference Deadlines](https://ccfddl.github.io/)
 * [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,SP,GR,DM)
-* [AI Conference and Journal Deadlines](http://www.call4papers.cn:8080/ccf/ccf-1.jsp)
 * [Connected Papers](https://www.connectedpapers.com/)
 
 ---
