@@ -70,7 +70,7 @@
 
 ### Degree Thesis
 
-1. **Sichao Fu** and Weifeng Liu (Supervisor), "Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究", **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, 2020.	// [URL]()
+1. **Sichao Fu** and Weifeng Liu (Supervisor), "Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究", **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, 2020.	// [URL](https://10.27644/d.cnki.gsydu.2020.001134)
    * 2019年山东省专业学位研究生优秀成果奖省级一等奖 **（全省仅18项）**
    * 2020年中国石油大学（华东）优秀硕士学位论文 **（全校仅60篇）**
    * 2021年山东省人工智能学会优秀硕士学位论文 **（全省仅5篇）**
