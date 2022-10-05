@@ -169,10 +169,10 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 
 ### Doctor (2020.09-Now)
 1. First Prize of the Artificial Intelligence Science and Technology (Natural Science) Award of Shandong Province // 山东省人工智能科学技术奖（自然科学奖）一等奖 **（全省仅1项）**, 2022 // [URL](https://www.sdaai.org.cn/newsinfo/4360908.html) 
-   * 基于多源信息融合的数据表示方法研究
+   * Research on Data Representation Algorithms based on Multi-source Information Fusion // 基于多源信息融合的数据表示方法研究
    * Main Project Member // 杨兴浩、**傅司超**、刘伟锋
 1. Outstanding Big Data Achievement Award of Qingdao City // 青岛市大数据优秀学术成果奖 **（全市仅8项）**, 2022 // [URL](http://www.qingdaobigdata.org.cn/index.php?s=/detail/index/cate/1371/id/59612.html)
-    * 基于多源（多视角）信息融合及高阶局部结构保持理论的数据表示方法研究
+    * Research on Data Representation Algorithms based on Multi-source (Multi-view) Information Fusion and High-order Local Geometry Preserving Theory // 基于多源（多视角）信息融合及高阶局部结构保持理论的数据表示方法研究
     * Main Project Member // 杨兴浩、**傅司超**、刘伟锋
 1. Third Prize of the Thirteenth National Service Outsourcing Innovation and Entrepreneurship Competition for College Student // 第十三届中国大学生服务外包创新创业大赛全国三等奖, 2022 // [URL](http://www.fwwb.org.cn/news/show/393)
     * Main Project Member // 潘婷、**傅司超**、高旭茹、于浩然、昝畅通
