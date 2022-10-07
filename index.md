@@ -168,6 +168,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Honors and Awards
 
 ### Doctor (2020.09-Now)
+1. Outstanding Postgraduate Cadre of Huazhong University of Science and Technology // 华中科技大学优秀研究生干部, 2022 // [URL]() 
 1. First Prize of the Artificial Intelligence Science and Technology (Natural Science) Award of Shandong Province // 山东省人工智能科学技术奖（自然科学奖）一等奖 **（全省仅1项）**, 2022 // [URL](https://www.sdaai.org.cn/newsinfo/4360908.html) 
    * Research on Data Representation Algorithms based on Multi-source Information Fusion // 基于多源信息融合的数据表示方法研究
    * Main Project Member // 杨兴浩、**傅司超** (提出了基于高阶局部结构保持的多源信息融合算法)、刘伟锋
