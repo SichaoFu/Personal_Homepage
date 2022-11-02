@@ -18,7 +18,7 @@
 ## Research Interests
 
 * Multi-view Learning // Self-supervised representation learning // Class-incremental Learning
-* Class-imbalanced Graph Representation Learning // Robust Graph Representation Learning on Noisily Noisy Graphs
+* Class-imbalanced Graph Representation Learning // Robust Graph Representation Learning on Noisy Graphs
 * Few Shot Learning // Graph-based Few Shot Learning
 * Graph Representation Learning // Graph Convolutional Networks
 * Pattern Recognition // Deep Manifold Learning
