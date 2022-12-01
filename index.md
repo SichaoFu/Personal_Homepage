@@ -40,7 +40,7 @@
 ### Under Review
 
 1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Corresponding Author), Yuetian Wang, Wenhao Qiu, Yachen Hu, Qinmu Peng and Xinge You. Self-supervised Guided Hypergraph Feature Propagation for Semi-supervised Classification with Missing Node Features. **2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)**, Under Review.
-1. Yuetian Wang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Qinmu Peng, Bin Zou, Xiao-Yuan Jing and Xinge You. Multi-view Interaction Graph Convolutional Network for Semi-supervised Classification. **Journal of Software**, Major Revision. (In Chinese)
+1. Yuetian Wang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Xiao-Yuan Jing and Xinge You. Multi-view Interaction Graph Convolutional Network for Semi-supervised Classification. **Journal of Software**, Major Revision. (In Chinese)
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Yuanjie Shao, Tongliang Liu and Danilo Mandic, Graph Data Lottery Ticket Hypothesis: Finding Core Labels to Maximize Graph Representation Learning, **The Eleventh International Conference on Learning Representations (ICLR 2023)**, Under Review.
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Guangxi Peng, Bin Zou, Xiao-Yuan Jing and Xinge You, Jointly Optimized Classifiers for Few-shot Class-incremental Learning, **Pattern Recognition**, Under Review.
 1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yujie Zhong, Yibin Zhan and Xinge You, Few-shot Learning with Dynamic Graph Structure Preserving, **IEEE Transactions on Industrial Informatics**, Under Review.
@@ -354,7 +354,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 
 ## Resources
 
-* [《中国计算机学会推荐国际学术会议和期刊目录》(第五版)](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
+* [《中国计算机学会推荐国际学术会议和期刊目录》](https://www.ccf.org.cn/c/2019-04-25/663625.shtml?from=timeline&isappinstalled=0)
 * [《中国计算机学会推荐中文科技期刊目录》](https://www.ccf.org.cn/c/2019-07-31/667609.shtml)
 * [《中国自动化学会推荐学术期刊目录》(试行)](https://www.wust.edu.cn/_upload/article/files/18/75/b88390f34239a793118aea397289/1b326beb-58d1-4e17-bab1-f8b291b28c5c.pdf)
 * [《清华大学计算机学科推荐学术会议和期刊列表》](https://github.com/bugaosuni59/TH-CPL/blob/master/readme.md)
