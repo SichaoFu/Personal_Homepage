@@ -39,7 +39,7 @@
 
 ### Under Review
 
-1. Wenhao Qiu (Co-supervised Student), **Sichao Fu** (Corresponding Author), Chengxiang Lei and Qinmu Peng. Semantic-visual Guided Transformer for Few-shot Class-incremental Learning. **2023 IEEE International Conference on Multimedia & Expo (ICME 2023)**, Under Review.
+1. Wenhao Qiu (Co-supervised Student), **Sichao Fu** (Corresponding Author), Chengxiang Lei and Qinmu Peng. Semantic-visual Guided Transformer for Few-shot Class-incremental Learning. **2023 IEEE International Conference on Multimedia and Expo (ICME 2023)**, Under Review.
 1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Corresponding Author), Yuetian Wang, Wenhao Qiu, Yachen Hu, Qinmu Peng and Xinge You. Self-supervised Guided Hypergraph Feature Propagation for Semi-supervised Classification with Missing Node Features. **2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)**, Under Review.
 1. Yuetian Wang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Xiao-Yuan Jing and Xinge You. Multi-view Interaction Graph Convolutional Network for Semi-supervised Classification. **Journal of Software**, Major Revision. (In Chinese)
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Yuanjie Shao, Tongliang Liu and Danilo Mandic, Graph Data Lottery Ticket Hypothesis: Finding Core Labels to Maximize Graph Representation Learning, **The Eleventh International Conference on Learning Representations (ICLR 2023)**, Under Review.
