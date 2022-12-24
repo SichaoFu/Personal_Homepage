@@ -44,7 +44,7 @@
 1. Yuetian Wang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Xiao-Yuan Jing and Xinge You. Multi-view Interaction Graph Convolutional Network for Semi-supervised Classification. **Journal of Software**, Major Revision. (In Chinese)
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Yuanjie Shao, Tongliang Liu and Danilo Mandic, Graph Data Lottery Ticket Hypothesis: Finding Core Labels to Maximize Graph Representation Learning, **The Eleventh International Conference on Learning Representations (ICLR 2023)**, Under Review.
 1. **Sichao Fu**, Qinmu Peng, Wenhao Qiu, Yang He, Xiaorui Wang, Bin Zou, Xiao-Yuan Jing and Xinge You, Multi-level Contrastive Graph Masked Autoencoders for Unsupervised Graph Structure Learning, **ACM Transactions on Information Systems**, Under Review.
-1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Guangxi Peng, Bin Zou, Xiao-Yuan Jing and Xinge You, Jointly Optimized Classifiers for Few-shot Class-incremental Learning, **Pattern Recognition**, Under Review.
+1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Guangxi Peng, Bin Zou, Xiao-Yuan Jing and Xinge You, Jointly Optimized Classifiers for Few-shot Class-incremental Learning, **Neural Networks**, Under Review.
 1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yujie Zhong, Yibin Zhan and Xinge You, Few-shot Learning with Dynamic Graph Structure Preserving, **IEEE Transactions on Industrial Informatics**, Under Review.
 
 ### Journals
