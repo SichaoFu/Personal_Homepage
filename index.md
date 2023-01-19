@@ -46,7 +46,6 @@
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Guangxi Peng, Bin Zou, Xiao-Yuan Jing and Xinge You, Jointly Optimized Classifiers for Few-shot Class-incremental Learning, **Neural Networks**, Under Review.
 1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yujie Zhong, Yibin Zhan and Xinge You, Few-shot Learning with Dynamic Graph Structure Preserving, **IEEE Transactions on Industrial Informatics**, Under Review.
 
-
 ### Journals
 1. **Sichao Fu**, Baodi Liu, Weifeng Liu, Bin Zou, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, " Adaptive Multi-scale Transductive Information Propagation for Few-shot Learning", **Knowledge-based Systems**, vol. 249, Article 108979, 2022. // [URL](https://doi.org/10.1016/j.knosys.2022.108979)
 1. **Sichao Fu**, Senlin Wang, Weifeng Liu, Baodi Liu, Bin Zhou, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, "Adaptive Graph Convolutional Collaboration Networks for Semi-supervised Classification", **Information Sciences**, vol. 611, pp. 262-276, 2022. // [URL](https://doi.org/10.1016/j.ins.2022.08.053)
