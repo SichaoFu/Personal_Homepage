@@ -40,7 +40,6 @@
 ### Under Review
 
 1. Wenhao Qiu (Co-supervised Student), **Sichao Fu** (Corresponding Author), Jingyi Zhang, Chengxiang Lei and Qinmu Peng. Semantic-visual Guided Transformer for Few-shot Class-incremental Learning. **2023 IEEE International Conference on Multimedia and Expo (ICME 2023)**, Under Review.
-1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Corresponding Author), Yuetian Wang, Wenhao Qiu, Yachen Hu, Qinmu Peng and Xinge You. Self-supervised Guided Hypergraph Feature Propagation for Semi-supervised Classification with Missing Node Features. **2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)**, Under Review.
 1. Yuetian Wang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Xiao-Yuan Jing and Xinge You. Multi-view Interaction Graph Convolutional Network for Semi-supervised Classification. **Journal of Software**, Major Revision. (In Chinese)
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Tongliang Liu and Danilo Mandic, Finding Core Labels to Maximize Graph Representation Learning, **The Fortieth International Conference on Machine Learning (ICML 2023)**, Under Review.
 1. **Sichao Fu**, Qinmu Peng, Wenhao Qiu, Yang He, Xiaorui Wang, Bin Zou, Xiao-Yuan Jing and Xinge You, Multi-level Contrastive Graph Masked Autoencoders for Unsupervised Graph Structure Learning, **ACM Transactions on Information Systems**, Under Review.
@@ -59,7 +58,7 @@
 1. **Sichao Fu**, Weifeng Liu, Shuying Li and Yicong Zhou, "Two-Order Graph Convolutional Networks for Semi-Supervised Classification". **IET Image Processing**, vol. 13, no. 14, pp. 2763–2771, 2019. // [URL]( https://doi.org/10.1049/iet-ipr.2018.6224)
 
 ### Conferences
-
+1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Corresponding Author), Yuetian Wang, Wenhao Qiu, Yachen Hu, Qinmu Peng and Xinge You. Self-supervised Guided Hypergraph Feature Propagation for Semi-supervised Classification with Missing Node Features. **2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)**, Rhodes island, Greek, 2023.
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization". **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, 2019. // [URL](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition) // [URL1](https://github.com/SichaoFu/MyWebpages/blob/master/Files/Dynamic%20Graph%20Convolutional%20Networks%20by%20Manifold%20Regularization.pdf)
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, "The Comparison of Different Graph Convolutional Neural Networks for Image Recognition". **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018. // [URL](https://doi.org/10.1145/3240876.3240915)
 
