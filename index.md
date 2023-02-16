@@ -6,7 +6,7 @@
 
 ---
 
-**Sichao Fu** is currently a third-year Ph.D. student in information and communication engineering, from the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China, and also a intern in algorithm engineer, JD Retail Planning Department, Beijing, China; He received the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, China, in 2020; and the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, China, in 2017. His current research interests include pattern recognition and deep manifold learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
+**Sichao Fu** is currently a third-year Ph.D. student in information and communication engineering, from the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China, and also a intern in algorithm engineer, JD Retail Platform Operation and Marketing Center, Beijing, China; He received the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, China, in 2020; and the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, China, in 2017. His current research interests include pattern recognition and deep manifold learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
 
 * Address: National Anti-counterfeit Engineering Research Center, No.1037 Luoyu Road, Hongshan District, Wuhan 430074,China
 * Email: fusichao_hust@163.com; fusichao_hust@hust.edu.cn 
@@ -28,7 +28,7 @@
 ## Education
 
 * 2020.09-Now, D.Eng. degree in information and communication engineering,  School of Electronic Information and Communication, Huazhong University of Science and Technology, Wuhan, China, under the supervision of professor [**Xinge You**](http://ei.hust.edu.cn/professor/youxinge/).
-* 2022.05-Now, Intern in Algorithm Engineer, JD Retail Planning Department, Beijing, China, under the supervision of algorithm scientist Baokun Du and postdoc Yibing Zhan;
+* 2022.05-Now, Intern in Algorithm Engineer, JD Platform Operation and Marketing Center, Beijing, China, under the supervision of algorithm scientist Baokun Du and postdoc Yibing Zhan;
 * 2021.08-2022.04, Intern in Algorithm Engineer, JD Explore Academy, Beijing, China, under the supervision of postdoc Qiong Cao and professor [**Dacheng Tao**](https://baike.baidu.com/item/%E9%99%B6%E5%A4%A7%E7%A8%8B/20197096);
 * 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceanography and Space Informatics, China University of Petroleum (East China), Qingdao, China, under the supervision of professor [**Weifeng Liu**](https://frostliu.github.io/); 
 * 2013.09-2017.06, B.Eng. degree in communication engineering, College of Information Science and Engineering, Linyi University, Linyi, China;
