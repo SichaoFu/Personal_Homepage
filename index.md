@@ -19,7 +19,8 @@
 
 * Pattern Recognition // Deep Manifold Learning
 * Graph Representation Learning // Graph Convolutional Networks
-* Multi-view Graph Representation Learning // Unsupervised Graph Representation Learning
+* Multi-view Graph Representation Learning // Multiplex Graph Representation Learning
+* Graph Structure Learning // Unsupervised Graph Representation Learning
 * Few-shot Learning // Graph-based Few-shot Learning
 * Graph-based Few-shot Class-incremental Learning // Self-supervised Few-shot Class-incremental Learning
 
