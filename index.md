@@ -61,7 +61,7 @@
 ### Conferences
 1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Corresponding Author), Yuetian Wang, Wenhao Qiu, Yachen Hu, Qinmu Peng and Xinge You. Self-supervised Guided Hypergraph Feature Propagation for Semi-supervised Classification with Missing Node Features. **2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)**, Rhodes island, Greece, 2023. // [URL](https://arxiv.org/abs/2302.08250)
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization". **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, 2019. // [URL](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition) // [URL1](https://github.com/SichaoFu/MyWebpages/blob/master/Files/Dynamic%20Graph%20Convolutional%20Networks%20by%20Manifold%20Regularization.pdf)
-1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, "The Comparison of Different Graph Convolutional Neural Networks for Image Recognition". **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018)**, Nanjing, China, 2018. // [URL](https://doi.org/10.1145/3240876.3240915)
+1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, "The Comparison of Different Graph Convolutional Neural Networks for Image Recognition". **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018) / Presently ACM International Conference on Multimedia in Asia (MM Asia) **, Nanjing, China, 2018. // [URL](https://doi.org/10.1145/3240876.3240915)
 
 ### Book Chapters
 
@@ -69,7 +69,7 @@
 
 ### Other Papers
 
-1. Zhengqiang Zhang, Qinmu Peng, **Sichao Fu**, Wenjie Wang, Yiu-ming Cheung, Yue Zhao, Shujian Yu and Xinge You, "A Componentwise Approach to Weakly-Supervised Semantic Segmentation Using Dual Feedback Network", **IEEE Transactions on Neural Networks and Learning Systems**, in press, 2022. // [URL](https://doi.org/10.1109/TNNLS.2022.3144194)
+1. Zhengqiang Zhang, Qinmu Peng, **Sichao Fu**, Wenjie Wang, Yiu-ming Cheung, Yue Zhao, Shujian Yu and Xinge You, "A Componentwise Approach to Weakly-Supervised Semantic Segmentation Using Dual Feedback Network", **IEEE Transactions on Neural Networks and Learning Systems**, in press, 2023. // [URL](https://doi.org/10.1109/TNNLS.2022.3144194)
 1. Jun Tang, Yanjiang Wang, **Sichao Fu**, Baodi Liu and Weifeng Liu, "A Graph Convolutional Neural Network Model with Fisher Vector Encoding and Channel-wise Spatial-Temporal Aggregation for Skeleton-based Action Recognition", **IET Image Processing**, vol. 16, no. 5, pp. 1433-1443, 2022. // [URL](https://doi.org/10.1049/ipr2.12422)
 
 ### Degree Thesis
