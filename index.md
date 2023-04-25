@@ -175,7 +175,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Honors and Awards
 
 ### Doctor (2020.09-Now)
-1. 新时代齐河最美学生**（全县仅10人）**, 2023 // [URL](https://mp.weixin.qq.com/s/c61KTcdDuhWW088JNxLXFQ)
+1. 新时代齐河最美学生 **（全县仅10人）**, 2023 // [URL](https://mp.weixin.qq.com/s/c61KTcdDuhWW088JNxLXFQ)
 1. Outstanding Master's Thesis of Chinese Association of Automation // 中国自动化学会优秀硕士学位论文 **（全国仅29篇）**, 2023 // [URL](http://www.caa.org.cn/article/192/3378.html)
 1. China National Scholarship // 博士研究生国家奖学金, 2022 // [URL](http://gszz.hust.edu.cn/info/1087/3395.htm) // [URL1](http://ei.hust.edu.cn/info/1177/7103.htm)
 1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2022 // [URL](http://gszz.hust.edu.cn/info/1087/3394.htm) // [URL1](http://ei.hust.edu.cn/info/1177/7104.htm)
