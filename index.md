@@ -175,7 +175,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Honors and Awards
 
 ### Doctor (2020.09-Now)
-1. Creation Star of Shandong University Student Science and Technology Festival // 山东省大学生科技节创新之星 **（全省仅119人）**, 2023 // [URL](http://www.sdast.org.cn/art/2023/4/28/art_60367_10313919.html)
+1. Creation Star of Shandong University Student Science and Technology Festival // 山东省大学生科技节创新之星 **（全省仅119人）**, 2023 // [URL](http://www.sdast.org.cn/art/2023/5/5/art_60378_10314149.html)
 1. Most Beautiful Student of Qihe County in the New Era // 新时代齐河最美学生 **（全县仅10人）**, 2023 // [URL](https://mp.weixin.qq.com/s/c61KTcdDuhWW088JNxLXFQ)
 1. Outstanding Master's Thesis of Chinese Association of Automation // 中国自动化学会优秀硕士学位论文 **（全国仅29篇）**, 2023 // [URL](http://www.caa.org.cn/article/192/3378.html)
 1. China National Scholarship // 博士研究生国家奖学金, 2022 // [URL](http://gszz.hust.edu.cn/info/1087/3395.htm) // [URL1](http://ei.hust.edu.cn/info/1177/7103.htm)
