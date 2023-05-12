@@ -19,12 +19,12 @@
 
 * Pattern Recognition // Deep Manifold Learning
 * Semi-supervised Graph Representation Learning // Unsupervised Graph Representation Learning
-  1. Graph Convolutional Networks with High-order Local Geometry Preserving
-  1. Multi-view Graph Representation Learning // Multiplex Graph Representation Learning
-  1. Graph Structure Learning // Robust Graph Representation Learning with Noisy Information
+  * Graph Convolutional Networks with High-order Local Geometry Preserving
+  * Multi-view Graph Representation Learning // Multiplex Graph Representation Learning
+  * Graph Structure Learning // Robust Graph Representation Learning with Noisy Information
 * Few-shot Learning 
-  1. Graph-based Few-shot Learning
-  1. Graph-based Few-shot Class-incremental Learning // Self-supervised Few-shot Class-incremental Learning
+  * Graph-based Few-shot Learning
+  * Graph-based Few-shot Class-incremental Learning // Self-supervised Few-shot Class-incremental Learning
 
 ---
 
