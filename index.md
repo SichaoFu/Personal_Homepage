@@ -43,7 +43,7 @@
 ### Under Review
 
 1. Yuetian Wang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Journal of Software**, Major Revision. (In Chinese)
-1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Tongliang Liu and Danilo Mandic, XXX, **Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)**, Under Review. 
+1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Tongliang Liu, James Bailey and Danilo Mandic, XXX, **Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)**, Under Review. 
 1. **Sichao Fu**, Qinmu Peng, Yang He, Baokun Du, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Science China Information Sciences**, Under Review.
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Guangxi Peng, Bin Zou, Xiao-Yuan Jing and Xinge You, XXX, **Neural Networks**, Under Review.
