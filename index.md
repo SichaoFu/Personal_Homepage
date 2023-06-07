@@ -113,10 +113,6 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Projects
 
 ### Under Study
-1. Research on the Construction Problems and its Strategies of a Harmonious Society in the Post-epidemic Era--Taking Grassroots Social Governance as the Starting Point // 后疫情时代和谐社会的建构问题及其策略探究--以基层社会治理为切入点（2022.07-2023.06）// [URL](http://ygb.hust.edu.cn/info/1028/8462.htm)
-    * Project Member
-    * Funded by: Fundamental Research Funds for the Central Universities // 华中科技大学研究生创新基金（人文社科创新交叉）
-    * Grant Number: YCJJ202204016
 1. Research on Deep Local Structure Preserving Methods and Applications based on Graph Neural Networks // 基于图神经网络的深度局部结构保持方法及应用研究（2022.01-2023.12）// [URL](http://ii.hust.edu.cn/info/1004/1508.htm)
     * **Project Leader**
     * Funded by: Fundamental Research Funds for the Central Universities, HUST // 中央高校基本科研业务费资助，HUST（华中科技大学创新研究院技术创新基金）
@@ -131,6 +127,11 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
     * Grant Number: 2021ZD0111700
 
 ### Study Complete
+1. Research on the Construction Problems and its Strategies of a Harmonious Society in the Post-epidemic Era--Taking Grassroots Social Governance as the Starting Point // 后疫情时代和谐社会的建构问题及其策略探究--以基层社会治理为切入点（2022.07-2023.06）// [URL](http://ygb.hust.edu.cn/info/1028/8462.htm)
+    * Project Member
+    * Funded by: Fundamental Research Funds for the Central Universities // 华中科技大学研究生创新基金（人文社科创新交叉）
+    * Grant Number: YCJJ202204016
+    * 已结题
 1. Research on Non-local Information Architecture Methods based on Attention Mechanism and Graph Convolutional // 基于注意力机制与图卷积的非局部信息构建方法研究
 （2021.01-2022.12） // [URL](https://isn.xidian.edu.cn/info/1069/3021.htm)
     * Project Member
