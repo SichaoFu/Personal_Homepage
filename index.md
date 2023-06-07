@@ -113,6 +113,22 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Projects
 
 ### Under Study
+1. 多源异构防伪票证大数据的智能分析关键技术与软件（2022.01-2025.12）
+    * Project Member
+    * Funded by: National Key Research and Development Program of China // 国家重点研发计划青年科学家项目
+    * Grant Number: 2022YFF0712300
+1. 出入境证件智能化真伪识别装备研究（2022.01-2025.12）
+    * Project Member
+    * Funded by: National Key Research and Development Program of China // 国家重点研发计划课题
+    * Grant Number: 2022YFC3301004
+1. 出入境证件智能化真伪识别技术及系统研究（2022.01-2025.12）
+    * Project Member
+    * Funded by: National Key Research and Development Program of China // 国家重点研发计划课题
+    * Grant Number: 2022YFC3301003
+1. 面向检察办案的不可信电子化签名攻击识别关键技术研究（2022.01-2025.12）
+    * Project Member
+    * Funded by: National Key Research and Development Program of China // 国家重点研发计划课题
+    * Grant Number: 2022YFC3301704
 1. Research on Deep Local Structure Preserving Methods and Applications based on Graph Neural Networks // 基于图神经网络的深度局部结构保持方法及应用研究（2022.01-2023.12）// [URL](http://ii.hust.edu.cn/info/1004/1508.htm)
     * **Project Leader**
     * Funded by: Fundamental Research Funds for the Central Universities, HUST // 中央高校基本科研业务费资助，HUST（华中科技大学创新研究院技术创新基金）
@@ -121,6 +137,10 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
     * **Co-First Project Leader**
     * Funded by: Open Research Fund from Shandong Provincial Key Laboratory of Computer Network // 山东计算机学会省重点实验室联合开放基金（山东省计算机网络重点实验室）
     * Grant Number: SKLCN-2021-02
+1. 基于社会活动场的多混合智能体轨迹预测研究（2022.01-2025.12）
+    * Project Member
+    * Funded by: National Natural Science Foundation of China // 国家自然科学基金面上项目
+    * Grant Number: 62172177
 1. Research on Key Technologies based on Cross-multimedia Causal Inference and Decision-making // 跨媒体因果推理和决策关键技术研究（2021.12-2024.11）
     * Project Member
     * Funded by: Science and Technology Innovation 2030 – “New Generation Artificial Intelligence” Major Project // 科技创新2030-“新一代人工智能”重大项目
@@ -131,6 +151,11 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
     * Project Member
     * Funded by: Fundamental Research Funds for the Central Universities // 华中科技大学研究生创新基金（人文社科创新交叉）
     * Grant Number: YCJJ202204016
+    * 已结题
+1. 慢性阻塞性肺疾病的中医智能诊疗关键技术与应用（2020.09-2022.12）// [URL](http://ygb.hust.edu.cn/info/1028/8462.htm)
+    * Project Member
+    * Funded by: Key Research and Development Program of Hubei Province // 湖北省重点研发计划
+    * Grant Number: 2020BAB027
     * 已结题
 1. Research on Non-local Information Architecture Methods based on Attention Mechanism and Graph Convolutional // 基于注意力机制与图卷积的非局部信息构建方法研究
 （2021.01-2022.12） // [URL](https://isn.xidian.edu.cn/info/1069/3021.htm)
