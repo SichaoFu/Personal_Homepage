@@ -22,7 +22,7 @@
   * Graph Convolutional Networks with High-order Local Geometry Preserving
   * Multi-view Graph Representation Learning // Multiplex Graph Representation Learning
   * Graph Structure Learning // Robust Graph Representation Learning with Noisy Information
-* Few-shot Learning 
+* Few-shot Learning // Class-incremental Learning
   * Graph-based Few-shot Learning
   * Graph-based Few-shot Class-incremental Learning // Self-supervised Few-shot Class-incremental Learning
 
