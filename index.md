@@ -113,7 +113,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Projects
 
 ### Under Study
-1. 多源异构防伪票证大数据的智能分析关键技术与软件（2022.01-2025.12）
+1. 多源异构防伪票证大数据的智能分析关键技术与软件（2022.12-2025.11）
     * Project Member
     * Funded by: National Key Research and Development Program of China // 国家重点研发计划青年科学家项目
     * Grant Number: 2022YFF0712300
@@ -121,11 +121,11 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
     * Project Member
     * Funded by: National Key Research and Development Program of China // 国家重点研发计划课题
     * Grant Number: 2022YFC3301004
-1. 出入境证件智能化真伪识别技术及系统研究（2022.01-2025.12）
+1. 出入境证件智能化真伪识别技术及系统研究（2022.12-2025.11）
     * Project Member
     * Funded by: National Key Research and Development Program of China // 国家重点研发计划课题
     * Grant Number: 2022YFC3301003
-1. 面向检察办案的不可信电子化签名攻击识别关键技术研究（2022.01-2025.12）
+1. 面向检察办案的不可信电子化签名攻击识别关键技术研究（2022.12-2025.11）
     * Project Member
     * Funded by: National Key Research and Development Program of China // 国家重点研发计划课题
     * Grant Number: 2022YFC3301704
