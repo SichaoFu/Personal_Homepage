@@ -204,7 +204,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Honors and Awards
 
 ### Doctor (2020.09-Now)
-1. The 9th China International College Students 'Internet+' Innovation and Entrepreneurship Competition (Hubei Province) Bronze Prize // 第九届中国国际“互联网+”大学生创新创业大赛湖北省铜奖, 2023.
+1. The 9th China International College Students 'Internet+' Innovation and Entrepreneurship Competition (Hubei Province) Bronze Prize // 第九届中国国际“互联网+”大学生创新创业大赛湖北省铜奖, 2023. // [URL](http://news.hust.edu.cn/info/1003/49464.htm)
    * 儿童体育动作智能评测系统
    * Main Project Member // 汤小龙、郑文捷、付铭烯、廖钰菁、谢诗扬、夏北浩、李珩、**傅司超**、胡志恒
 1. Creation Star of Shandong University Student Science and Technology Festival // 山东省大学生科技节创新之星 **（全省仅119人）**, 2023 // [URL](http://www.sdast.org.cn/art/2023/5/5/art_60378_10314149.html)
