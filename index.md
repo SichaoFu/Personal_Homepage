@@ -48,7 +48,7 @@
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Neural Networks and Learning Systems**, Reject and Resubmit.
 1. **Sichao Fu**, Qinmu Peng, Yang He, Baokun Du, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Science China Information Sciences**, Major Revision.
 1. Yuetian Wang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Journal of Software**, Major Revision. (In Chinese)
-1. Wuli Wang (Co-advisor), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Peng Ren, Qinmu Peng and Guangbo Ren. XXX. ISPRS Journal of Photogrammetry and Remote Sensing, Under Review.
+1. Wuli Wang (Co-advisor), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Peng Ren, Qinmu Peng and Guangbo Ren. XXX. **ISPRS Journal of Photogrammetry and Remote Sensing**, Under Review.
 
 ### Journals
 1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yujie Zhong, Yibin Zhan and Xinge You, Few-shot Learning with Dynamic Graph Structure Preserving, **IEEE Transactions on Industrial Informatics**, in press, 2023. // [URL]()
