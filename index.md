@@ -18,7 +18,7 @@
 ## Research Interests
 
 * Pattern Recognition // Deep Manifold Learning
-* Semi-supervised Graph Representation Learning // Unsupervised Graph Representation Learning
+* Semi-supervised Graph Representation Learning // Unsupervised Graph Representation Learning // Weakly-supervised Graph Representation Learning 
   * Graph Convolutional Networks with High-order Local Geometry Preserving
   * Multi-view Graph Representation Learning // Multiplex Graph Representation Learning
   * Graph Structure Learning // Robust Graph Representation Learning with Noisy Information
