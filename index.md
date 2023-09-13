@@ -46,7 +46,7 @@
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Emerging Topics in Computational Intelligence**, Under Review.
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Neural Networks and Learning Systems**, Reject and Resubmit.
 1. **Sichao Fu**, Qinmu Peng, Yang He, Baokun Du, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Science China Information Sciences**, Major Revision.
-1. Wuli Wang (Co-advisor), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Peng Ren, Qinmu Peng and Guangbo Ren. XXX. **ISPRS Journal of Photogrammetry and Remote Sensing**, Under Review.
+1. Wuli Wang (Co-advisor), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Peng Ren, Qinmu Peng, Guangbo Ren and Baodi Liu. XXX. **IEEE Transactions on Geoscience and Remote Sensing**, Under Review.
 
 ### Journals
 1. Yuetian Wang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Qinmu Peng, Bin Zou, Xiao-Yuan Jing and Xinge You. Multi-view Interaction Graph Convolutional Network for Semi-supervised Classification. **Journal of Software**, in press, 2023. (In Chinese) // [URL]()
