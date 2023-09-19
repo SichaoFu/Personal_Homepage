@@ -21,10 +21,10 @@
 * Semi-supervised Graph Representation Learning // Unsupervised Graph Representation Learning // Weakly-supervised Graph Representation Learning 
   * Graph Convolutional Networks with High-order Local Geometry Preserving
   * Multi-view Graph Representation Learning // Multiplex Graph Representation Learning
-  * Graph Structure Learning // Robust Graph Representation Learning with Noisy Information
+  * Graph Structure Learning // Robust Graph Representation Learning with Noisy Information (features missing  and structure missing)
 * Few-shot Learning // Class-incremental Learning
   * Graph-based Few-shot Learning
-  * Graph-based Few-shot Class-incremental Learning // Self-supervised Few-shot Class-incremental Learning
+  * Graph-based Few-shot Class-incremental Learning // Multi-modal Transformer based Few-shot Class-incremental Learning
 
 ---
 
