@@ -48,10 +48,10 @@
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Tongliang Liu, James Bailey and Danilo Mandic, XXX, **Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)**, Under Review.
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Emerging Topics in Computational Intelligence**, Under Review.
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Neural Networks and Learning Systems**, Reject and Resubmit.
-1. **Sichao Fu**, Qinmu Peng, Yang He, Baokun Du, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Science China Information Sciences**, Major Revision.
 1. Wuli Wang (Co-advisor), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Peng Ren, Qinmu Peng, Guangbo Ren and Baodi Liu. XXX. **IEEE Transactions on Geoscience and Remote Sensing**, Under Review.
 
 ### Journals
+1. **Sichao Fu**, Qinmu Peng, Yang He, Baokun Du, Bin Zou, Xiao-Yuan Jing and Xinge You. Unsupervised Multiplex Graph Diffusion Networks with Multi-level Canonical Correlation Analysis for Multiplex Graph Representation Learning. **Science China Information Sciences**, in press, 2023.
 1. Yuetian Wang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Qinmu Peng, Bin Zou, Xiao-Yuan Jing and Xinge You. Multi-view Interaction Graph Convolutional Network for Semi-supervised Classification. **Journal of Software**, in press, 2023. (In Chinese) // [URL]()
 1. **Sichao Fu**, Qiong Cao, Yunwen Lei, Yujie Zhong, Yibin Zhan and Xinge You, Few-shot Learning with Dynamic Graph Structure Preserving, **IEEE Transactions on Industrial Informatics**, in press, 2023. // [URL](https://ieeexplore.ieee.org/document/10234527/authors#authors)
 1. **Sichao Fu**, Baodi Liu, Weifeng Liu, Bin Zou, Xinhua You, Qinmu Peng and Xiao-Yuan Jing, " Adaptive Multi-scale Transductive Information Propagation for Few-shot Learning", **Knowledge-based Systems**, vol. 249, Article 108979, 2022. // [URL](https://doi.org/10.1016/j.knosys.2022.108979)
