@@ -45,9 +45,9 @@
 
 ### Under Review
 
+1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Neural Networks and Learning Systems**, Reject and Resubmit.
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Tongliang Liu, James Bailey and Danilo Mandic, XXX, **Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)**, Under Review.
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Emerging Topics in Computational Intelligence**, Under Review.
-1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Neural Networks and Learning Systems**, Reject and Resubmit.
 1. Wuli Wang (Co-advisor), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Peng Ren, Qinmu Peng, Guangbo Ren and Baodi Liu. XXX. **IEEE Transactions on Geoscience and Remote Sensing**, Under Review.
 
 ### Journals
@@ -66,8 +66,8 @@
 
 ### Conferences
 1. **Sichao Fu**, Qinmu Peng, Yang He, Baokun Du and Xinge You, Towards Unsupervised Graph Completion Learning on Graphs with Features and Structure Missing, **2023 IEEE International Conference on Data Mining (ICDM 2023)**, Shanghai, China, 2023. // [URL](https://arxiv.org/abs/2309.02762)
-1. Wenhao Qiu (Co-supervised Student), **Sichao Fu** (Corresponding Author), Jingyi Zhang, Chengxiang Lei and Qinmu Peng. Semantic-visual Guided Transformer for Few-shot Class-incremental Learning. **2023 IEEE International Conference on Multimedia and Expo (ICME 2023)**, Brisbane, Australia, 2023. // [URL](https://ieeexplore.ieee.org/document/10219643)
 1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Corresponding Author), Yuetian Wang, Wenhao Qiu, Yachen Hu, Qinmu Peng and Xinge You. Self-supervised Guided Hypergraph Feature Propagation for Semi-supervised Classification with Missing Node Features. **2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)**, Rhodes island, Greece, 2023. // [URL](https://ieeexplore.ieee.org/document/10094867)
+1. Wenhao Qiu (Co-supervised Student), **Sichao Fu** (Corresponding Author), Jingyi Zhang, Chengxiang Lei and Qinmu Peng. Semantic-visual Guided Transformer for Few-shot Class-incremental Learning. **2023 IEEE International Conference on Multimedia and Expo (ICME 2023)**, Brisbane, Australia, 2023. // [URL](https://ieeexplore.ieee.org/document/10219643)
 1. **Sichao Fu**, Weifeng Liu, Yicong Zhou, Zheng-Jun Zha and Liqiang Nie, "Dynamic Graph Convolutional Networks by Manifold Regularization". **2019 IJCAI Workshop on Deep Learning for Human Activity Recognition (IJCAIW 2019)**, Macao, China, 2019. // [URL](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition) // [URL1](https://github.com/SichaoFu/MyWebpages/blob/master/Files/Dynamic%20Graph%20Convolutional%20Networks%20by%20Manifold%20Regularization.pdf)
 1. **Sichao Fu**, Xinghao Yang and Weifeng Liu, "The Comparison of Different Graph Convolutional Neural Networks for Image Recognition". **2018 International Conference on Internet Multimedia Computing and Service (ICIMCS 2018) / (Presently MM Asia)**, Nanjing, China, 2018. // [URL](https://doi.org/10.1145/3240876.3240915) // [URL1](http://www.acmmmasia.org/)
 
