@@ -48,7 +48,7 @@
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Qinmu Peng, Tongliang Liu, James Bailey and Danilo Mandic, XXX, **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Neural Networks and Learning Systems**, Reject and Resubmit.
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Emerging Topics in Computational Intelligence**, Major Revision.
-1. Wuli Wang (Co-advisor), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Peng Ren, Qinmu Peng, Guangbo Ren and Baodi Liu. XXX. **IEEE Transactions on Geoscience and Remote Sensing**, Under Review.
+1. Wuli Wang (Co-advisor), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Peng Ren, Qinmu Peng, Guangbo Ren and Baodi Liu. XXX. **IEEE Transactions on Geoscience and Remote Sensing**, Major Revision.
 
 ### Journals
 1. **Sichao Fu**, Qinmu Peng, Yang He, Baokun Du, Bin Zou, Xiao-Yuan Jing and Xinge You. Unsupervised Multiplex Graph Diffusion Networks with Multi-level Canonical Correlation Analysis for Multiplex Graph Representation Learning. **Science China Information Sciences**, in press, 2023. // [URL]()
