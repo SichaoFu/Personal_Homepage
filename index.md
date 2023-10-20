@@ -208,7 +208,8 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Honors and Awards
 
 ### Doctor (2020.09-Now)
-1. Outstanding Postgraduate Cadre of Huazhong University of Science and Technology // 华中科技大学优秀研究生干部, 2023 // [URL](http://ei.hust.edu.cn/info/1177/7516.htm) 
+1. Outstanding Postgraduate Cadre of Huazhong University of Science and Technology // 华中科技大学优秀研究生干部, 2023 // [URL](http://ei.hust.edu.cn/info/1177/7516.htm)
+1. Doctor Academic Scholarship of Huazhong University of Science and Technology // 华中科技大学博士学业奖学金, 2023 // [URL](http://ei.hust.edu.cn/info/1177/7534.htm)
 
 1. Second Prize of the Computer Federation Science and Technology (Natural Science) Award of Shandong Province // 山东省计算机学会科学技术奖（自然科学奖）二等奖, 2023 // [URL](http://www.sd-cf.com.cn/info/774.jspx)
    * 基于多源信息协同的小样本学习方法研究
