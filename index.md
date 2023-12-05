@@ -23,7 +23,7 @@
   * Deep Co-training based Multi-view Graph Representation Learning
   * Multiplex Graph Representation Learning
   * Graph Structure Learning
-  * Robust Graph Representation Learning with Noisy Information (features missing  and structure missing)
+  * Robust Graph Representation Learning with Noisy Information (features missing, structure missing, label noise)
 * Few-shot Learning // Class-incremental Learning
   * Graph-based Few-shot Learning
   * Graph-based Few-shot Class-incremental Learning
