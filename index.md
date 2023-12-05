@@ -28,6 +28,7 @@
   * Graph-based Few-shot Learning
   * Graph-based Few-shot Class-incremental Learning
   * Multi-modal Transformer based Few-shot Class-incremental Learning
+  * Multi-feature Collaboration based Few-shot Class-incremental Learning
 
 ---
 
