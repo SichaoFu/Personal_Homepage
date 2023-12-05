@@ -11,7 +11,7 @@
 * Address: National Anti-counterfeit Engineering Research Center, No.1037 Luoyu Road, Hongshan District, Wuhan 430074,China
 * Email: fusichao_hust@163.com; fusichao_hust@hust.edu.cn 
 
-**傅司超**, 中共党员, 研究生学历, 工学博士在读, 国际计算机学会专业会员, 电气和电子工程师协会学生会员, 石油工程师学会学生会员, 中国电子学会会员, 中国计算机学会学生会员, 中国自动化学会学生会员, 中国图象图形学学会学生会员, 中国图学学会学生会员, 中国通信学会学生会员, 中国仿真学会学生会员, 山东省人工智能学会会员. 2020年9月起就读于华中科技大学信息与通信工程专业, 2022年5月起至今在京东零售产品研发部算法工程师岗实习, 2021年8月至2022年4月在京东科技探索研究院算法工程师岗实习; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位. 博士阶段主要研究方向为深度流形学习理论及其应用, 以第一位次或共同第一位次主持在研山东计算机学会省重点实验室联合开放基金项目1项、华中科技大学创新研究院技术创新基金项目1项, 以骨干成员参与科技创新2030-“新一代人工智能”重大项目1项、国家重点研发计划项目4项、国家自然科学基金面上项目1项、湖北省重点研发计划项目1项、华中科技大学研究生创新基金项目1项, 以第一作者发表学术论文5篇, 在审学术论文3篇, 通讯作者发表学术论文3篇, 在审学术论文1篇, 第一位次申请公开国家发明专利2项，获评2022年博士研究生国家奖学金、第十三届中国大学生服务外包创新创业大赛全国三等奖、第九届中国国际“互联网+”大学生创新创业大赛湖北省铜奖、 第一届CCF科技创业大赛全国优胜创业团队、2021年CCF-腾讯犀牛鸟研学营优秀营员等奖励; 硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以第一位次或共同第一位次主持完成模式识别国家重点实验室开放课题项目1项、复杂系统建模与仿真教育部重点实验室开放课题项目1项、中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与中石油重大科技项目1项、国家自然科学基金面上项目1项、综合业务网理论及关键技术国家重点实验室开放课题项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项; 以第一作者发表学术论文9篇, 导师一作、学生二作发表学术论文1篇, 第一位次申请公开国家发明专利2项, 获评2022年山东省人工智能科学技术奖（自然科学奖）一等奖、2021年山东省人工智能科学技术奖（自然科学奖）一等奖、 2023年山东省计算机学会科学技术奖（自然科学奖）二等奖、 2021年青岛市大数据优秀学术成果奖、2019年山东省专业学位研究生优秀成果奖省级一等奖、2020年山东省学术学位研究生优秀成果奖省级三等奖、2021年山东省优秀硕士学位论文、2022年中国自动化学会优秀硕士学位论文、2020年中国电子学会优秀硕士学位论文、2021年山东省人工智能学会优秀硕士学位论文、2020年中国石油大学（华东）优秀硕士学位论文、2019年硕士研究生国家奖学金等奖励. 近年来, 担任数十种领域内重要期刊和国际学术会议审稿人.
+**傅司超**, 中共党员, 研究生学历, 工学博士在读, 国际计算机学会专业会员, 电气和电子工程师协会学生会员, 石油工程师学会学生会员, 中国电子学会会员, 中国计算机学会学生会员, 中国自动化学会学生会员, 中国图象图形学学会学生会员, 中国图学学会学生会员, 中国通信学会学生会员, 中国仿真学会学生会员, 山东省人工智能学会会员. 2020年9月起就读于华中科技大学信息与通信工程专业, 2022年5月起至今在京东零售产品研发部算法工程师岗实习, 2021年8月至2022年4月在京东科技探索研究院算法工程师岗实习; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位. 博士阶段主要研究方向为深度流形学习理论及其应用, 以第一位次或共同第一位次主持完成山东计算机学会省重点实验室联合开放基金项目1项、华中科技大学创新研究院技术创新基金项目1项, 以骨干成员参与科技创新2030-“新一代人工智能”重大项目1项、国家重点研发计划项目4项、国家自然科学基金面上项目1项、湖北省重点研发计划项目1项、华中科技大学研究生创新基金项目1项, 以第一作者发表学术论文5篇, 在审学术论文3篇, 通讯作者发表学术论文3篇, 在审学术论文1篇, 第一位次申请公开国家发明专利2项，获评2022年博士研究生国家奖学金、第十三届中国大学生服务外包创新创业大赛全国三等奖、第九届中国国际“互联网+”大学生创新创业大赛湖北省铜奖、 第一届CCF科技创业大赛全国优胜创业团队、2021年CCF-腾讯犀牛鸟研学营优秀营员等奖励; 硕士阶段主要研究方向为图卷积神经网络理论及其应用, 以第一位次或共同第一位次主持完成模式识别国家重点实验室开放课题项目1项、复杂系统建模与仿真教育部重点实验室开放课题项目1项、中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与中石油重大科技项目1项、国家自然科学基金面上项目1项、综合业务网理论及关键技术国家重点实验室开放课题项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项; 以第一作者发表学术论文9篇, 导师一作、学生二作发表学术论文1篇, 第一位次申请公开国家发明专利2项, 获评2022年山东省人工智能科学技术奖（自然科学奖）一等奖、2021年山东省人工智能科学技术奖（自然科学奖）一等奖、 2023年山东省计算机学会科学技术奖（自然科学奖）二等奖、 2021年青岛市大数据优秀学术成果奖、2019年山东省专业学位研究生优秀成果奖省级一等奖、2020年山东省学术学位研究生优秀成果奖省级三等奖、2021年山东省优秀硕士学位论文、2022年中国自动化学会优秀硕士学位论文、2020年中国电子学会优秀硕士学位论文、2021年山东省人工智能学会优秀硕士学位论文、2020年中国石油大学（华东）优秀硕士学位论文、2019年硕士研究生国家奖学金等奖励. 近年来, 担任数十种领域内重要期刊和国际学术会议审稿人.
 
 ---
 
@@ -134,14 +134,6 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
     * Project Member
     * Funded by: National Key Research and Development Program of China // 国家重点研发计划课题
     * Grant Number: 2022YFC3301704
-1. Research on Deep Local Structure Preserving Methods and Applications based on Graph Neural Networks // 基于图神经网络的深度局部结构保持方法及应用研究（2022.01-2023.12）// [URL](http://ii.hust.edu.cn/info/1004/1508.htm)
-    * **Project Leader**
-    * Funded by: Fundamental Research Funds for the Central Universities, HUST // 中央高校基本科研业务费资助，HUST（华中科技大学创新研究院技术创新基金）
-    * Grant Number: 2022JYCXJJ034
-1. Research on Multimedia Information Security Algorithms based on Deep Local Structure Preserving Theory and Adversarial Attacks //  基于深度局部结构保持理论与对抗攻击的多媒体信息安全算法研究（2022.01-2023.12）// [URL](https://mp.weixin.qq.com/s/nSazAEUl-Otohv6X9r5NGg)
-    * **Co-First Project Leader**
-    * Funded by: Open Research Fund from Shandong Provincial Key Laboratory of Computer Network // 山东计算机学会省重点实验室联合开放基金（山东省计算机网络重点实验室）
-    * Grant Number: SKLCN-2021-02
 1. 基于社会活动场的多混合智能体轨迹预测研究（2022.01-2025.12）
     * Project Member
     * Funded by: National Natural Science Foundation of China // 国家自然科学基金面上项目
@@ -152,11 +144,21 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
     * Grant Number: 2021ZD0111700
 
 ### Study Complete
+1. Research on Deep Local Structure Preserving Methods and Applications based on Graph Neural Networks // 基于图神经网络的深度局部结构保持方法及应用研究（2022.01-2023.12）// [URL](http://ii.hust.edu.cn/info/1004/1508.htm)
+    * **Project Leader**
+    * Funded by: Fundamental Research Funds for the Central Universities, HUST // 中央高校基本科研业务费资助，HUST（华中科技大学创新研究院技术创新基金）
+    * Grant Number: 2022JYCXJJ034
+    * 已结题
+1. Research on Multimedia Information Security Algorithms based on Deep Local Structure Preserving Theory and Adversarial Attacks //  基于深度局部结构保持理论与对抗攻击的多媒体信息安全算法研究（2022.01-2023.12）// [URL](https://mp.weixin.qq.com/s/nSazAEUl-Otohv6X9r5NGg)
+    * **Co-First Project Leader**
+    * Funded by: Open Research Fund from Shandong Provincial Key Laboratory of Computer Network // 山东计算机学会省重点实验室联合开放基金（山东省计算机网络重点实验室）
+    * Grant Number: SKLCN-2021-02
+    * 已结题
 1. Research on the Construction Problems and its Strategies of a Harmonious Society in the Post-epidemic Era--Taking Grassroots Social Governance as the Starting Point // 后疫情时代和谐社会的建构问题及其策略探究--以基层社会治理为切入点（2022.07-2023.06）// [URL](http://ygb.hust.edu.cn/info/1028/8462.htm)
     * Project Member
     * Funded by: Fundamental Research Funds for the Central Universities // 华中科技大学研究生创新基金（人文社科创新交叉）
     * Grant Number: YCJJ202204016
-    * 已结题
+    * [已结题](http://ygb.hust.edu.cn/info/1059/10005.htm) 
 1. 慢性阻塞性肺疾病的中医智能诊疗关键技术与应用（2020.09-2022.12）
     * Project Member
     * Funded by: Key Research and Development Program of Hubei Province // 湖北省重点研发计划
