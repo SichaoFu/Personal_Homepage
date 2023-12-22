@@ -48,7 +48,7 @@
 
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Qinmu Peng, Tongliang Liu, James Bailey and Danilo Mandic, XXX, **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Neural Networks and Learning Systems**, Minor Revision.
-1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Emerging Topics in Computational Intelligence**, Minor Revision.
+1. **Sichao Fu**, Qinmu Peng, Xiaorui Wang, Yang He, Wenhao Qiu, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Emerging Topics in Computational Intelligence**, Minor Revision.
 1. Wuli Wang (Co-advisor), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Peng Ren, Guangbo Ren, Qinmu Peng and Baodi Liu. XXX. **IEEE Transactions on Geoscience and Remote Sensing**, Major Revision.
 
 ### Journals
