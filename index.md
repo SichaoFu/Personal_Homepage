@@ -49,6 +49,7 @@
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Qinmu Peng, Tongliang Liu, James Bailey and Danilo Mandic, XXX, **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
 1. **Sichao Fu**, Qinmu Peng, Xiaorui Wang, Yang He, Wenhao Qiu, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Emerging Topics in Computational Intelligence**, Minor Revision.
 1. Wuli Wang (Co-advisor), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Peng Ren, Guangbo Ren, Qinmu Peng and Baodi Liu. XXX. **IEEE Transactions on Geoscience and Remote Sensing**, Major Revision.
+1. Jiazhen Chen (Co-supervised Student), Sichao Fu (Corresponding Author), Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2024 International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)**, Under Review.
 
 ### Journals
 1. **Sichao Fu**, Qinmu Peng, Yang He, Xiaorui Wang, Bin Zou, Duanquan Xu, Xiao-Yuan Jing and Xinge You, Multi-level Contrastive Graph Masked Autoencoders for Unsupervised Graph Structure Learning, **IEEE Transactions on Neural Networks and Learning Systems**, in press, 2024. // [URL](https://doi.org/10.1109/TNNLS.2024.3358801)
