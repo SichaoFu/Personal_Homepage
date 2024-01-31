@@ -49,7 +49,8 @@
 
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Qinmu Peng, Tongliang Liu, James Bailey and Danilo Mandic, XXX, **IEEE Transactions on Neural Networks and Learning Systems**, Under Review.
 1. Wuli Wang (Co-advisor), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Peng Ren, Guangbo Ren, Qinmu Peng and Baodi Liu. XXX. **IEEE Transactions on Geoscience and Remote Sensing**, Major Revision.
-1. Jiazhen Chen (Co-supervised Student), Sichao Fu (Corresponding Author), Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2024 International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)**, Under Review.
+1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2024 International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)**, Under Review.
+1. Xiaorui Wang, Yuan Xu, Rongjin Wang, Baokun Du, **Sichao Fu**, Yang He, Zhangang Lin and Jingping Shao. XXX. **2024 International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)**, Under Review.
 
 ### Journals
 
