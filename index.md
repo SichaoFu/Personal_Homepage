@@ -99,10 +99,10 @@
 ---
 ## China Patents
 
-1. **Sichao Fu**, Xiaorui Wang, Baokun Du and Yang He, "Semi-supervised Classification Method based on Adaptive Graph Convolutional Collaboration Networks // 一种图卷积网络模型的确定方法和装置". 
+1. **Sichao Fu**, Xiaorui Wang, Baokun Du and Yang He, "Semi-supervised Classification Method based on Adaptive Graph Convolutional Collaboration Networks // 一种图卷积网络模型的确定方法和装置". // [URL](https://kns.cnki.net/kcms2/article/abstract?v=bnuN6dG7iIAjTgxlVEawj0Br8q1QptYThU8VmRByxmF6RvsGsLBuAPd_jP5VwYNw3DIAbZAyPuqzm-AZME88vnXeEWyvoogePSFo2cYmdPbLQXFqt5HF99vhJmMBTn8-6uXM4B1H4sg=&uniplatform=NZKPT&language=CHS)
    * Patent for Invention
-   * Application Number: XXX
-   * Application Date: 12 July, 2022
+   * Application Number: CN117436481A
+   * Application Date: 23 January, 2024
 1. **Sichao Fu**, Qiong Cao, Yibin Zhan and Dacheng Tao, "Data Classification Method, Device, Equipment and Storage Medium // 一种数据分类方法、装置、设备及存储介质". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN114610953A&uniplatform=NZKPT&v=s-PAb6UP0ZfKLGU_OdnKu0tyxchcqy_9CMWJNvM5h0S6w62n7Cxc6yMKKTGlfoHc)
    * Patent for Invention
    * Application Number: CN114610953A
