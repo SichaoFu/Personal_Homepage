@@ -48,7 +48,7 @@
 
 ### Under Review
 
-1. **Sichao Fu**, Qinmu Peng, Baokun Du, Yang He, Bin Zou, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Cybernetics**, Under Review.
+1. **Sichao Fu**, Qinmu Peng, Baokun Du, Yang He, Bin Zou, Xiao-Yuan Jing, Xinge You and Yiu-Ming Cheung, XXX, **IEEE Transactions on Cybernetics**, Under Review.
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Qinmu Peng, Tongliang Liu, James Bailey and Danilo Mandic, XXX, **Neural Networks**, Under Review.
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **IEEE Transactions on Knowledge and Data Engineering**, Under Review.
 1. Xiaorui Wang, Yuan Xu, Rongjin Wang, Baokun Du, **Sichao Fu** (Corresponding Author), Yang He, Zhangang Lin and Jingping Shao. XXX. **2024 International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)**, Under Review.
