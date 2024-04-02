@@ -25,14 +25,14 @@
   * Graph Structure Learning
   * Robust Graph Representation Learning with Noisy Information
   * Graph Anomaly Detection
-  * ---
+  * ...
 * Few-shot Learning // Class-incremental Learning
   * Graph-based Few-shot Learning
   * Graph-based Few-shot Class-incremental Learning
   * Multi-modal Transformer based Few-shot Class-incremental Learning
   * Multi-feature Collaboration based Few-shot Class-incremental Learning
   * Class-incremental Learning
-  * ---
+  * ...
 
 ---
 
