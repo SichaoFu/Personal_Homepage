@@ -52,7 +52,7 @@
 
 1. **Sichao Fu**, Qinmu Peng, Yiu-Ming Cheung, Baokun Du, Yang He, Bin Zou, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Cybernetics**, Under Review.
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Qinmu Peng, Tongliang Liu, James Bailey and Danilo Mandic, XXX, **Neural Networks**, Under Review.
-1. Wenjie Zheng (Co-supervised Student), **Sichao Fu** (Corresponding Author), Jiazhen Chen, Qinmu Peng, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Chinese Journal of Computers**, Under Review. (In Chinese)
+1. Wenjie Zheng (Co-supervised Student), **Sichao Fu** (Corresponding Author), Jiazhen Chen, Qinmu Peng, Yiqun Tu, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Chinese Journal of Computers**, Under Review. (In Chinese)
 1. Li Zhang (Co-supervised Student), **Sichao Fu** (Co-first Author), Wuli Wang, Qinmu Peng. XXX. **ISPRS Journal of Photogrammetry and Remote Sensing**, Under Review.
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **IEEE Transactions on Knowledge and Data Engineering**, Under Review.
 
