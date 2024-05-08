@@ -130,7 +130,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ### Under Study
 1. Research on Key Technologies for General Deep Graph Representation Learning // 通用深度图表征学习关键技术研究（2024.05-2026.05）// [URL](http://ygb.hust.edu.cn/info/1059/10411.htm)
     * **Project Leader**
-    * Funded by: Fundamental Research Funds for the Central Universities, HUST // 中央高校基本科研业务费资助（华中科技大学研究生创新基金---重点项目）
+    * Funded by: Fundamental Research Funds for the Central Universities // 中央高校基本科研业务费资助（华中科技大学研究生创新基金---重点项目）
     * Grant Number: YCJJ20241203 （**资助率: 21 / 453 = 4.6%**）
 1. Key Technologies and Software for Intelligent Analysis of Multi-source Heterogeneous Anti-counterfeiting Ticketing Big Data // 多源异构防伪票证大数据的智能分析关键技术与软件（2022.12-2025.11）
     * Project Member
