@@ -128,6 +128,10 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Projects
 
 ### Under Study
+1. Research on Deep Local Structure Preserving Methods and Applications based on Graph Neural Networks // 基于图神经网络的深度局部结构保持方法及应用研究（2022.01-2023.12）// [URL](http://ii.hust.edu.cn/info/1004/1508.htm)
+    * **Project Leader**
+    * Funded by: Fundamental Research Funds for the Central Universities, HUST // 中央高校基本科研业务费资助，HUST（华中科技大学创新研究院技术创新基金）
+    * Grant Number: 2022JYCXJJ034
 1. Key Technologies and Software for Intelligent Analysis of Multi-source Heterogeneous Anti-counterfeiting Ticketing Big Data // 多源异构防伪票证大数据的智能分析关键技术与软件（2022.12-2025.11）
     * Project Member
     * Funded by: National Key Research and Development Program of China // 国家重点研发计划青年科学家项目
