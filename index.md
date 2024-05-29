@@ -55,7 +55,7 @@
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **IEEE Transactions on Knowledge and Data Engineering**, Under Review.
 1. Wenjie Zheng (Co-supervised Student), **Sichao Fu** (Corresponding Author), Jiazhen Chen, Qinmu Peng, Yiqun Tu, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Chinese Journal of Computers**, Under Review. (In Chinese)
 1. Li Zhang (Co-supervised Student), **Sichao Fu** (Co-first Author), Wuli Wang, Peng Ren, Qinmu Peng, Guangbo Ren and Baodi Liu. XXX. **IEEE Transactions on Geoscience and Remote Sensing**, Under Review.
-1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2024 IEEE International Conference on Data Mining (ICDM 2024)**, Under Review.
+1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Zhibin Zhang, Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2024 IEEE International Conference on Data Mining (ICDM 2024)**, Under Review.
 
 ### Journals
 
