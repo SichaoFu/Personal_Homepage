@@ -130,6 +130,10 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Projects
 
 ### Under Study
+1. 基于图神经网络的不变表征学习及应用研究（2024.05-2025.12）// [URL](http://ii.hust.edu.cn/info/1004/1658.htm)
+    * Project Member
+    * Funded by: Fundamental Research Funds for the Central Universities, HUST // 中央高校基本科研业务费资助，HUST（华中科技大学创新研究院技术创新基金）
+    * Grant Number: 2024JYCXJJ062
 1. Research on Key Technologies for General Deep Graph Representation Learning // 通用深度图表征学习关键技术研究（2024.05-2026.05）// [URL](http://ygb.hust.edu.cn/info/1059/10411.htm)
     * **Project Leader**
     * Funded by: Fundamental Research Funds for the Central Universities // 中央高校基本科研业务费资助（华中科技大学研究生创新基金---重点项目）
