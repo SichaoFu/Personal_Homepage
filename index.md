@@ -39,7 +39,7 @@
 ## Education
 
 * 2020.09-2024.12 (Expected), D.Eng. degree in information and communication engineering,  School of Electronic Information and Communication, Huazhong University of Science and Technology, Wuhan, China, under the supervision of professor [**Xinge You**](http://ei.hust.edu.cn/professor/youxinge/).
-* 2024.06-, Intern in Research, National Qiyuan Lab, Beijing, China, under the supervision of department head Wang Lu;
+* 2024.06-, Intern in Research, National Qiyuan Lab, Beijing, China, under the supervision of department head Wang Lu and Zhigang Li;
 * 2022.05-2024.05, Intern in Algorithm Engineer, JD Retail Platform Operation and Marketing Center, Beijing, China, under the supervision of algorithm scientist Baokun Du and department head Yang He;
 * 2021.08-2022.04, Intern in Algorithm Engineer, JD Explore Academy, Beijing, China, under the supervision of algorithm scientist Qiong Cao, Yibin Zhan and department head [**Dacheng Tao**](https://baike.baidu.com/item/%E9%99%B6%E5%A4%A7%E7%A8%8B/20197096);
 * 2017.09-2020.06, M.Eng. degree in electronics and communication engineering, College of Oceanography and Space Informatics, China University of Petroleum (East China), Qingdao, China, under the supervision of professor [**Weifeng Liu**](https://frostliu.github.io/); 
