@@ -6,7 +6,7 @@
 
 ---
 
-**Sichao Fu** is currently a fourth-year Ph.D. student in information and communication engineering, from the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China, and also a intern in research, Qiyuan Lab, Beijing, China; He received the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, China, in 2020; and the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, China, in 2017. His current research interests include pattern recognition and deep manifold learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
+**Sichao Fu** is currently a fourth-year Ph.D. student in information and communication engineering, from the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China, and also a intern in research, National Qiyuan Lab, Beijing, China; He received the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, China, in 2020; and the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, China, in 2017. His current research interests include pattern recognition and deep manifold learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
 
 * Address: National Anti-counterfeit Engineering Research Center, No.1037 Luoyu Road, Hongshan District, Wuhan 430074,China
 * Email: fusichao_hust@163.com; fusichao_hust@hust.edu.cn 
@@ -56,7 +56,7 @@
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **IEEE Transactions on Knowledge and Data Engineering**, Under Review.
 1. Wenjie Zheng (Co-supervised Student), **Sichao Fu** (Corresponding Author), Jiazhen Chen, Qinmu Peng, Yiqun Tu, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Chinese Journal of Computers**, Under Review. (In Chinese)
 1. Li Zhang (Co-supervised Student), **Sichao Fu** (Co-first Author), Wuli Wang, Peng Ren, Qinmu Peng, Guangbo Ren and Baodi Liu. XXX. **IEEE Transactions on Geoscience and Remote Sensing**, Under Review.
-1. Wuli Wang (Co-advisor), Yu Song (Co-supervised Student), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Yanjiang Wang and Qinmu Pen. XXX. **Acta Automatica Sinica**, Under Review. (In Chinese) 
+1. Wuli Wang (Co-advisor), Yu Song (Co-supervised Student), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Yanjiang Wang and Qinmu Peng. XXX. **Acta Automatica Sinica**, Under Review. (In Chinese) 
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Zhibin Zhang, Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2024 IEEE International Conference on Data Mining (ICDM 2024)**, Under Review.
 
 
