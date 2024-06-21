@@ -53,8 +53,8 @@
 
 1. **Sichao Fu**, Xueqi Ma, Yibin Zhan, Fanyu You, Qinmu Peng, Tongliang Liu, James Bailey and Danilo Mandic, XXX, **Neural Networks**, Major Revision.
 1. **Sichao Fu**, Qinmu Peng, Yiu-Ming Cheung, Baokun Du, Yang He, Bin Zou, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Cybernetics**, Under Review.
+1. Wenjie Zheng (Co-supervised Student), **Sichao Fu** (Corresponding Author), Jiazhen Chen, Qinmu Peng, Yiqun Tu, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Chinese Journal of Computers**, Revise and Resubmit. (In Chinese)
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **IEEE Transactions on Knowledge and Data Engineering**, Under Review.
-1. Wenjie Zheng (Co-supervised Student), **Sichao Fu** (Corresponding Author), Jiazhen Chen, Qinmu Peng, Yiqun Tu, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Chinese Journal of Computers**, Under Review. (In Chinese)
 1. Li Zhang (Co-supervised Student), **Sichao Fu** (Co-first Author), Wuli Wang, Peng Ren, Qinmu Peng, Guangbo Ren and Baodi Liu. XXX. **IEEE Transactions on Geoscience and Remote Sensing**, Under Review.
 1. Wuli Wang (Co-advisor), Yu Song (Co-supervised Student), Li Zhang (Co-supervised Student), **Sichao Fu** (Corresponding Author), Yanjiang Wang and Qinmu Peng. XXX. **Acta Automatica Sinica**, Under Review. (In Chinese) 
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Zhibin Zhang, Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2024 IEEE International Conference on Data Mining (ICDM 2024)**, Under Review.
