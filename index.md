@@ -25,6 +25,7 @@
   * Graph Structure Learning
   * Robust Graph Representation Learning with Noisy Information
   * Graph Anomaly Detection
+  * Open-set Graph Representation Learning
   * ...
 * Few-shot Learning // Class-incremental Learning
   * Graph-based Few-shot Learning
