@@ -60,7 +60,7 @@
 1. Wuli Wang (Co-advisor), Yu Song (Co-supervised Student), Li Zhang (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Yanjiang Wang and Qinmu Peng. XXX. **Acta Automatica Sinica**, Under Review. (In Chinese) 
 1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Qinmu Peng, Yiyang Zhang, Xiao-Yuan Jing and Xinge You. XXX. **Science China Technological Sciences**, Under Review.
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Zhibin Zhang, Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2024 IEEE International Conference on Data Mining (ICDM 2024)**, Under Review.
-1. Xiuqin Liang (Co-supervised Student), Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. 2025 ACM International Conference on Web Search and Data Mining (WSDM 2025), Under Review.
+1. Xiuqin Liang (Co-supervised Student), Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2025 ACM International Conference on Web Search and Data Mining (WSDM 2025)**, Under Review.
 
 
 ### Journals
