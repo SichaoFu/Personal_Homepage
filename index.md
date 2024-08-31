@@ -56,9 +56,9 @@
 1. **Sichao Fu**, Qinmu Peng, Yiu-Ming Cheung, Yizhuo Xu, Bin Zou, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, Under Review.
 1. Wenjie Zheng (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Jiazhen Chen, Qinmu Peng, Yiqun Tu, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Chinese Journal of Computers**, Revise and Resubmit. (In Chinese)
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **IEEE Transactions on Knowledge and Data Engineering**, Under Review.
-1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Qinmu Peng, Yiyang Zhang, Xiao-Yuan Jing and Xinge You. XXX. **Science China Technological Sciences**, Under Review.
 1. Xiaomeng Song (Co-supervised Student), **Sichao Fu** (Co-first Author), Bin Zhou, Qinmu Peng and Weifeng Liu. XXX. **Chinese Journal of Electronics**, Under Review.
-1. Wuli Wang (Co-advisor), Yu Song (Co-supervised Student), Li Zhang (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Yanjiang Wang and Qinmu Peng. XXX. **Journal of Computer Research and Development**, Under Review. (In Chinese) 
+1. Wuli Wang (Co-advisor), Yu Song (Co-supervised Student), Li Zhang (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Yanjiang Wang and Qinmu Peng. XXX. **Journal of Computer Research and Development**, Under Review. (In Chinese)
+1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Qinmu Peng, Yiyang Zhang, Xiao-Yuan Jing and Xinge You. XXX. **Science China Technological Sciences**, Under Review.
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Zhibin Zhang, Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2024 IEEE International Conference on Data Mining (ICDM 2024)**, Under Review.
 1. Xiuqin Liang (Co-supervised Student), Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2025 ACM International Conference on Web Search and Data Mining (WSDM 2025)**, Under Review.
 
