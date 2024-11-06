@@ -57,8 +57,8 @@
 1. Wenjie Zheng (Co-supervised Student), **Sichao Fu** (Co-first Author), Jiazhen Chen, Qinmu Peng, Yiqun Tu, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Chinese Journal of Computers**, Revise and Resubmit. (In Chinese)
 1. Wuli Wang (Co-advisor), Yu Song (Co-supervised Student), Li Zhang (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Yanjiang Wang and Qinmu Peng. XXX. **Journal of Computer Research and Development**, Under Review. (In Chinese)
 1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Co-first Author), Qinmu Peng, Yiyang Zhang, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **IEEE/CAA Journal of Automatica Sinica**, Under Review.
-1. Xiaomeng Song (Co-supervised Student), **Sichao Fu** (Co-first Author), Bin Zhou, Qinmu Peng and Weifeng Liu. XXX. **Chinese Journal of Electronics**, Under Review.
 1. Xiuqin Liang (Co-supervised Student), Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Wuli Wang, Mingbin Feng, Tony S. Wirjanto, Qinmu Peng, Weihua Ou and Peng Ren. XXX. **Pattern Recognition**, Under Review.
+1. Xiaomeng Song (Co-supervised Student), **Sichao Fu** (Co-first Author), Bin Zhou, Qinmu Peng and Weifeng Liu. XXX. **Chinese Journal of Electronics**, Under Review.
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2025 International Conference on Database Systems for Advanced Applications (DASFAA 2025)**, Under Review.
 
 ### Journals
@@ -164,12 +164,13 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
     * Project Member
     * Funded by: National Natural Science Foundation of China // 国家自然科学基金面上项目
     * Grant Number: 62172177
+
+### Study Complete
 1. Research on Key Technologies based on Cross-multimedia Causal Inference and Decision-making // 跨媒体因果推理和决策关键技术研究（2021.12-2024.11）
     * Project Member
     * Funded by: Science and Technology Innovation 2030 – “New Generation Artificial Intelligence” Major Project // 科技创新2030-“新一代人工智能”重大项目
     * Grant Number: 2021ZD0111700
-
-### Study Complete
+    * 已结题
 1. Research on Deep Local Structure Preserving Methods and Applications based on Graph Neural Networks // 基于图神经网络的深度局部结构保持方法及应用研究（2022.01-2023.12）// [URL](http://ii.hust.edu.cn/info/1004/1508.htm)
     * **Project Leader**
     * Funded by: Fundamental Research Funds for the Central Universities, HUST // 中央高校基本科研业务费资助，HUST（华中科技大学创新研究院技术创新基金）
