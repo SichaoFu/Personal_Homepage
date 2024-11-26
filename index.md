@@ -54,7 +54,7 @@
 ### Under Review
 
 1. **Sichao Fu**, Qinmu Peng, Yiu-Ming Cheung, Yizhuo Xu, Bin Zou, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, Major Revision.
-1. Wenjie Zheng (Co-supervised Student), **Sichao Fu** (Co-first Author), Jiazhen Chen, Qinmu Peng, Yiqun Tu, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Chinese Journal of Computers**, Revise and Resubmit. (In Chinese)
+1. Wenjie Zheng (Co-supervised Student), **Sichao Fu** (Co-first Author), Jiazhen Chen, Qinmu Peng, Yiqun Tu, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Chinese Journal of Computers**, Major Revision. (In Chinese)
 1. Wuli Wang (Co-advisor), Yu Song (Co-supervised Student), Li Zhang (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Yanjiang Wang and Qinmu Peng. XXX. **Journal of Computer Research and Development**, Under Review. (In Chinese)
 1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Co-first Author), Qinmu Peng, Yiyang Zhang, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **IEEE/CAA Journal of Automatica Sinica**, Under Review.
 1. Xiuqin Liang (Co-supervised Student), Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Wuli Wang, Mingbin Feng, Tony S. Wirjanto, Qinmu Peng, Baodi Liu and Weihua Ou. XXX. **Pattern Recognition**, Under Review.
