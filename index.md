@@ -238,6 +238,8 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Honors and Awards
 
 ### Doctor (2020.09-2025.03)
+1. Doctoral Special Program of Young Elite Scientists Sponsorship by China Association for Science and Technology //  首届中国科协青年人才托举工程博士生专项计划, 2025
+
 1. China International College Students Innovation Competition (Hubei Province) Gold Prize // 中国国际大学生创新大赛全国铜奖、湖北省金奖, 2024 // [URL](https://cy.ncss.cn/information/2c93f4c691983c5b0194264b1880207b) // [URL1](http://news.hust.edu.cn/info/1002/53075.htm)
    * 多国货币防伪特征多光谱成像设备及智能鉴伪系统
    * Main Project Member // 邹子谦、陈梓萱、夏北浩、陈良淏、王晨潇、吴孟成、徐凡力、钟科、**傅司超**、陈使明、叶硕、张博文、李毓佳
