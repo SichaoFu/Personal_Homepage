@@ -58,7 +58,7 @@
 1. Wenjie Zheng (Co-supervised Student), **Sichao Fu** (Co-first Author), Jiazhen Chen, Qinmu Peng, Yiqun Tu, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **Chinese Journal of Computers**, Minor Revision. (In Chinese)
 1. Wuli Wang (Co-advisor), Yu Song (Co-supervised Student), Li Zhang (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Yanjiang Wang and Qinmu Peng. XXX. **Journal of Computer Research and Development**, Under Review. (In Chinese)
 1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Co-first Author), Qinmu Peng, Yiyang Zhang, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **IEEE/CAA Journal of Automatica Sinica**, Under Review.
-1. Xiuqin Liang (Co-supervised Student), Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Wuli Wang, Mingbin Feng, Tony S. Wirjanto, Qinmu Peng, Baodi Liu and Weihua Ou. XXX. **Pattern Recognition**, Under Review.
+1. Xiuqin Liang (Co-supervised Student), Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Wuli Wang, Mingbin Feng, Tony S. Wirjanto, Qinmu Peng, Baodi Liu and Weihua Ou. XXX. **Expert Systems with Applications**, Under Review.
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2025 International Conference on Database Systems for Advanced Applications (DASFAA 2025)**, Under Review.
 
 ### Journals
