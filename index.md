@@ -39,7 +39,7 @@
 
 ## Education
 
-* 2025.04-Now, Postdoctoral Research Associate, Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong, China, under the supervision of professor Renjie Zhou and professor Xiangxiang Zeng
+* 2025.04-Now, Postdoctoral Research Associate, Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong, China, under the supervision of professor [**Renjie Zhou**](https://www.renjiezhou.com/) and professor [**Xiangxiang Zeng**](http://csee.hnu.edu.cn/people/zengxiangxiang)
 * 2020.09-2025.03, D.Eng. degree in information and communication engineering,  School of Electronic Information and Communication, Huazhong University of Science and Technology, Wuhan, China, under the supervision of professor [**Xinge You**](http://ei.hust.edu.cn/professor/youxinge/).
 * 2024.09-2024.11, Intern in Algorithm, Didi Map Department, Beijing, China, under the supervision of department head Lei Liu;
 * 2024.06-2024.08, Intern in Research, National Qiyuan Lab, Beijing, China, under the supervision of esearcher Wang Lu, Zhigang Li and department head Xiangyang Ji;
