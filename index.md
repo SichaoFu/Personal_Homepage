@@ -58,7 +58,7 @@
 1. **Sichao Fu**, Qinmu Peng, Bin Zou, Xiao-Yuan Jing, Wei Yu and Xinge You, XXX, **IEEE Transactions on Cybernetics**, Major Revision.
 1. **Sichao Fu**, Qinmu Peng, Weihua Ou, Bin Zou, Xiao-Yuan Jing and Xinge You, XXX, **Information Fusion**, Under Review.
 1. Xiuqin Liang (Co-supervised Student), Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Wuli Wang, Mingbin Feng, Tony S. Wirjanto, Qinmu Peng, Baodi Liu and Weihua Ou. XXX. **Expert Systems with Applications**, Major Revision.
-1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Co-first Author), Qinmu Peng, Yiyang Zhang, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **IEEE/CAA Journal of Automatica Sinica**, Major Revision.
+1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Co-first Author), Qinmu Peng, Yiyang Zhang, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **IEEE/CAA Journal of Automatica Sinica**, Minor Revision.
 1. Wuli Wang (Co-advisor), Yu Song (Co-supervised Student), Jianbu Wang, **Sichao Fu** (Co-corresponding Author), Peng Ren, Huawei Qin, Wei Li and Weihua Ou. XXX. **IEEE Transactions on Geoscience and Remote Sensing**, Under Review.
 1. Jiazhen Chen (Co-supervised Student), Zheng Ma (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. XXX. **2025 International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)**, Under Review. 
 
