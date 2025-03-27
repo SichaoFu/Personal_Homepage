@@ -6,7 +6,7 @@
 
 ---
 
-**Sichao Fu** is currently a Postdoctoral Research Associate, from the Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong, China; He received the D.Eng. degree in information and communication engineering from Huazhong University of Science and Technology (HUST), Wuhan, China, in 2025; the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, China, in 2020; and the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, China, in 2017. His current research interests include pattern recognition and deep manifold learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
+**Sichao Fu** is currently a Ph.D, from the School of Electronic Information and Communication, Huazhong University of Science and Technology, Wuhan, China; He received the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, China, in 2020; and the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, China, in 2017. His current research interests include pattern recognition and deep manifold learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
 
 * Address: William M.W. Mong Engineering Building, Sha Tin District, New Territories, China
 * Email: fusichao_hust@163.com; fusichao_upc@163.com 
@@ -102,7 +102,6 @@
 
 ### Degree Thesis
 
-1. **Sichao Fu** and Xinge You (Supervisor), "High Robustness Graph Representation Learning Method for Attribute Graph Data // 面向属性图数据的高鲁棒性图表示学习方法研究", **Degree Thesis of Engineering Doctor of Huazhong University of Science and Technology**, 2025. // [URL]()
 1. **Sichao Fu** and Weifeng Liu (Supervisor), "Research on Graph Convolutional Networks Algorithms for Semi-Supervised Classification // 基于图卷积神经网络的半监督分类算法研究", **Degree Thesis of Engineering Master of China University of Petroleum (East China)**, 2020.	// [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMPDAY&filename=1022635769.nh&uniplatform=NZKPT&v=eZM5OeFBDq3LL8A6EX6rtofj-Bj1Ax3CiZjTcRDqFE-Hp2jMcY9yCg5tUtS7RNfv)
    * 2019年山东省专业学位研究生优秀成果奖省级一等奖 **（全省仅18项）**
    * 2020年中国石油大学（华东）优秀硕士学位论文 **（全校仅60篇）**
