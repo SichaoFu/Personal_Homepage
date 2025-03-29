@@ -55,7 +55,7 @@
 
 1. **Sichao Fu**, Qinmu Peng, Yiu-Ming Cheung, Yizhuo Xu, Bin Zou, Xiao-Yuan Jing and Xinge You, XXX, **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, Minor Revision.
 1. **Sichao Fu**, Qinmu Peng, Bin Zou, Xiao-Yuan Jing, Wei Yu and Xinge You, XXX, **IEEE Transactions on Cybernetics**, Major Revision.
-1. **Sichao Fu**, Qinmu Peng, Weihua Ou, Bin Zou, Xiao-Yuan Jing and Xinge You, XXX, **Information Fusion**, Under Review.
+1. **Sichao Fu**, Qinmu Peng, Weihua Ou, Bin Zou, Xiao-Yuan Jing and Xinge You, XXX, **Information Processing & Management**, Under Review.
 1. Xiuqin Liang (Co-supervised Student), Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Corresponding Author), Wuli Wang, Mingbin Feng, Tony S. Wirjanto, Qinmu Peng, Baodi Liu and Weihua Ou. XXX. **Expert Systems with Applications**, Minor Revision.
 1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Co-first Author), Qinmu Peng, Yiyang Zhang, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **IEEE/CAA Journal of Automatica Sinica**, Major Revision.
 1. Wuli Wang (Co-advisor), Yu Song (Co-supervised Student), Jianbu Wang, **Sichao Fu** (Co-corresponding Author), Peng Ren, Huawei Qin, Wei Li and Weihua Ou. XXX. **IEEE Transactions on Geoscience and Remote Sensing**, Under Review.
