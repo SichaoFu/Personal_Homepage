@@ -194,7 +194,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
     * Funded by: Fundamental Research Funds for the Central Universities // 华中科技大学研究生创新基金（人文社科创新交叉）
     * Grant Number: YCJJ202204016
     * [已结题](http://ygb.hust.edu.cn/info/1059/10005.htm) 
-1. Key Technologies and Applications of Intelligent TCM Diagnosis and Treatment for Chronic Obstructive Pulmonary Disease  // 慢性阻塞性肺疾病的中医智能诊疗关键技术与应用（2020.09-2022.12）
+1. Key Technologies and Applications of Intelligent TCM Diagnosis and Treatment for Chronic Obstructive Pulmonary Disease  // 慢性阻塞性肺病智能诊疗关键技术与应用（2020.09-2022.12）
     * Project Member
     * Funded by: Key Research and Development Program of Hubei Province // 湖北省重点研发计划
     * Grant Number: 2020BAB027
