@@ -146,7 +146,10 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ### Under Study
 1. Doctoral Special Program of Young Elite Scientists Sponsorship by China Association for Science and Technology (2025.01-2026.12) //  首届中国科协青年人才托举工程博士生专项计划项目 // [URL](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc)
     * **Project Leader**
- 
+1. Research on Large-scale Graph Representation Learning Theories and Methods based on Pre-training Paradigms //  基于预训练范式的大规模图数据表征学习理论及方法研究（2025.10-2027.10）// [URL](http://cs.gzu.edu.cn/2025/0807/c16278a256025/page.htm)
+    * **Project Leader**
+    * Funded by: Open Project of the Text Computing and Cognitive Intelligence Ministry of Education Engineering Research Center // 文本计算与认知智能教育部工程研究中心开放课题 
+    * Grant Number: TCCI250208
 1. 基于图神经网络的不变表征学习及应用研究（2024.05-2025.12）// [URL](http://ii.hust.edu.cn/info/1004/1658.htm)
     * Project Member
     * Funded by: Fundamental Research Funds for the Central Universities, HUST // 中央高校基本科研业务费资助，HUST（华中科技大学创新研究院技术创新基金）
