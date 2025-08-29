@@ -121,14 +121,14 @@
 ---
 ## China Patents
 
+1. **Sichao Fu**, Qiong Cao, Yibin Zhan and Dacheng Tao, "Data Classification Method, Device, Equipment and Storage Medium // 一种数据分类方法、装置、设备及存储介质". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN114610953A&uniplatform=NZKPT&v=s-PAb6UP0ZfKLGU_OdnKu0tyxchcqy_9CMWJNvM5h0S6w62n7Cxc6yMKKTGlfoHc)
+   * Patent for Invention
+   * Application Number: CN114610953B
+   * Application Date: 19 August, 2025
 1. **Sichao Fu**, Xiaorui Wang, Baokun Du and Yang He, "Semi-supervised Classification Method based on Adaptive Graph Convolutional Collaboration Networks // 一种图卷积网络模型的确定方法和装置". // [URL](https://kns.cnki.net/kcms2/article/abstract?v=bnuN6dG7iIAjTgxlVEawj0Br8q1QptYThU8VmRByxmF6RvsGsLBuAPd_jP5VwYNw3DIAbZAyPuqzm-AZME88vnXeEWyvoogePSFo2cYmdPbLQXFqt5HF99vhJmMBTn8-6uXM4B1H4sg=&uniplatform=NZKPT&language=CHS)
    * Patent for Invention
    * Application Number: CN117436481A
    * Application Date: 23 January, 2024
-1. **Sichao Fu**, Qiong Cao, Yibin Zhan and Dacheng Tao, "Data Classification Method, Device, Equipment and Storage Medium // 一种数据分类方法、装置、设备及存储介质". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN114610953A&uniplatform=NZKPT&v=s-PAb6UP0ZfKLGU_OdnKu0tyxchcqy_9CMWJNvM5h0S6w62n7Cxc6yMKKTGlfoHc)
-   * Patent for Invention
-   * Application Number: CN114610953A
-   * Application Date: 10 June, 2022
 1. **Sichao Fu**, Kewen Zhao, Weifeng Liu and Liqiang Nie, "A semi-supervised Classification Method based on a Hypergraph p-Laplacian Graph
 Convolutional Neural Network // 一种基于超图p-Laplacian图卷积神经网络的半监督分类方法". // [URL](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109766935A&v=go%25mmd2BQ8CRITVADQ06nFLYqE60Zzo8M1HccPA8XIdVWrTf%25mmd2B7IFJWLkwrm834NMnmQ8O)
    * Patent for Invention
@@ -145,12 +145,13 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Projects
 
 ### Under Study
-1. Doctoral Special Program of Young Elite Scientists Sponsorship by China Association for Science and Technology (2025.01-2026.12) //  首届中国科协青年人才托举工程博士生专项计划项目 // [URL](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc)
-    * **Project Leader**
+
 1. Research on Large-scale Graph Representation Learning Theories and Methods based on Pre-training Paradigms //  基于预训练范式的大规模图数据表征学习理论及方法研究（2025.10-2027.10）// [URL](http://cs.gzu.edu.cn/2025/0807/c16278a256025/page.htm)
     * **Project Leader**
     * Funded by: Open Project of the Text Computing and Cognitive Intelligence Ministry of Education Engineering Research Center // 文本计算与认知智能教育部工程研究中心开放课题 
     * Grant Number: TCCI250208
+1. Doctoral Special Program of Young Elite Scientists Sponsorship by China Association for Science and Technology (2025.01-2026.12) //  首届中国科协青年人才托举工程博士生专项计划项目 // [URL](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc)
+    * **Project Leader**
 1. 基于图神经网络的不变表征学习及应用研究（2024.05-2025.12）// [URL](http://ii.hust.edu.cn/info/1004/1658.htm)
     * Project Member
     * Funded by: Fundamental Research Funds for the Central Universities, HUST // 中央高校基本科研业务费资助，HUST（华中科技大学创新研究院技术创新基金）
