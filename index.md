@@ -54,7 +54,7 @@
 
 ### Under Review
 
-1. **Sichao Fu**, Qinmu Peng, Weihua Ou, Bin Zou, Xiao-Yuan Jing and Xinge You, XXX, **Science China Technological Sciences**, Under Review.
+1. **Sichao Fu**, Qinmu Peng, Weihua Ou, Bin Zou, Xiao-Yuan Jing and Xinge You, XXX, **Science China Technological Sciences**, Major Revision.
 1. **Sichao Fu**, Songren Peng, Bin Zou, Xiao-Yuan Jing, Wei Yu, Qinmu Peng and Xinge You, XXX, **Information Fusion**, Under Review.
 1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Co-first Author), Qinmu Peng, Yiyang Zhang, Bin Zou, Xiao-Yuan Jing and Xinge You. XXX. **IEEE/CAA Journal of Automatica Sinica**, Minor Revision.
 1. Yu Song (Co-supervised Student), **Sichao Fu** (Co-first Author), Hongquan Xin, Wuli Wang, Peng Ren, Baodi Liu, Weihua Ou and Dapeng Tao. XXX. **IEEE Transactions on Multimedia**, Under Review.
