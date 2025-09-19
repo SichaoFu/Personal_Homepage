@@ -182,7 +182,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
     * **Project Leader**
     * Funded by: Fundamental Research Funds for the Central Universities // 中央高校基本科研业务费资助（华中科技大学研究生创新基金---重点项目）
     * Grant Number: YCJJ20241203 （**资助率: 21 / 453 = 4.6%**）
-    * 提前结题
+    * 提前结题 (http://ygb.hust.edu.cn/)
 1. Research on Key Technologies based on Cross-multimedia Causal Inference and Decision-making // 跨媒体因果推理和决策关键技术研究（2021.12-2024.11）
     * Project Member
     * Funded by: Science and Technology Innovation 2030 – “New Generation Artificial Intelligence” Major Project // 科技创新2030-“新一代人工智能”重大项目
@@ -254,6 +254,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Honors and Awards
 
 ### Doctor (2020.09-Now)
+1. 《西安邮电大学学报》青年编委, 2025 // [URL](https://xayd.cbpt.cnki.net/portal/journal/portal/client/news/89e54dd1779bea5e221c66ad21051a26) 
 1. China International College Students Innovation Competition (Hubei Province) Gold Prize // 中国国际大学生创新大赛全国铜奖、湖北省金奖, 2024 // [URL](https://cy.ncss.cn/information/2c93f4c691983c5b0194264b1880207b) // [URL1](http://news.hust.edu.cn/info/1002/53075.htm)
    * 多国货币防伪特征多光谱成像设备及智能鉴伪系统
    * Main Project Member // 邹子谦、陈梓萱、夏北浩、陈良淏、王晨潇、吴孟成、徐凡力、钟科、**傅司超**、陈使明、叶硕、张博文、李毓佳
