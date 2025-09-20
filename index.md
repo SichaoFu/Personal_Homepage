@@ -56,6 +56,7 @@
 
 1. **Sichao Fu**, Qinmu Peng, Weihua Ou, Bin Zou, Xiao-Yuan Jing and Xinge You, XXX, **Science China Technological Sciences**, Major Revision.
 1. **Sichao Fu**, Songren Peng, Bin Zou, Xiao-Yuan Jing, Wei Yu, Qinmu Peng and Xinge You, XXX, **Information Fusion**, Under Review.
+1. **Sichao Fu**, Yanping Chen, Songren Peng, Weihua Ou, Liangshuo Ning, Bin Zou, Qinmu Peng, Xiao-Yuan Jing and Xinge You. XXX. **IEEE Transactions on Fuzzy Systems**, Under Review.
 1. Jiazhen Chen (Co-supervised Student), Xiuqin Liang (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Zheng Ma and Weihua Ou. XXX. **2026 AAAI Conference on Artificial Intelligence (AAAI 2026)**, Under Review.
 1. Wuli Wang (Co-advisor), Yun Liu (Co-supervised Student), Qi Sun, **Sichao Fu** (Co-corresponding Author), Jianbu Wang, Baodi Liu and Peng Ren. XXX. **Chinese Journal of Electronics**, Under Review.
 1. Wenzheng Wang (Co-supervised Student), **Sichao Fu** (Co-first Author), Jun Wang, Baodi Liu, Chaofeng Tang and Weihua Ou. XXX. **Engineering Applications of Artificial Intelligence**, Under Review.
