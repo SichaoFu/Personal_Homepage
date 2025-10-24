@@ -153,32 +153,38 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
     * Grant Number: TCCI250208
 1. Doctoral Special Program of Young Elite Scientists Sponsorship by China Association for Science and Technology (2025.01-2026.12) //  首届中国科协青年人才托举工程博士生专项计划项目 // [URL](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc)
     * **Project Leader**
+
+### Study Complete
 1. 基于图神经网络的不变表征学习及应用研究（2024.05-2025.12）// [URL](http://ii.hust.edu.cn/info/1004/1658.htm)
     * Project Member
     * Funded by: Fundamental Research Funds for the Central Universities, HUST // 中央高校基本科研业务费资助，HUST（华中科技大学创新研究院技术创新基金）
     * Grant Number: 2024JYCXJJ062
+    * 已结题
 1. Key Technologies and Software for Intelligent Analysis of Multi-source Heterogeneous Anti-counterfeiting Ticketing Big Data // 多源异构防伪票证大数据的智能分析关键技术与软件（2022.12-2025.11）
     * Project Member
     * Funded by: National Key Research and Development Program of China // 国家重点研发计划青年科学家项目
     * Grant Number: 2022YFF0712300
+    * 已结题
 1. Research on Intelligent and Authenticity Recognition Equipment for Entry-exit Documents // 出入境证件智能化真伪识别装备研究（2022.01-2025.12）
     * Project Member
     * Funded by: National Key Research and Development Program of China // 国家重点研发计划课题
     * Grant Number: 2022YFC3301004
+    * 已结题
 1. Research on Intelligent and Authenticity Recognition Technology and System for Entry-exit Documents // 出入境证件智能化真伪识别技术及系统研究（2022.12-2025.11）
     * Project Member
     * Funded by: National Key Research and Development Program of China // 国家重点研发计划课题
     * Grant Number: 2022YFC3301003
+    * 已结题
 1. Research on Key Technologies for Unreliable Electronic Signature Attack Identification in Prosecution Cases // 面向检察办案的不可信电子化签名攻击识别关键技术研究（2022.12-2025.11）
     * Project Member
     * Funded by: National Key Research and Development Program of China // 国家重点研发计划课题
     * Grant Number: 2022YFC3301704
+    * 已结题
 1. Research on Multi-mixed Intelligent Agent Trajectory Prediction based on Social Activity Sites // 基于社会活动场的多混合智能体轨迹预测研究（2022.01-2025.12）
     * Project Member
     * Funded by: National Natural Science Foundation of China // 国家自然科学基金面上项目
     * Grant Number: 62172177
-
-### Study Complete
+    * 已结题
 1. Research on Key Technologies for General Deep Graph Representation Learning // 通用深度图表征学习关键技术研究（2024.05-2026.05）// [URL](http://ygb.hust.edu.cn/info/1059/10411.htm)
     * **Project Leader**
     * Funded by: Fundamental Research Funds for the Central Universities // 中央高校基本科研业务费资助（华中科技大学研究生创新基金---重点项目）
