@@ -94,7 +94,7 @@
 
 ### Conferences
 
-1. Jiazhen Chen (Co-supervised Student), Xiuqin Liang (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Zheng Ma and Weihua Ou. Towards Multiple Missing Values-resistant Unsupervised Graph Anomaly Detection. **2026 AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, 2026. . // [URL]()
+1. Jiazhen Chen (Co-supervised Student), Xiuqin Liang (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Zheng Ma and Weihua Ou. Towards Multiple Missing Values-resistant Unsupervised Graph Anomaly Detection. **2026 AAAI Conference on Artificial Intelligence (AAAI 2026)**, Singapore, 2026. // [URL]()
 1. Jiazhen Chen (Co-supervised Student), Zheng Ma (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Mingbin Feng, Tony S. Wirjanto and Weihua Ou.  Towards Effective Open-set Graph Class-incremental Learning. **2025 ACM International Conference on Multimedia (MM 2025)**, Dublin, Ireland, 2025. // [URL](https://arxiv.org/abs/2507.17687)
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. Semi-supervised Anomaly Detection with Extremely Limited Labels in Dynamic Graphs. **2025 International Conference on Database Systems for Advanced Applications (DASFAA 2025)**, Singapore, 2025. // [URL](https://arxiv.org/abs/2501.15035)
 1. Jiazhen Chen (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Zhibin Zhang, Zheng Ma, Mingbin Feng, Tony S. Wirjanto and Qinmu Peng. Towards Cross-domain Few-shot Graph Anomaly Detection. **2024 IEEE International Conference on Data Mining (ICDM 2024)**, Abu Dhabi, UAE, 2024. // [URL](https://ieeexplore.ieee.org/document/10884324)
