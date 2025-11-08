@@ -269,7 +269,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 ## Honors and Awards
 
 ### Doctor (2020.09-Now)
-1. ACM Multimedia Outstanding Paper// [URL](https://xayd.cbpt.cnki.net/portal/journal/portal/client/news/89e54dd1779bea5e221c66ad21051a26)
+1. ACM Multimedia Outstanding Paper, 2025 // [URL](https://xayd.cbpt.cnki.net/portal/journal/portal/client/news/89e54dd1779bea5e221c66ad21051a26)
 1. 《西安邮电大学学报》青年编委, 2025 // [URL](https://acmmm2025.org/awards/)
 
 
