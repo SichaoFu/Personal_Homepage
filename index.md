@@ -155,6 +155,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 1. Research on Data Representation Learning Methods and Applications based on General Deep Graph Representation Learning //  基于通用深度图表征学习的数据表示学习方法及应用研究 // [URL](https://csai.wtu.edu.cn/info/1063/14907.htm)
     * **Project Leader**
     * Funded by: Open Project of the Engineering Research Center of Hubei Province for Clothing Information // 湖北省服装信息化工程技术研究中心开放课题
+    * Grant Number: 2025HBCI05
 1. Research on Large-scale Graph Representation Learning Theories and Methods based on Pre-training Paradigms //  基于预训练范式的大规模图数据表征学习理论及方法研究（2025.10-2027.10）// [URL](http://cs.gzu.edu.cn/2025/0807/c16278a256025/page.htm)
     * **Project Leader**
     * Funded by: Open Project of the Text Computing and Cognitive Intelligence Ministry of Education Engineering Research Center // 文本计算与认知智能教育部工程研究中心开放课题 
