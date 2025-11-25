@@ -198,7 +198,7 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
     * **Project Leader**
     * Funded by: Fundamental Research Funds for the Central Universities // 中央高校基本科研业务费资助（华中科技大学研究生创新基金---重点项目）
     * Grant Number: YCJJ20241203 （**资助率: 21 / 453 = 4.6%**）
-    * [提前结题](http://ygb.hust.edu.cn/)
+    * [提前结题（优秀）](http://ygb.hust.edu.cn/)
 1. Research on Key Technologies based on Cross-multimedia Causal Inference and Decision-making // 跨媒体因果推理和决策关键技术研究（2021.12-2024.11）
     * Project Member
     * Funded by: Science and Technology Innovation 2030 – “New Generation Artificial Intelligence” Major Project // 科技创新2030-“新一代人工智能”重大项目
