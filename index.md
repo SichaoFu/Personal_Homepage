@@ -60,8 +60,8 @@
 
 1. **Sichao Fu**, Songren Peng, Bin Zou, Xiao-Yuan Jing, Wei Yu, Qinmu Peng and Xinge You, XXX, **Information Fusion**, Major Revision.
 1. **Sichao Fu**, Yanping Chen, Songren Peng, Weihua Ou, Liangshuo Ning, Bin Zou, Qinmu Peng, Xiao-Yuan Jing and Xinge You. XXX. **IEEE Transactions on Fuzzy Systems**, Under Review.
-1. Wuli Wang (Co-advisor), Minyao Xia (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Jianbu Wang, Baodi Liu, Weihua Ou and Jian Wang. XXX. **IEEE Transactions on Neural Networks and Learning Systems**, Reject and Resubmit.
 1. Wenzheng Wang (Co-supervised Student), **Sichao Fu** (Co-first Author), Jun Wang, Baodi Liu, Chaofeng Tang and Weihua Ou. XXX. **Engineering Applications of Artificial Intelligence**, Major Revision.
+1. Wuli Wang (Co-advisor), Minyao Xia (Co-supervised Student), **Sichao Fu** (Co-corresponding Author), Jianbu Wang, Baodi Liu, Weihua Ou and Jian Wang. XXX. **IEEE Transactions on Neural Networks and Learning Systems**, Reject and Resubmit.
 1. Yu Song (Co-supervised Student), **Sichao Fu** (Co-first Author), Hongquan Xin, Wuli Wang, Peng Ren, Baodi Liu, Weihua Ou and Dapeng Tao. XXX. **Neural Networks**, Under Review.
 
 ### Journals
