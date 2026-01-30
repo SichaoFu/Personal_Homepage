@@ -66,7 +66,7 @@
 
 ### Journals
 
-1. **Sichao Fu**, Songren Peng, Bin Zou, Xiao-Yuan Jing, Wei Yu, Qinmu Peng and Xinge You, Unsupervised Multimodal Graph Completion Networks with Multi-level Contrastiveness for Modality-missing Conversation Understanding, **Information Fusion**, in press, 2026. // [URL]()
+1. **Sichao Fu**, Songren Peng, Bin Zou, Xiao-Yuan Jing, Wei Yu, Qinmu Peng and Xinge You, Unsupervised Multimodal Graph Completion Networks with Multi-level Contrastiveness for Modality-missing Conversation Understanding, **Information Fusion**, in press, 2026. // [URL](https://doi.org/10.1016/j.inffus.2026.104197)
 1. **Sichao Fu**, Qinmu Peng, Weihua Ou, Bin Zou, Xiao-Yuan Jing and Xinge You, Robust Training of Open-set Graph Neural Networks on Graphs with In-distribution and Out-of-distribution Noise, **Science China Technological Sciences**, in press, 2026. // [URL](http://engine.scichina.com/doi/10.1007/s11431-025-3144-0)
 1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Co-first Author), Qinmu Peng, Yiyang Zhang, Bin Zou, Xiao-Yuan Jing and Xinge You. Training Robust Graph Completion Networks with Extremely Weak Supervision on Graphs with Incomplete Features and Structure. **IEEE/CAA Journal of Automatica Sinica**, in press, 2026. // [URL](https://doi.org/10.1109/JAS.2025.125906)
 1. Wuli Wang (Co-advisor), Yun Liu (Co-supervised Student), Qi Sun, **Sichao Fu** (Corresponding Author), Jianbu Wang, Baodi Liu and Peng Ren. Adaptive Decision Boundary Learning with Class-balanced Pseudo-labelling for Open-set Semi-supervised Hyperspectral Image Classification. **Chinese Journal of Electronics**, in press, 2026. // [URL]()
