@@ -6,7 +6,7 @@
 
 ---
 
-**Sichao Fu** received the D.Eng. degree in information and communication engineering from Huazhong University of Science and Technology, Wuhan, China, in 2025; the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, China, in 2020; and the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, China, in 2017. His current research interests include pattern recognition and deep manifold learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
+**Sichao Fu** received the D.Eng. degree in information and communication engineering from Huazhong University of Science and Technology (HUST), Wuhan, China, in 2025; the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, China, in 2020; and the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, China, in 2017. His current research interests include pattern recognition and deep manifold learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
 
 * Address: National Anti-counterfeit Engineering Research Center, Hongshan District, Wuhan, China
 * Email: fusichao_hust@163.com; fusichao_upc@163.com 
