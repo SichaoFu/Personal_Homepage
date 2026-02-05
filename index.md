@@ -6,12 +6,12 @@
 
 ---
 
-**Sichao Fu** is currently a Ph.D, from the School of Electronic Information and Communication, Huazhong University of Science and Technology, Wuhan, China; He received the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, China, in 2020; and the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, China, in 2017. His current research interests include pattern recognition and deep manifold learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
+**Sichao Fu** received the D.Eng. degree in information and communication engineering from Huazhong University of Science and Technology, Wuhan, China, in 2025; the M.Eng. degree in electronics and communication engineering from China University of Petroleum (East China) (UPC), Qingdao, China, in 2020; and the B.Eng. degree in communication engineering from Linyi University (LYU), Linyi, China, in 2017. His current research interests include pattern recognition and deep manifold learning. He has authored or co-authored a dozen papers in journals and conferences. He also serves dozens of journals and conferences. Here's my English [CV](https://github.com/SichaoFu/MyWebpages/blob/master/Files/CV-SichaoFu.pdf).
 
 * Address: National Anti-counterfeit Engineering Research Center, Hongshan District, Wuhan, China
 * Email: fusichao_hust@163.com; fusichao_upc@163.com 
 
-**傅司超**, 研究生学历, 工学博士在读, 首届中国科协青年人才托举工程博士生专项计划入选者, 国际计算机学会会员, 中国电子学会会员, 中国计算机学会会员, 中国自动化学会会员, 中国通信学会会员, 山东省人工智能学会会员. 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2020年9至今在华中科技大学信息与通信工程专业攻读博士学位; 2021年8月至2022年4月在京东科技探索研究院算法工程师岗实习, 2022年5月至2024年5月在京东零售流量质量部算法工程师岗实习, 2024年6月至2024年8月在国家启元实验室研究型岗实习, 2024年9月至2024年11月在滴滴地图事业部算法岗实习. 
+**傅司超**, 研究生学历, 工学博士, 首届中国科协青年人才托举工程博士生专项计划入选者, 国际计算机学会会员, 中国电子学会会员, 中国计算机学会会员, 中国自动化学会会员, 中国通信学会会员, 山东省人工智能学会会员. 2017年6月毕业于临沂大学通信工程专业, 获工学学士学位; 2020年6月毕业于中国石油大学（华东）电子与通信工程专业, 获工程硕士学位; 2025年3月毕业于华中科技大学信息与通信工程专业, 获工学博士学位; 2021年8月至2022年4月在京东科技探索研究院算法工程师岗实习, 2022年5月至2024年5月在京东零售流量质量部算法工程师岗实习, 2024年6月至2024年8月在国家启元实验室研究型岗实习, 2024年9月至2024年11月在滴滴地图事业部算法岗实习. 
 
 **硕士阶段**主要研究方向为图卷积神经网络理论及其应用, 以第一位次或共同第一位次主持完成模式识别国家重点实验室开放课题项目1项、复杂系统建模与仿真教育部重点实验室开放课题项目1项、中国石油大学（华东）研究生创新工程资助项目1项, 以骨干成员参与中石油重大科技项目1项、国家自然科学基金面上项目1项、综合业务网理论及关键技术国家重点实验室开放课题项目1项、中国石油大学（华东）自主创新项目1项、中国石油大学（华东）研究生创新工程资助项目1项; 以第一作者发表学术论文9篇, 导师一作、学生二作发表学术论文1篇, 第一位次申请公开国家发明专利2项, 获评2022年山东省人工智能科学技术奖（自然科学奖）一等奖、2021年山东省人工智能科学技术奖（自然科学奖）一等奖、 2023年山东省计算机学会科学技术奖（自然科学奖）二等奖、 2021年青岛市大数据优秀学术成果奖、2019年山东省专业学位研究生优秀成果奖省级一等奖、2020年山东省学术学位研究生优秀成果奖省级三等奖、2021年山东省优秀硕士学位论文、2022年中国自动化学会优秀硕士学位论文、2020年中国电子学会优秀硕士学位论文、2021年山东省人工智能学会优秀硕士学位论文、2020年中国石油大学（华东）优秀硕士学位论文、2019年硕士研究生国家奖学金等奖励. 
 
@@ -44,7 +44,7 @@
 
 ## Education
 
-* 2020.09-Now, D.Eng. degree in information and communication engineering,  School of Electronic Information and Communication, Huazhong University of Science and Technology, Wuhan, China, under the supervision of professor [**Xinge You**](http://ei.hust.edu.cn/professor/youxinge/).
+* 2020.09-2025.03, D.Eng. degree in information and communication engineering,  School of Electronic Information and Communication, Huazhong University of Science and Technology, Wuhan, China, under the supervision of professor [**Xinge You**](http://ei.hust.edu.cn/professor/youxinge/).
 * 2024.09-2024.11, Intern in Algorithm, Didi Map Department, Beijing, China, under the supervision of department head Lei Liu;
 * 2024.06-2024.08, Intern in Research, National Qiyuan Lab, Beijing, China, under the supervision of researcher Wang Lu, Zhigang Li and department head [**Xiangyang Ji**](https://www.au.tsinghua.edu.cn/info/1111/1524.htm);
 * 2022.05-2024.05, Intern in Algorithm Engineer, JD Retail Platform Operation and Marketing Center, Beijing, China, under the supervision of algorithm scientist Baokun Du and department head Yang He;
