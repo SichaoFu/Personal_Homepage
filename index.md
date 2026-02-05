@@ -270,11 +270,9 @@ Neural Network // 一种基于p-Laplacian图卷积神经网络的半监督分类
 
 ## Honors and Awards
 
-### Doctor (2020.09-Now)
+### Doctor (2020.09-2025.03)
 1. ACM Multimedia Outstanding Paper, 2025 // [URL](https://acmmm2025.org/awards/)
 1. 《西安邮电大学学报》青年编委, 2025 // [URL](https://xayd.cbpt.cnki.net/portal/journal/portal/client/news/89e54dd1779bea5e221c66ad21051a26)
-
-
 
 1. China International College Students Innovation Competition (Hubei Province) Gold Prize // 中国国际大学生创新大赛全国铜奖、湖北省金奖, 2024 // [URL](https://cy.ncss.cn/information/2c93f4c691983c5b0194264b1880207b) // [URL1](http://news.hust.edu.cn/info/1002/53075.htm)
    * 多国货币防伪特征多光谱成像设备及智能鉴伪系统
