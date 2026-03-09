@@ -66,7 +66,7 @@
 
 ### Journals
 
-1. **Sichao Fu**, Yanping Chen, Songren Peng, Weihua Ou, Liangshuo Ning, Bin Zou, Qinmu Peng, Xiao-Yuan Jing and Xinge You. Domain-adaptive Fuzzy Graph Diffusion Networks for Open-set Cross-domain Node Classification. **IEEE Transactions on Fuzzy Systems**, in press, 2026. // [URL]()
+1. **Sichao Fu**, Yanping Chen, Songren Peng, Weihua Ou, Liangshuo Ning, Bin Zou, Qinmu Peng, Xiao-Yuan Jing and Xinge You. Domain-adaptive Fuzzy Graph Diffusion Networks for Open-set Cross-domain Node Classification. **IEEE Transactions on Fuzzy Systems**, in press, 2026. // [URL](https://doi.org/10.1109/TFUZZ.2026.3672964)
 1. **Sichao Fu**, Songren Peng, Bin Zou, Xiao-Yuan Jing, Wei Yu, Qinmu Peng and Xinge You, Unsupervised Multimodal Graph Completion Networks with Multi-level Contrastiveness for Modality-missing Conversation Understanding, **Information Fusion**, vol. 131, 2026. // [URL](https://doi.org/10.1016/j.inffus.2026.104197)
 1. **Sichao Fu**, Qinmu Peng, Weihua Ou, Bin Zou, Xiao-Yuan Jing and Xinge You, Robust Training of Open-set Graph Neural Networks on Graphs with In-distribution and Out-of-distribution Noise, **Science China Technological Sciences**, vol. 69, no. 3, pp. 1320404, 2026. // [URL](http://engine.scichina.com/doi/10.1007/s11431-025-3144-0)
 1. Chengxiang Lei (Co-supervised Student), **Sichao Fu** (Co-first Author), Qinmu Peng, Yiyang Zhang, Bin Zou, Xiao-Yuan Jing and Xinge You. Training Robust Graph Completion Networks with Extremely Weak Supervision on Graphs with Incomplete Features and Structure. **IEEE/CAA Journal of Automatica Sinica**, in press, 2026. // [URL](https://doi.org/10.1109/JAS.2025.125906)
